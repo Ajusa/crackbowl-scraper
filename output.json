@@ -18,9 +18,7 @@
 			"Norse",
 			"mythology",
 			"Scandinavian",
-			"mythology",
-			"Icelandic",
-			"mythology"
+			"Icelandic"
 		]
 	},
 	{
@@ -31,8 +29,7 @@
 			"Dionysus",
 			"Dionysius",
 			"Bacchus",
-			"Liber",
-			"mentioned"
+			"Liber"
 		]
 	},
 	{
@@ -116,7 +113,6 @@
 			"hells",
 			"realms",
 			"dead",
-			"realms",
 			"read"
 		]
 	},
@@ -154,7 +150,6 @@
 			"Sol",
 			"solar",
 			"barque",
-			"solar",
 			"barge"
 		]
 	},
@@ -203,9 +198,7 @@
 		"answers": [
 			"judges",
 			"dead",
-			"judges",
 			"underworld",
-			"judges",
 			"in",
 			"Hades"
 		]
@@ -213,7 +206,8 @@
 	{
 		"answerText": "Titans [do not accept or prompt on \"giant(s)\"]",
 		"prompts": [
-			"giants"
+			"giant",
+			"s"
 		],
 		"question": "Question: In the Dionysiaca, members of this group smear their faces with chalk and devour Zagreus whole. In the Orphic cosmogony, humanity was created from the dust of this group after they were killed by lightning. As a reward for being the first to swear opposition to this group, oaths made on the river Styx became unbreakable. Mount Othrys served as the base for this group, which lost a ten-year war fought in Thessaly after which the (*) Hecatoncheires were assigned to guard them. Their numbers included Crius, Coeus, and Iapetus, the last of whom was the father of Atlas and Prometheus. The leader of this group ruled over the Golden Age and castrated his father Uranus with his sickle. Cronus and Rhea led--for 10 points--what group of giant deities who waged war against Zeus?",
 		"answers": [
@@ -328,8 +322,7 @@
 			"a",
 			"tree",
 			"trees",
-			"species",
-			"tree"
+			"species"
 		]
 	},
 	{
@@ -359,8 +352,7 @@
 		"answers": [
 			"Athena",
 			"given",
-			"name",
-			"mention"
+			"name"
 		]
 	},
 	{
@@ -380,12 +372,9 @@
 			"becoming",
 			"immortal",
 			"men",
-			"becoming",
 			"gods",
 			"deification",
-			"becoming",
-			"invulnerable",
-			"synonyms"
+			"invulnerable"
 		]
 	},
 	{
@@ -413,8 +402,7 @@
 			"the",
 			"Greek",
 			"underworld",
-			"Hades",
-			"mention"
+			"Hades"
 		]
 	},
 	{
@@ -529,7 +517,6 @@
 			"giants",
 			"thurs",
 			"frost",
-			"giants",
 			"hrimthurs",
 			"Surtr",
 			"jötunn",
@@ -543,8 +530,7 @@
 		"question": "Question: Völsung was conceived after Frigg gave one of these objects to his father Rerir. Skírnir presents Draupnir and these objects to Gerðr on behalf of Freyr to ask for her hand in marriage. Thjazi stole these objects along with Idunn with the help of Loki. Aphrodite gave three of these to Hippomenes, while Heracles was told to retrieve these in his Eleventh Labor from the Garden of the Hesperides. Eris threw one of these objects into the wedding of Peleus and Thetis, with a label indicating that it was \"for the fairest.\" For 10 points, name these fruits, golden ones of which distracted Atalanta during a race and which Paris awarded to Aphrodite.",
 		"answers": [
 			"apples",
-			"golden",
-			"apples"
+			"golden"
 		]
 	},
 	{
@@ -592,20 +578,16 @@
 		"answers": [
 			"creation",
 			"world",
-			"creation",
 			"earth",
 			"formation",
-			"earth",
 			"separation",
-			"earth",
 			"and",
 			"sky",
 			"flood",
 			"read",
 			"indicating",
 			"population",
-			"design",
-			"world"
+			"design"
 		]
 	},
 	{
@@ -630,7 +612,6 @@
 			"cows",
 			"heifers",
 			"bovines",
-			"cattle",
 			"oxen",
 			"bulls"
 		]
@@ -695,8 +676,7 @@
 	{
 		"answerText": "Krishna [or Krsna; prompt on \"Vishnu\" until mentioned]",
 		"prompts": [
-			"Vishnu",
-			"mentioned"
+			"Vishnu"
 		],
 		"question": "Question: This god is often shown wearing a hat with a peacock feather in it. In one text, this god likens three temperaments called gunas to fruit. This god was threatened by the poison breastmilk of the demoness Putana. Bhaktivedanta Swami Prabhupada founded a society devoted to this god, who met Radha, befriended cowherd girls, and stole butter during his childhood. This god said \"Now I am become death, destroyer of worlds\" and revealed his full glory after asking Arjuna to keep fighting in his role as a charioteer. For 10 points, name this god who speaks in the Bhagavad Gita, the eighth avatar of Vishnu, who is addressed at the start of a great mantra after the word \"Hare\" (\"HAH-rey\").",
 		"answers": [
@@ -748,11 +728,8 @@
 			"close",
 			"in",
 			"place",
-			"love",
 			"goddesses",
 			"deities",
-			"in",
-			"place",
 			"gods"
 		]
 	},
@@ -763,7 +740,6 @@
 		"answers": [
 			"bears",
 			"polar",
-			"bears",
 			"during",
 			"first",
 			"sentence",
@@ -1084,7 +1060,6 @@
 		"question": "Question: This god's head and genitals were depicted on his eponymous quadrangular pillars, which were used as boundary markers, and placed outside gymnasia and houses. Worshipped as an Arcadian fertility god, he was born on Mount Cyllene to the eldest of the Pleiades and crafted a tortoiseshell into a lyre after stealing Apollo's cattle. An epithet of this son of Maia refers to how he lulled to sleep and slew the giant Argos. This psychopomp told Calypso to set his great-grandson Odysseus free, and gave Odysseus moly to resist Circe. His symbols include winged sandals, winged cap, and caduceus. For 10 points, name this Greek god of travelers and thieves, the herald of the gods. ",
 		"answers": [
 			"Hermes",
-			"Hermes",
 			"Argeiphontes"
 		]
 	},
@@ -1153,8 +1128,7 @@
 		"answers": [
 			"Heimdallr",
 			"Heimdali",
-			"Gullintani",
-			"mentioned"
+			"Gullintani"
 		]
 	},
 	{
@@ -1163,8 +1137,7 @@
 		"question": "Question: Hljod (\"HYOD\") brought one of these things to make Völsung's conception possible. Gaia's wedding gift for Zeus and Hera was an item that created these objects found on Avalon. Idunn, a goddess of these, was turned into a nut to be carried back to Asgard. Hippomenes won a footrace after Atalanta kept getting distracted by these items. Atlas retrieved these items from the Hesperides for Heracles. American folklore celebrates Johnny Chapman, who created orchards of their trees. Hera, Athena, and Aphrodite fought over one labelled \"for the fairest\". For 10 points, name these fruits, one of which Eris threw to start the Trojan War. ",
 		"answers": [
 			"apples",
-			"golden",
-			"apples"
+			"golden"
 		]
 	},
 	{
@@ -1223,7 +1196,6 @@
 			"mac",
 			"Cumhaill",
 			"Deimne",
-			"Finn",
 			"MacCooill"
 		]
 	},
@@ -1324,9 +1296,7 @@
 			"Old",
 			"Kingdom",
 			"Middle",
-			"Kingdom",
-			"New",
-			"Kingdom"
+			"New"
 		]
 	},
 	{
@@ -1356,11 +1326,8 @@
 			"frost",
 			"giant",
 			"fire",
-			"giant",
 			"rock",
-			"giant",
-			"jotunn",
-			"mentioned"
+			"jotunn"
 		]
 	},
 	{
@@ -1399,7 +1366,6 @@
 			"however",
 			"at",
 			"point",
-			"in",
 			"this",
 			"tossup",
 			"you",
@@ -1438,8 +1404,7 @@
 			"that",
 			"Remus",
 			"Lupin",
-			"turns",
-			"into"
+			"turns"
 		]
 	},
 	{
@@ -1467,17 +1432,13 @@
 			"going",
 			"into",
 			"Underworld",
-			"going",
-			"into",
 			"Hades",
 			"same-knowledge",
 			"equivalents",
 			"such",
 			"as",
 			"leaving",
-			"Underworld",
-			"entering",
-			"Underworld"
+			"entering"
 		]
 	},
 	{
@@ -1498,8 +1459,7 @@
 		"answers": [
 			"decapitation",
 			"beheading",
-			"similar",
-			"answers"
+			"similar"
 		]
 	},
 	{
@@ -1517,7 +1477,6 @@
 		"answers": [
 			"Sir",
 			"Lancelot",
-			"Sir",
 			"Launcelot"
 		]
 	},
@@ -1528,16 +1487,12 @@
 		"answers": [
 			"bringing",
 			"rain",
-			"bringing",
 			"storms",
-			"bringing",
 			"lightning",
 			"thunder",
-			"bringing",
 			"flood",
 			"ending",
 			"drought",
-			"rain",
 			"dancing",
 			"same-knowledge",
 			"equivalents"
@@ -1581,8 +1536,7 @@
 		"question": "Question: One account of this deity's birth refers to him by the name Zagreus and describes his body being torn to shreds by the Titans. This god convinced Hephaestus to ascend to Mt. Olympus, and he himself replaced Hestia among the Twelve Olympians. In exchange for helping his satyr friend Silenus, this god awarded (*) Midas a single wish. After she was left behind on Naxos by Theseus, this god rescued Ariadne. Zeus saved this god by sewing him into his thigh after his mother Semele was burnt to ashes by seeing Zeus in his full glory. His frenzied female followers are known as Maenads. Also known as Bacchus, for 10 points, name this Greek god of wine.",
 		"answers": [
 			"Dionysus",
-			"Bacchus",
-			"mentioned"
+			"Bacchus"
 		]
 	},
 	{
@@ -1608,8 +1562,7 @@
 		"answers": [
 			"Athena",
 			"given",
-			"name",
-			"mention"
+			"name"
 		]
 	},
 	{
@@ -1702,8 +1655,7 @@
 	{
 		"answerText": "Thebes (prompt on \"Boeotia\" before mentioned)",
 		"prompts": [
-			"Boeotia",
-			"mentioned"
+			"Boeotia"
 		],
 		"question": "Question: A prophecy declared that this city would be safe if the king's son Menoeceus sacrificed himself. The walls of this city were built by a man who used a lyre to lift rocks, Amphion, and his brother Zethus. Adrastus was the leader of a group that attacked the gates of this city, and though they were defeated, the Epigoni's sack of it caused the death of a blind prophet who spent seven years as a woman. A king of this city was killed by the father of (*) Eteocles and Polynices; the son of that king, Laius, married his mother Jocasta. For ten points, name this Boeotian city founded by Cadmus that was home to Tiresias and Oedipus.",
 		"answers": [
@@ -1811,7 +1763,6 @@
 			"Pallas",
 			"Athena",
 			"Athene",
-			"Athena",
 			"Parthenos"
 		]
 	},
@@ -1823,7 +1774,6 @@
 			"Pallas",
 			"Athena",
 			"Athene",
-			"Athena",
 			"Parthenos"
 		]
 	},
@@ -1835,8 +1785,7 @@
 			"Horus",
 			"Neferhor",
 			"Harsiesis",
-			"Harpokrates",
-			"mention"
+			"Harpokrates"
 		]
 	},
 	{
@@ -1878,7 +1827,6 @@
 			"more",
 			"specific",
 			"types",
-			"trees",
 			"Yggdrasil"
 		]
 	},
@@ -1912,7 +1860,6 @@
 			"Aztec",
 			"mythology",
 			"Aztecs",
-			"Aztec",
 			"civilization/people"
 		]
 	},
@@ -2025,8 +1972,7 @@
 		"question": "Question: One myth featuring this figure describes his promise to the shepherd Prosymnus, who died before this figure could consummate a relationship with him, and following his birth he was raised on Mount Nysa. This figure also supposedly married Ariadne after Theseus had abandoned her, and he fathered Priapus with the goddess Aphrodite. After being kidnapped, he turned a number of pirates into dolphins, and he caused Pentheus to be brutally dismembered by a crowd of madwomen known as the Maenads. For 10 points, name this Greek god of wine, who was known to the Romans as Bacchus.",
 		"answers": [
 			"Dionysus",
-			"Bacchus",
-			"mention"
+			"Bacchus"
 		]
 	},
 	{
@@ -2277,12 +2223,9 @@
 			"Olympus",
 			"throne",
 			"Zeus",
-			"throne",
 			"read",
-			"Zeus",
 			"this",
-			"location",
-			"read"
+			"location"
 		]
 	},
 	{
@@ -2309,7 +2252,6 @@
 			"god",
 			"Ra",
 			"cattle",
-			"Ra",
 			"domain",
 			"read"
 		]
@@ -2447,8 +2389,7 @@
 		"question": "Question: In Cornish folklore these creatures include Cormoran and Gogmagog, who died in early Britain. Two of these creatures floated in a hollow tree trunk to survive a flood of blood in Norse myth. Artemis killed twin beings of this type who attempted to climb a stack of mountains to Olympus. Angrboda was a female one who bore Fenrir. The cow-fed Ymir is a primal one of these creatures, and Jotunheim is home to the \"frost\" type which antagonizes the Norse gods. For 10 points, name these beings which, in a folktale, live above the magic beanstalk planted by Jack.",
 		"answers": [
 			"giants",
-			"frost",
-			"giants"
+			"frost"
 		]
 	},
 	{
@@ -2556,7 +2497,7 @@
 		"answers": [
 			"Excalibur",
 			"Accept",
-			"Caliburn."
+			"Caliburn"
 		]
 	},
 	{
@@ -2566,7 +2507,7 @@
 		"answers": [
 			"Osiris",
 			"Accept",
-			"Usiris."
+			"Usiris"
 		]
 	},
 	{
@@ -2586,7 +2527,7 @@
 			"Japan",
 			"Accept",
 			"Nippon-koku",
-			"Nihon-koku."
+			"Nihon-koku"
 		]
 	},
 	{
@@ -2601,7 +2542,7 @@
 		"answerText": "harps or lyres [Accept kantele before it is read. Prompt on \"musical instruments.\"]",
 		"prompts": [
 			"musical",
-			"instruments."
+			"instruments"
 		],
 		"question": "Question: In Norse myth, one of these objects was used by Gunther to ward off snakes in his dungeon, and the giant Eggther sits on a hill with one of these objects while watching Ragnarok unfold. One of these objects named Uaithne was used by the Dagda to keep the four seasons in order, while the jawbone of a large pike was used by Vainamoinen to create the first kantele, a Finnish variant of these objects. The first of these objects was created from a turtle shell by Hermes, after which he gave it to Apollo to appease his anger over the theft of his cattle. For 10 points, name these objects often used by Orpheus, musical instruments consisting of an array of framed strings.",
 		"answers": [
@@ -2609,7 +2550,7 @@
 			"lyres",
 			"Accept",
 			"kantele",
-			"read."
+			"read"
 		]
 	},
 	{
@@ -2647,11 +2588,9 @@
 			"dead",
 			"and",
 			"equivalents",
-			"dead",
-			"souls.",
-			"Accept",
+			"souls",
 			"Mictlan",
-			"Mictlantecuhtli."
+			"Mictlantecuhtli"
 		]
 	},
 	{
@@ -2703,8 +2642,7 @@
 	{
 		"answerText": "Thebes (prompt on \"Boeotia\" before mentioned)",
 		"prompts": [
-			"Boeotia",
-			"mentioned"
+			"Boeotia"
 		],
 		"question": "Question: A prophecy declared that this city would be safe if the king's son Menoeceus sacrificed himself. The walls of this city were built by a man who used a lyre to lift rocks, Amphion, and his brother Zethus. Adrastus was the leader of a group that attacked the gates of this city, and though they were defeated, the Epigoni's sack of it caused the death of a blind prophet who spent seven years as a woman. A king of this city was killed by the father of (*) Eteocles and Polynices; the son of that king, Laius, married his mother Jocasta. For ten points, name this Boeotian city founded by Cadmus that was home to Tiresias and Oedipus.",
 		"answers": [
@@ -3018,8 +2956,7 @@
 		"answers": [
 			"Heimdall",
 			"Bragi",
-			"he",
-			"mentioned"
+			"he"
 		]
 	},
 	{
@@ -3038,15 +2975,8 @@
 		"answers": [
 			"great",
 			"flood",
-			"great",
-			"deluge",
-			"flood",
-			"myths",
 			"deluge",
 			"myths",
-			"flood",
-			"narratives",
-			"deluge",
 			"narratives"
 		]
 	},
@@ -3076,7 +3006,6 @@
 			"val-keer-yur",
 			"die",
 			"Walküre",
-			"die",
 			"Walküren"
 		]
 	},
@@ -3108,13 +3037,11 @@
 			"Greek",
 			"underworld",
 			"Greco-Roman",
-			"underworld",
 			"that",
 			"term",
 			"read",
 			"Tartarus",
-			"Aeneas",
-			"read"
+			"Aeneas"
 		]
 	},
 	{
@@ -3158,8 +3085,7 @@
 		"question": "Question: A book of spells named for this deity was supposedly buried in the tomb of Prince Neferkaptah. The creator of the Ogdoad cosmology, his consort, depicted in a leopard skin, was named Seshat, and the Greeks fused him with Hermes, making his cult center Hermopolis. Originally a lunar deity, he gave Isis the magic word needed to revive Osiris and he arbitrated between Horus and Set. This god also protected Ra from the serpent Apep and weighed the hearts of the dead against the feather of Ma'at. Responsible for astronomy and math, he was occasionally portrayed as a baboon. For 10 points, name this Egyptian god of wisdom, usually depicted with the head of an ibis.",
 		"answers": [
 			"Thoth",
-			"Djehuty",
-			"either"
+			"Djehuty"
 		]
 	},
 	{
@@ -3511,8 +3437,7 @@
 		"answers": [
 			"Chinese",
 			"mythology",
-			"Daoist",
-			"mythology"
+			"Daoist"
 		]
 	},
 	{
@@ -3991,7 +3916,9 @@
 			"read"
 		],
 		"question": "Question: This god killed his evil wetnurse Putana by removing her internal organs, after being saved from his uncle Kamsa by a switch of wombs with Deva. The deadly Juggernaut was said to contain the bones of this god, who came between Rama and Buddha as the eighth avatar of Vishnu. In that role, he lectures Arjuna (ARJ-oo-nuh) on the justice of war, in a speech which comprises the Bhagavad-Gita. For 10 points, identify this Hindu god with dark blue skin, the subject of such devotional movements as the evangelizing, orange-robed \"Hare\" (HA-ray).",
-		"answers": []
+		"answers": [
+			"Krishna"
+		]
 	},
 	{
 		"answerText": "eagles",
@@ -4007,8 +3934,7 @@
 		"question": "Question: This god owned the Stymphallian Birds and had his son Cycnus killed by Heracles. Heracles managed to injure this god with an arrow in the thigh, and he was held captive in a jar by the Aloadae. This god was caught in a sturdy but invisible net after his affair with Aprhodite was uncovered by Hephaestus. This son of Zeus rode into battle with his sons Phobos and Deimos. For 10 points, name this analogue of Mars, the Greekgod of warfare.",
 		"answers": [
 			"Ares",
-			"Mars",
-			"mentioned"
+			"Mars"
 		]
 	},
 	{
@@ -4018,8 +3944,7 @@
 		"answers": [
 			"Hades",
 			"Greek",
-			"underworld",
-			"mentioned"
+			"underworld"
 		]
 	},
 	{
@@ -4055,8 +3980,7 @@
 		"question": "Question: This deity transformed Medusa's hair into serpents, and the head of Medusa was placed on this goddess's shield, the aegis. In many stories, this goddess accidentally killed a childhood friend named Pallas before taking her name. The Parthenon was dedicated to this grey-eyed goddess, who served as a guide to Odysseus. She was the daughter of Metis although was born fully armed from the head of her father Zeus. For 10 points, name this analogue of Minerva, the Greek goddess of wisdom and war.",
 		"answers": [
 			"Athena",
-			"Minerva",
-			"mentioned"
+			"Minerva"
 		]
 	},
 	{
@@ -4189,8 +4113,7 @@
 		"question": "Question: The wandering of this deity leading to the creation of classes of mankind is detailed in the Rigsthula. Another name for this figure, Gullintanni, comes from this deity's golden teeth. This god was said to have senses so acute he could hear the sound of grass growing. This god fulfills his primary duty in defending Asgard by blowing his Gjallarhorn. For 10 points, name this Norse deity that kills and is killed by Loki at Ragnarok, and keeps watch over the rainbow bridge Bifrost (BUY-frost) as he waits for that day to come.",
 		"answers": [
 			"Heimdall",
-			"Gullintanni",
-			"mentioned"
+			"Gullintanni"
 		]
 	},
 	{
@@ -4203,7 +4126,6 @@
 			"the",
 			"underworld",
 			"gods",
-			"underworld",
 			"equivalents",
 			"such",
 			"as",
@@ -4422,8 +4344,7 @@
 		"answers": [
 			"Cu",
 			"Chulainn",
-			"Setanta",
-			"mention"
+			"Setanta"
 		]
 	},
 	{
@@ -4522,12 +4443,10 @@
 		"answers": [
 			"sun",
 			"deities",
-			"sun",
 			"gods",
 			"and/or",
 			"goddesses",
 			"solar",
-			"deities",
 			"clear",
 			"equivalents"
 		]
@@ -4570,8 +4489,7 @@
 			"deities",
 			"gods",
 			"and/or",
-			"goddesses",
-			"war"
+			"goddesses"
 		]
 	},
 	{
@@ -4606,8 +4524,7 @@
 		"question": "Question: This entity is said to end in Himinbjorg, and it is also called Asbru and in Gylfaginning, High notes that this entity is not used by Thor, who instead uses Kormt and Ormt. This entity parallels another called Gjallarbru, and according to Grimnismal, this entity is always on fire. Some accounts believe it to be the [*] Milky Way, and it consists of only three colors. When the sons of Muspell ride over this structure, it will break and the Gjallarhorn will be blown by its guardian, who can hear grass growing on the other side of the world. For 10 points, name this rainbow bridge of Norse mythology, guarded by Heimdall.",
 		"answers": [
 			"Bifrost",
-			"Asbru",
-			"mentioned"
+			"Asbru"
 		]
 	},
 	{
@@ -4720,8 +4637,7 @@
 			"Labors",
 			"Hercules",
 			"Heracles",
-			"for",
-			"Hercules"
+			"for"
 		]
 	},
 	{
@@ -4738,9 +4654,7 @@
 			"Knights",
 			"Round",
 			"Table",
-			"Knights",
 			"Camelot",
-			"Knights",
 			"King",
 			"Arthur",
 			"those",
@@ -4993,7 +4907,6 @@
 			"gods",
 			"forge",
 			"blacksmith",
-			"gods",
 			"reasonable",
 			"equivalents",
 			"IE"
@@ -5026,14 +4939,14 @@
 		"prompts": [],
 		"question": "Question: One of these from Magyar myth received sacrifices of white stallions; in addition to Hadur, another of these had jumping priests known as Salii, and in Irish mythology, a tripartite crow flying above this is known as the Morrigan. It's not the sun, but the [*] Aztec one of these was fathered by a ball of feathers and was notably left-handed. The Egyptian one, Sekhmet, is depicted as a lioness, and in Greek mythology, the god of this type was imprisoned for a year in a bronze urn, and had the children Phobos and Deimos. For 10 points, name this type of deity, examples of which include Huitzilopochtli and Ares.",
 		"answers": [
-			"gods",
+			"god",
+			"s",
 			"war",
 			"logical",
 			"equivalents",
 			"forge",
 			"gods",
 			"other",
-			"equivalents",
 			"words",
 			"jumping",
 			"priests",
@@ -5042,8 +4955,6 @@
 			"since",
 			"Hadur",
 			"also",
-			"forge",
-			"god",
 			"but"
 		]
 	},
@@ -5467,7 +5378,6 @@
 			"combination",
 			"following:",
 			"Amun",
-			"Ra",
 			"Re",
 			"Atun",
 			"Aten"
@@ -5851,8 +5761,7 @@
 			"correct",
 			"epithets",
 			"given",
-			"with",
-			"Athena"
+			"with"
 		]
 	},
 	{
@@ -5887,8 +5796,7 @@
 		"question": "Question: Because of Zephyr, this god accidentally killed Hyacinthus during a discus throwing contest, and he also flayed the satyr Marsyas after a competition. His child with Coronis grew to become a skilled healer, and he fathered Ion in addition to Asclepius. This god of poetry and music pursued the nymph Daphne, who changed into a laurel tree. This god also slew the Python and established an oracle at Delphi. For 10 points name this son of Leto, the Greek god of prophecy and light.",
 		"answers": [
 			"Phoebus",
-			"Apollo",
-			"either"
+			"Apollo"
 		]
 	},
 	{
@@ -6171,7 +6079,6 @@
 			"the",
 			"flood",
 			"for",
-			"flood",
 			"such",
 			"as",
 			"deluge"
@@ -6256,8 +6163,7 @@
 			"The",
 			"Green",
 			"Knight",
-			"Bertilak",
-			"mentioned"
+			"Bertilak"
 		]
 	},
 	{
@@ -6285,8 +6191,7 @@
 		"answers": [
 			"Japanese",
 			"mythology",
-			"Shinto",
-			"mythology"
+			"Shinto"
 		]
 	},
 	{
@@ -6313,10 +6218,8 @@
 			"Norse",
 			"mythology",
 			"Scandinavian",
-			"mythology",
 			"North",
-			"Germanic",
-			"mythology"
+			"Germanic"
 		]
 	},
 	{
@@ -6536,7 +6439,6 @@
 			"Pallas",
 			"Athena",
 			"Athene",
-			"Pallas",
 			"Minerva",
 			"read"
 		]
@@ -6678,7 +6580,6 @@
 			"after",
 			"for",
 			"10",
-			"points",
 			"has",
 			"been",
 			"read",
@@ -6771,7 +6672,6 @@
 			"Asar",
 			"Aser",
 			"Ausar",
-			"Ausar",
 			"Wesir",
 			"Usir",
 			"Usire",
@@ -6787,8 +6687,7 @@
 			"crows",
 			"corvids",
 			"prior",
-			"to",
-			"mention"
+			"to"
 		]
 	},
 	{
@@ -6866,7 +6765,6 @@
 		"answers": [
 			"great",
 			"floods",
-			"great",
 			"deluges"
 		]
 	},
@@ -6985,9 +6883,7 @@
 		"answers": [
 			"Pallas",
 			"Athena",
-			"Pallas",
 			"Athene",
-			"Athena",
 			"Parthenos"
 		]
 	},
@@ -7179,8 +7075,7 @@
 			"MacCool",
 			"Fionn",
 			"MacCumhail",
-			"Demne",
-			"mentioned"
+			"Demne"
 		]
 	},
 	{
@@ -7213,7 +7108,6 @@
 		"answers": [
 			"love",
 			"gods",
-			"love",
 			"equivalents"
 		]
 	},
@@ -7853,7 +7747,6 @@
 			"forge",
 			"gods",
 			"blacksmith",
-			"gods",
 			"clear-knowledge",
 			"equivalents"
 		]
@@ -8038,9 +7931,7 @@
 			"gods",
 			"war",
 			"goddesses",
-			"war",
 			"Polynesian",
-			"gods",
 			"equivalents",
 			"peacock"
 		]
@@ -8353,7 +8244,6 @@
 			"divine",
 			"smiths",
 			"copper",
-			"smithery",
 			"Norse"
 		]
 	},
@@ -8539,12 +8429,10 @@
 			"Japanese",
 			"spirits",
 			"Shinto",
-			"spirits",
 			"anything",
 			"that",
 			"they",
-			"are",
-			"mentioned"
+			"are"
 		]
 	},
 	{

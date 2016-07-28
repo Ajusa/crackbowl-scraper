@@ -1,8 +1,8 @@
 var cheerio = require('cheerio');
 var fs = require('fs');
 var obj = [];
-var words = ["is", "either", "before", "or", "accept", "like", "answers", "[", "]", "on", "until", "it", "mentioned", "synonyms", "the", "do", "any", "kind", "of", "mention", "a"];
-var chars = ["[", "]", ",", "(", ")", ";", '"'];
+var words = ["mention", "is", "either", "before", "or", "accept", "like", "answers", "[", "]", "on", "until", "it", "mentioned", "synonyms", "the", "do", "any", "kind", "of", "mention", "a"];
+var chars = [".", "[", "]", ",", "(", ")", ";", '"'];
 fs.readFile('source.html', 'utf8', function(err, contents) {
     $ = cheerio.load(contents);
     $('div.col-md-12').each(function(i, elem) {
@@ -20,7 +20,7 @@ fs.readFile('source.html', 'utf8', function(err, contents) {
                 newanswer = answer;
                 do {
                     answer = newanswer;
-                    newanswer = answer.replace(chars[i], "");
+                    newanswer = answer.replace(chars[i], " ");
                 }
                 while (newanswer != answer);
             }
@@ -38,8 +38,8 @@ fs.readFile('source.html', 'utf8', function(err, contents) {
                 if (arr[i].search(/prompt/i) == -1) {
 
                 } else {
-                		finalObj.prompts = arr.slice(i+1, arr.length+1);
-                    	arr.splice(i, arr.length)
+                    finalObj.prompts = arr.slice(i + 1, arr.length + 1);
+                    arr.splice(i, arr.length)
                 }
 
             }
@@ -49,9 +49,11 @@ fs.readFile('source.html', 'utf8', function(err, contents) {
                 } else {
                     arr.splice(i, arr.length)
                 }
-
             }
             finalObj.question = raw.split("ANSWER:")[0];
+            arr = arr.filter(function(value, index, array) {
+                return array.indexOf(value) == index;
+            });
             finalObj.answers = arr;
             obj.push(finalObj)
         }
