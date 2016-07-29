@@ -3,10 +3,13 @@ var fs = require('fs');
 var obj = [];
 var words = ["mention", "is", "either", "before", "or", "accept", "like", "answers", "[", "]", "on", "until", "it", "mentioned", "synonyms", "the", "do", "any", "kind", "of", "mention", "a"];
 var chars = [".", "[", "]", ",", "(", ")", ";", '"'];
+var heading;
 fs.readFile('source.html', 'utf8', function(err, contents) {
     $ = cheerio.load(contents);
     $('div.col-md-12').each(function(i, elem) {
         var raw = $(this).find('p').next().text();
+        heading = $(this).find('p').find('b').text();
+        heading = heading.slice(heading.indexOf("|")+2,heading.length);
         if (raw.indexOf("ANSWER:") == -1) {} else {
             var arr = [];
 
@@ -15,6 +18,7 @@ fs.readFile('source.html', 'utf8', function(err, contents) {
             var finalObj = {
                 answerText: answer,
                 prompts: [],
+                heading: heading,
             }
             for (var i = chars.length - 1; i >= 0; i--) {
                 newanswer = answer;
