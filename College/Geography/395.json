@@ -1,0 +1,25 @@
+{
+	"answerText": "Austin[10] This city is named for Texas' first public university, now called Texas A&M University.",
+	"prompts": [],
+	"heading": "Collegiate Novice |2012 | 7 | 5 | Geography | None | College",
+	"subject": "Geography",
+	"level": "College",
+	"question": "Question: Name these Texas university towns,  [10] The University of Texas's flagship campus is located in this capital city. ",
+	"answers": [
+		"Austin",
+		"10",
+		"This",
+		"city",
+		"named",
+		"for",
+		"Texas'",
+		"first",
+		"public",
+		"university",
+		"now",
+		"called",
+		"Texas",
+		"A&M",
+		"University"
+	]
+}

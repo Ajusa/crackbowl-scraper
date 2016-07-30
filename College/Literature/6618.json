@@ -1,0 +1,32 @@
+{
+	"answerText": "\"To a Louse\" [do not accept or prompt on \"To a Mouse\"][10] \"To a Louse\" was written by this Scottish bard of \"Tam o' Shanter\" and the song \"Auld Lang Syne.\"",
+	"prompts": [
+		"To",
+		"Mouse",
+		"10",
+		"To",
+		"Louse",
+		"was",
+		"written",
+		"by",
+		"this",
+		"Scottish",
+		"bard",
+		"Tam",
+		"o'",
+		"Shanter",
+		"and",
+		"song",
+		"Auld",
+		"Lang",
+		"Syne"
+	],
+	"heading": "NASAT |2013 | 10 | 15 | Literature | British | College",
+	"subject": "Literature",
+	"level": "College",
+	"question": "Question: The speaker of this poem wishes that \"some Pow'r\" would grant the gift \"to see oursels as others see us\" after contemplating how the title \"creepin, blastit wonner\" has latched onto a lady's bonnet. For 10 points each: [10] Name this poem.",
+	"answers": [
+		"To",
+		"Louse"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"answerText": "Petrarchan Sonnet [or Italian Sonnet; prompt on \"sonnet\"; do NOT accept or prompt on \"Shakespearean sonnet\" or \"English sonnet\"] [10] The Petrarchan Sonnet was introduced into English by translations by Henry Howard, Earl of Surrey and this other Renaissance poet, who allegorized Anne Boleyn as a hind in \"Whoso list to hunt\".",
+	"prompts": [
+		"sonnet",
+		"NOT"
+	],
+	"heading": "ACF Regionals |2013 | Editors 2 | 7 | Literature | European | College",
+	"subject": "Literature",
+	"level": "College",
+	"question": "Question: The first two quatrains in this form are usually rhymed a-b-b-a. For 10 points each:  [10] Name this 14-line form, which is broken into an octave and a sestet. ",
+	"answers": [
+		"Petrarchan",
+		"Sonnet",
+		"Italian"
+	]
+}

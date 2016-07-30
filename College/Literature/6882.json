@@ -1,0 +1,13 @@
+{
+	"answerText": "waka [antiprompt on choka; antiprompt on tanka][10] This Japanese poetic form was given its current name by Masaoka Shiki. Matsuo Basho, the master of this 5-7-5 syllable form, penned the famous one about a frog leaping into an old pond.",
+	"prompts": [
+		"choka"
+	],
+	"heading": "ACF Regionals  |2012 | Harvard  | 6 | Literature | World | College",
+	"subject": "Literature",
+	"level": "College",
+	"question": "Question: Answer the following about Japanese poetry, for 10 points each. [10] This term is used to denote Japanese poetry written in the vernacular language rather than in classical Chinese. During the Heian and Bakufu periods, it was most frequently composed by women.",
+	"answers": [
+		"waka"
+	]
+}

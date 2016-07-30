@@ -1,0 +1,43 @@
+{
+	"answerText": "war [prompt on general answers, such as \"conflict\"][10] This Dutch theologian and jurist attempted to ground principles of just war in natural law. His book On the Law of War and Peace is considered a foundational text on international law.",
+	"prompts": [
+		"general",
+		"such",
+		"as",
+		"conflict",
+		"10",
+		"This",
+		"Dutch",
+		"theologian",
+		"and",
+		"jurist",
+		"attempted",
+		"to",
+		"ground",
+		"principles",
+		"just",
+		"war",
+		"in",
+		"natural",
+		"law",
+		"His",
+		"book",
+		"On",
+		"Law",
+		"War",
+		"and",
+		"Peace",
+		"considered",
+		"foundational",
+		"text",
+		"international",
+		"law"
+	],
+	"heading": "Padawan |2014 | 3 | 8 | Philosophy | None | College",
+	"subject": "Philosophy",
+	"level": "College",
+	"question": "Question: Discourse about whether and how the conduct of this thing can be \"just\" originated with Saint Augustine. For 10 points each: [10] Name this thing that is the subject of a treatise by Karl von Clausewitz, which examines the strategies and tactics of Napoleon.",
+	"answers": [
+		"war"
+	]
+}

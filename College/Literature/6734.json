@@ -1,0 +1,23 @@
+{
+	"answerText": "Rossum's formula for making robots [accept answers that mention that this is a formula to make robots; prompt on \"formula\" or equivalents like \"recipe\"; prompt on \"robots\"][10] This author of War with the Newts wrote about a revolution led by robots in his R.U.R.",
+	"prompts": [
+		"formula",
+		"equivalents",
+		"recipe"
+	],
+	"heading": "Penn Bowl |2013 | 3 | 13 | Literature | European | College",
+	"subject": "Literature",
+	"level": "College",
+	"question": "Question: The knowledge of this is lost after Nana watches another character burn it, and several years later, another character is tasked with rediscovering this. [10] Name this secret, which Damon offers to buy for any price on behalf of the Central Committee. Damon then offers himself up to be dissected.",
+	"answers": [
+		"Rossum's",
+		"formula",
+		"for",
+		"making",
+		"robots",
+		"that",
+		"this",
+		"to",
+		"make"
+	]
+}

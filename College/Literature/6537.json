@@ -1,0 +1,32 @@
+{
+	"answerText": "\"Grass\"[10] \"Grass\" was written by this American poet who called Chicago a \"Tool Maker, Stacker of Wheat,\" and wrote a celebrated two-volume biography of Abraham Lincoln.",
+	"prompts": [],
+	"heading": "DRAGOON |2013 | 9 | 17 | Literature | American | College",
+	"subject": "Literature",
+	"level": "College",
+	"question": "Question: The speaker of this poem questions \"What place is this? Where are we now?\" [10]  Identify this poem whose title entity exclaims \"Pile the bodies high at Austerlitz and Waterloo./ Shovel them under and let me work.\"",
+	"answers": [
+		"Grass",
+		"10",
+		"was",
+		"written",
+		"by",
+		"this",
+		"American",
+		"poet",
+		"who",
+		"called",
+		"Chicago",
+		"Tool",
+		"Maker",
+		"Stacker",
+		"Wheat",
+		"and",
+		"wrote",
+		"celebrated",
+		"two-volume",
+		"biography",
+		"Abraham",
+		"Lincoln"
+	]
+}

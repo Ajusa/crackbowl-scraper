@@ -1,0 +1,34 @@
+{
+	"answerText": "Giordano Bruno [prompt on \"the Nolan\"][10] Bruno's views on the infinitude of the universe were inspired by the work of this scientist, who wrote On the Revolution of the Heavenly Spheres and advocated heliocentrism.",
+	"prompts": [
+		"Nolan",
+		"10",
+		"Bruno's",
+		"views",
+		"infinitude",
+		"universe",
+		"were",
+		"inspired",
+		"by",
+		"work",
+		"this",
+		"scientist",
+		"who",
+		"wrote",
+		"On",
+		"Revolution",
+		"Heavenly",
+		"Spheres",
+		"and",
+		"advocated",
+		"heliocentrism"
+	],
+	"heading": "Penn Bowl |2013 | 4 | 2 | Philosophy | None | College",
+	"subject": "Philosophy",
+	"level": "College",
+	"question": "Question: This thinker was the subject of an important monograph by Frances Yates, who argued that his books, such as The Expulsion of the Triumphant Beast, were influenced by Hermetic Tradition. [10] Name this philosopher who was executed for espousing a belief in the infinitude of the universe.",
+	"answers": [
+		"Giordano",
+		"Bruno"
+	]
+}

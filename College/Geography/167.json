@@ -1,0 +1,15 @@
+{
+	"answerText": "Malaysia Airlines [accept MH370 or MAS370][10] Another Malaysia Airlines flight was shot out of the air while flying over this oblast in eastern Ukraine. It is the site of a namesake \"Peoples' Republic\", a separatist state that has been at war with the Ukrainian army.",
+	"prompts": [],
+	"heading": "DEES |2014 | Michigan A | 15 | Current Events | None | College",
+	"subject": "Current Events",
+	"level": "College",
+	"question": "Question: The year thus far has not been good for a certain airline.  [10] Earlier this year a flight registered with this airline disappeared while en route to Beijing, and it remains lost, despite the largest and most expensive multinational search effort in history.",
+	"answers": [
+		"Malaysia",
+		"Airlines",
+		"MH370",
+		"MAS370",
+		"10"
+	]
+}

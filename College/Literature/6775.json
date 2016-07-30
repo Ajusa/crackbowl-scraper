@@ -1,0 +1,41 @@
+{
+	"answerText": "Puck [prompt on \"Robin Goodfellow\"][10] Puck delivers the final lines to this Shakespeare play, which opens with the wedding of Theseus and Hippolyta. Its other characters include Titania and Oberon, who rule over fairies.",
+	"prompts": [
+		"Robin",
+		"Goodfellow",
+		"10",
+		"Puck",
+		"delivers",
+		"final",
+		"lines",
+		"to",
+		"this",
+		"Shakespeare",
+		"play",
+		"which",
+		"opens",
+		"with",
+		"wedding",
+		"Theseus",
+		"and",
+		"Hippolyta",
+		"Its",
+		"other",
+		"characters",
+		"include",
+		"Titania",
+		"and",
+		"Oberon",
+		"who",
+		"rule",
+		"over",
+		"fairies"
+	],
+	"heading": "Terrapin |2013 | Editors 2 - FINAL | 10 | Literature | British | College",
+	"subject": "Literature",
+	"level": "College",
+	"question": "Question: He states that \"you have but slumber'd here, / While these visions did appear.\" For 10 points each: [10] Identify this character who closes a certain work by stating \"If we shadows have offended, Think but this, and all is mended.\"",
+	"answers": [
+		"Puck"
+	]
+}

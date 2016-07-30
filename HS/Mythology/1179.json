@@ -1,0 +1,31 @@
+{
+	"answerText": "contraceptives [prompt on \"birth control\"][10]  This Georgetown law student advocated for laws making distribution of contraceptives mandatory in all health care plans.",
+	"prompts": [
+		"birth",
+		"control",
+		"10",
+		"This",
+		"Georgetown",
+		"law",
+		"student",
+		"advocated",
+		"for",
+		"laws",
+		"making",
+		"distribution",
+		"contraceptives",
+		"mandatory",
+		"in",
+		"all",
+		"health",
+		"care",
+		"plans"
+	],
+	"heading": "Prison Bowl |2013 | Round14.docx | 10 | History |  | HS",
+	"subject": "History",
+	"level": "HS",
+	"question": "Question:  [10]  Name these items banned by the Catholic Church, used to prevent unwanted pregnancy.",
+	"answers": [
+		"contraceptives"
+	]
+}

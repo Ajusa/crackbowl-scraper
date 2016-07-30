@@ -1,0 +1,37 @@
+{
+	"answerText": "Reverend Mr. Hooper (prompt on \"the minister\")[10] In this story, Aylmer brews a potion that will remove the title hand-shaped blemish from Georgiana's face, but once the blemish is removed, she perishes.",
+	"prompts": [
+		"minister",
+		"10",
+		"In",
+		"this",
+		"story",
+		"Aylmer",
+		"brews",
+		"potion",
+		"that",
+		"will",
+		"remove",
+		"title",
+		"hand-shaped",
+		"blemish",
+		"from",
+		"Georgiana's",
+		"face",
+		"but",
+		"once",
+		"blemish",
+		"removed",
+		"she",
+		"perishes"
+	],
+	"heading": "SUBMIT |2014 | WUSTL, Haverford, Bellarmine A | 4 | Literature | American | College",
+	"subject": "Literature",
+	"level": "College",
+	"question": "Question:  [10] This character breaks off his engagement to Elizabeth after he begins to wear a garment that leaves only his mouth and chin visible and hung between \"him and the world.\"",
+	"answers": [
+		"Reverend",
+		"Mr",
+		"Hooper"
+	]
+}

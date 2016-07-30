@@ -20,6 +20,7 @@ function buildUrl(subject, level) {
 }
 
 function makeJson(url, file, subject, level) {
+    mkpath(file)
     request(url, function(error, response, body) {
         $ = cheerio.load(body);
         $('div.col-md-12').each(function(i, elem) {
@@ -79,9 +80,9 @@ function makeJson(url, file, subject, level) {
                 obj.push(finalObj)
             }
         });
-        mkpath(level)
-        fs.writeFile(file + ".json", JSON.stringify(obj, null, "\t"), function(err) {
-            console.log(file);
-        });
+        for (var i = obj.length - 1; i >= 0; i--) {
+            fs.writeFile(file + "/" + i + ".json", JSON.stringify(obj[i], null, "\t"), function(err) {});
+        }
+
     })
 }

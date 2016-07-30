@@ -1,0 +1,31 @@
+{
+	"answerText": "Manaus[10] Manaus is the capital of the state named after this longest river of South America.  Its source is near Iquitos, Peru and it flows into the Atlantic Ocean.",
+	"prompts": [],
+	"heading": "ACF Regionals 2014 |2014 | MIT A-Illinois B-Texas A&M A | 21 | Geography | None | College",
+	"subject": "Geography",
+	"level": "College",
+	"question": "Question:  [10] Name this seventh most populous city of Brazil, the only 2014 World Cup Site to be situated in the rainforest.",
+	"answers": [
+		"Manaus",
+		"10",
+		"capital",
+		"state",
+		"named",
+		"after",
+		"this",
+		"longest",
+		"river",
+		"South",
+		"America",
+		"Its",
+		"source",
+		"near",
+		"Iquitos",
+		"Peru",
+		"and",
+		"flows",
+		"into",
+		"Atlantic",
+		"Ocean"
+	]
+}

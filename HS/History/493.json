@@ -1,0 +1,30 @@
+{
+	"answerText": "Swiss cheese[10] This type of cheese is exemplified by Roquefort and Stilton, both of which have spots or veins formed through exposure to penicillium.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 5 | 11 | Trash | None | College",
+	"subject": "Trash",
+	"level": "College",
+	"question": "Question: Name the following types of cheeses. [10] This generic type of cheese resembles Emmental cheese and is named for a European country. They are typically full of holes called \"eyes\".",
+	"answers": [
+		"Swiss",
+		"cheese",
+		"10",
+		"This",
+		"type",
+		"exemplified",
+		"by",
+		"Roquefort",
+		"and",
+		"Stilton",
+		"both",
+		"which",
+		"have",
+		"spots",
+		"veins",
+		"formed",
+		"through",
+		"exposure",
+		"to",
+		"penicillium"
+	]
+}

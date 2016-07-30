@@ -1,0 +1,14 @@
+{
+	"answerText": "Manhattan [or New York County; do not accept \"New York\" or \"New York City\"][10] This Manhattan neighborhood south of West 14th Street contains Washington Square Park and the Stonewall Inn gay bar. Famous residents such as Allen Ginsberg and Jane Jacobs contributed to its bohemian, artsy reputation.",
+	"prompts": [],
+	"heading": "ACF Regionals  |2012 | Yale A | 7 | Geography | None | College",
+	"subject": "Geography",
+	"level": "College",
+	"question": "Question: Marble Hill is politically contiguous with this island despite having been split off from it by diversion of water, and its Five Points slum was cleared at the turn of the 20th century. For 10 points each: [10] Name this island connected to Bergen County, New Jersey, by the George Washington Bridge and to another borough by the Brooklyn Bridge. Its landmarks include Central Park and Times Square.",
+	"answers": [
+		"Manhattan",
+		"New",
+		"York",
+		"County"
+	]
+}

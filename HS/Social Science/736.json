@@ -1,0 +1,42 @@
+{
+	"answerText": "xylophone [prompt on \"marimba\" or \"vibraphone\"][10]  The bars of the gyil are tuned to this scale, which can be hemitonic or anhemitonic. It features in Debussy's La mer, traditional Chinese music, and all the black keys of a piano.",
+	"prompts": [
+		"marimba",
+		"vibraphone",
+		"10",
+		"The",
+		"bars",
+		"gyil",
+		"are",
+		"tuned",
+		"to",
+		"this",
+		"scale",
+		"which",
+		"can",
+		"be",
+		"hemitonic",
+		"anhemitonic",
+		"It",
+		"features",
+		"in",
+		"Debussy's",
+		"La",
+		"mer",
+		"traditional",
+		"Chinese",
+		"music",
+		"and",
+		"all",
+		"black",
+		"keys",
+		"piano"
+	],
+	"heading": "Prison Bowl |2013 | Round09.docx | 16 | Fine Arts |  | HS",
+	"subject": "Fine Arts",
+	"level": "HS",
+	"question": "Question:  [10]  The gyil is categorized as this type of percussive musical instrument. Unlike the glockenspiel, it uses tuned wooden bars as opposed to metal ones, which are struck by mallets.",
+	"answers": [
+		"xylophone"
+	]
+}
