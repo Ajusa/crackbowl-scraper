@@ -1,0 +1,30 @@
+{
+	"answerText": "Dirac equation[10] The Dirac equation is an analogue of the Klein-Gordon equation, which is also relativistic but only applies to particles with this value for the spin.",
+	"prompts": [],
+	"heading": "ACF Winter |2009 | University of North Carolina, Truman State A, and University of Toronto | 12 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Applying this relativistic extension of the Schrodinger equation to the hydrogen atom introduces the spin quantum number in a natural way.  [10] Identify this equation named for a British physicist which predicts the existence of antiparticles. ",
+	"answers": [
+		"Dirac",
+		"equation",
+		"10",
+		"The",
+		"an",
+		"analogue",
+		"Klein-Gordon",
+		"which",
+		"also",
+		"relativistic",
+		"but",
+		"only",
+		"applies",
+		"to",
+		"particles",
+		"with",
+		"this",
+		"value",
+		"for",
+		"spin"
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"answerText": "Sudeten Germans [or Czechoslovakian Germans; or German Bohemians; or German Moravians; or German Silesians; or Sudetendeutsche; or Deutschböhmen; or Deutschmährer; or Deutschschlesier; prompt on \"Germans\"; prompt on \"Czechoslovaks\"; prompt on \"Bohemians\"; prompt on \"Moravians\"; prompt on \"Silesians\"; do not accept answers with \"Slovak\" used outside the context of a Czechoslovak][10] The USSR declared war on Germany in 1938 to back its Czechoslovak ally, so Maxim Litvinov was not replaced as Foreign Minister by this man who, in reality, signed a nonaggression pact with Ribbentrop.",
+	"prompts": [
+		"Germans"
+	],
+	"heading": "Penn Bowl |2013 | 13 | 5 | History | European | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: Answer these questions about historical figures who have much greater importance in Harry Turtledove's The War that Came Early series. [10] The convenient 1938 assassination of the leader of these people, Konrad Heinlein, led Hitler to make a declaration of war that is quickly matched by Daladier and Chamberlain.",
+	"answers": [
+		"Sudeten",
+		"Germans",
+		"Czechoslovakian",
+		"German",
+		"Bohemians",
+		"Moravians",
+		"Silesians",
+		"Sudetendeutsche",
+		"Deutschböhmen",
+		"Deutschmährer",
+		"Deutschschlesier"
+	]
+}

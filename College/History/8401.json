@@ -1,0 +1,33 @@
+{
+	"answerText": "Lighthouse of Alexandria [prompt on partial answer] [10] The Mausoleum at this city, the home of Herodotus, was built by a Persian satrap for himself and his wife.",
+	"prompts": [
+		"partial",
+		"answer",
+		"10",
+		"The",
+		"Mausoleum",
+		"at",
+		"this",
+		"city",
+		"home",
+		"Herodotus",
+		"was",
+		"built",
+		"by",
+		"Persian",
+		"satrap",
+		"for",
+		"himself",
+		"and",
+		"his",
+		"wife"
+	],
+	"heading": "Collegiate Novice |2012 | 10 | 20 | History | Classical | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: name these Wonders of the Ancient World.  [10] Ptolemy I Soter had this structure built by the architect Sostratos on the island of Pharos. ",
+	"answers": [
+		"Lighthouse",
+		"Alexandria"
+	]
+}

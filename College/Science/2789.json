@@ -1,0 +1,28 @@
+{
+	"answerText": "pi bond[10] Consider the carbon atom on one side of a double bond. What is the angle between the two single bonds attached to the carbon?",
+	"prompts": [],
+	"heading": "Penn-ance |2012 | 4 | 11 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: One nodal plane passes through two nuclei connected by one of these bonds. For 10 points each: [10] Name this type of bond that is formed from the overlap of two p orbitals. Along with one sigma bond, two of these bonds make up a triple bond.",
+	"answers": [
+		"pi",
+		"bond",
+		"10",
+		"Consider",
+		"carbon",
+		"atom",
+		"one",
+		"side",
+		"double",
+		"What",
+		"angle",
+		"between",
+		"two",
+		"single",
+		"bonds",
+		"attached",
+		"to",
+		"carbon?"
+	]
+}

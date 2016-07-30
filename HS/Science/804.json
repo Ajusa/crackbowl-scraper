@@ -1,0 +1,39 @@
+{
+	"answerText": "Panchen Lama [prompt on lama][10] The Panchen Lama and the Dalai Lama are revered by this region's namesake branch of Buddhism. Its namesake Book of the Dead describes an intermediate state called bardo.",
+	"prompts": [
+		"lama",
+		"10",
+		"The",
+		"Panchen",
+		"Lama",
+		"and",
+		"Dalai",
+		"Lama",
+		"are",
+		"revered",
+		"by",
+		"this",
+		"region's",
+		"namesake",
+		"branch",
+		"Buddhism",
+		"Its",
+		"namesake",
+		"Book",
+		"Dead",
+		"describes",
+		"an",
+		"intermediate",
+		"state",
+		"called",
+		"bardo"
+	],
+	"heading": "NASAT |2012 | 1 | 2 | Religion | None | College",
+	"subject": "Religion",
+	"level": "College",
+	"question": "Question: China claims that Gyancain Norbu, not Gedhun Choekyi Nyima, currently fills this role. For 10 points each: [10] Name this religious leader who sits at Tashilhunpo Monastery and is revered as the second-highest figure among followers of the Yellow Hat sect.",
+	"answers": [
+		"Panchen",
+		"Lama"
+	]
+}

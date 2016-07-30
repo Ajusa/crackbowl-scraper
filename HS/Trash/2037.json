@@ -1,0 +1,38 @@
+{
+	"answerText": "hydrostatic equilibrium [prompt on \"equilibrium\"][10] The Eddington limit is the maximum this quantity can be for a star in hydrostatic equilibrium. It is the total amount of energy radiated by a star per unit time.",
+	"prompts": [
+		"equilibrium",
+		"10",
+		"The",
+		"Eddington",
+		"limit",
+		"maximum",
+		"this",
+		"quantity",
+		"can",
+		"be",
+		"for",
+		"star",
+		"in",
+		"hydrostatic",
+		"equilibrium",
+		"It",
+		"total",
+		"amount",
+		"energy",
+		"radiated",
+		"by",
+		"star",
+		"per",
+		"unit",
+		"time"
+	],
+	"heading": "PADAWAN |2014 | 5 | 7 | Science | Other | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This state is often described mathematically by taking a small cylinder and stating that the derivative of pressure with respect to length is equal to minus big G times mass times density all over length squared. [10] Name this state in which gravitational pressure is balanced by thermal pressure from nuclear reactions in a star.",
+	"answers": [
+		"hydrostatic",
+		"equilibrium"
+	]
+}

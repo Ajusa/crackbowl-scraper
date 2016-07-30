@@ -1,0 +1,30 @@
+{
+	"answerText": "lenses[10] This type of aberration occurs because glass refracts different colors at different angles, which causes an image to be unfocused.",
+	"prompts": [],
+	"heading": "STIMPY |2015 | Illinois A - VCU A | 10 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The power of these objects can be measured in diopters. For 10 points each: [10] Identify these glass objects that focus light beams through refraction.",
+	"answers": [
+		"lenses",
+		"10",
+		"This",
+		"type",
+		"aberration",
+		"occurs",
+		"because",
+		"glass",
+		"refracts",
+		"different",
+		"colors",
+		"at",
+		"angles",
+		"which",
+		"causes",
+		"an",
+		"image",
+		"to",
+		"be",
+		"unfocused"
+	]
+}

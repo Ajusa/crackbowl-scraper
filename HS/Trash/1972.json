@@ -1,0 +1,23 @@
+{
+	"answerText": "chirality[10] In the Cahn-Ingold-Prelog nomenclature, a chiral center is labelled with one of two letters. Name either.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 4 | 8 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: During complex organic synthesis, this property can be preserved by using auxiliaries. For 10 points each: [10] Identify this property of a molecule which prevents it from becoming superimposable on its mirror image. This property leads to the formation of enantiomers and diastereomers. ",
+	"answers": [
+		"chirality",
+		"10",
+		"In",
+		"Cahn-Ingold-Prelog",
+		"nomenclature",
+		"chiral",
+		"center",
+		"labelled",
+		"with",
+		"one",
+		"two",
+		"letters",
+		"Name"
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"answerText": "L-MAO [or L-monoamine oxidases; do not prompt on partial answers][10] MAO proteins are bound to the outer membranes of these organelles, cellular powerhouses you got from your mum.",
+	"prompts": [
+		"partial",
+		"10",
+		"MAO",
+		"proteins",
+		"are",
+		"bound",
+		"to",
+		"outer",
+		"membranes",
+		"these",
+		"organelles",
+		"cellular",
+		"powerhouses",
+		"you",
+		"got",
+		"from",
+		"your",
+		"mum"
+	],
+	"heading": "Michigan Fall Tournament |2013 | Editors Round 8 | 12 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: A variant of the gene that codes for an isozyme of this enzyme family is known as the warrior gene. For 10 points each: [10] Name this family of enzymes, with such creatively named types as \"A\" and \"B\", that deaminates neurotransmitters like dopamine and serotonin.",
+	"answers": [
+		"L-MAO",
+		"L-monoamine",
+		"oxidases"
+	]
+}

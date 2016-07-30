@@ -1,0 +1,14 @@
+{
+	"answerText": "pike [prompt on \"pole-arm weapon\"; prompt on \"spear\"][10] This elegant cavalry tactic was notably not employed by the New Model Army and Gustavus Adolphus's hakkapeliitta cavalry. It had cavalry form up in ranks to discharge pistols, reform at the rear to reload, and repeat.",
+	"prompts": [
+		"pole-arm",
+		"weapon"
+	],
+	"heading": "Penn Bowl |2013 | 13 | 16 | History | Other | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: A \"push\" of this weapon ended the Battle of the Dunes. [10] Name this weapon that was paired with \"shot\" in Early Modern army formations and was the weapon of choice for Landsknechts and Swiss mercenaries, whose used these weapons in squares to devastating effect at Nancy.",
+	"answers": [
+		"pike"
+	]
+}

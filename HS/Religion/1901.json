@@ -1,0 +1,36 @@
+{
+	"answerText": "negative externalities [prompt on \"externalities\"][10] Embezzlement of public funds is usually inefficient because politicians, typically being well-off, have a lower value of the \"marginal\" variety of this quantity than your typical citizen.",
+	"prompts": [
+		"externalities",
+		"10",
+		"Embezzlement",
+		"public",
+		"funds",
+		"usually",
+		"inefficient",
+		"because",
+		"politicians",
+		"typically",
+		"being",
+		"well-off",
+		"have",
+		"lower",
+		"value",
+		"marginal",
+		"variety",
+		"this",
+		"quantity",
+		"than",
+		"your",
+		"typical",
+		"citizen"
+	],
+	"heading": "DEES |2014 | Columbia B | 14 | Social Science | None | College",
+	"subject": "Social Science",
+	"level": "College",
+	"question": "Question: So what makes government corruption so bad anyway? Let's take a look at its economic effects,  [10] Bribes can prevent politicians from dealing with these problems. Remedying these problems efficiently involves bringing marginal social costs in line with marginal private costs.",
+	"answers": [
+		"negative",
+		"externalities"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"answerText": "nuclear emulsion plate [prompt on \"emulsion plate\"; prompt on \"emulsion\"][10] Nuclear emulsion was superseded by this particle-detection apparatus whose design won a Nobel for Donald Glaser. It consists of a vessel filled with a superheated liquid, unlike its predecessor, which used a supersaturated vapor.",
+	"prompts": [
+		"emulsion",
+		"plate"
+	],
+	"heading": "ACF Regionals 2014 |2014 | UCSD | 16 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name this technique that uses a photographic plate coated with a namesake type of colloid to record the tracks of charged particles that have passed through. It is now more commonly used in radiotherapy than in particle physics.",
+	"answers": [
+		"nuclear",
+		"emulsion",
+		"plate"
+	]
+}

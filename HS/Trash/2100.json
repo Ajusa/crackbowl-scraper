@@ -1,0 +1,32 @@
+{
+	"answerText": "Taylor series[10] The small-angle approximation for this trigonometric function uses a truncated Taylor series and sets this function of theta equal to one minus theta squared over two.",
+	"prompts": [],
+	"heading": "Penn Bowl |2014 | 6 | 1 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: When a function is equal to this in a given range, that function is called an analytic function. For 10 points each: [10] Name this representation that presents a function as an infinite sum of terms calculated from its derivatives at a single point; when it is centered at zero, it is called a Maclaurin series.",
+	"answers": [
+		"Taylor",
+		"series",
+		"10",
+		"The",
+		"small-angle",
+		"approximation",
+		"for",
+		"this",
+		"trigonometric",
+		"function",
+		"uses",
+		"truncated",
+		"and",
+		"sets",
+		"theta",
+		"equal",
+		"to",
+		"one",
+		"minus",
+		"squared",
+		"over",
+		"two"
+	]
+}

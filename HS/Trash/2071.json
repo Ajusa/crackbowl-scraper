@@ -1,0 +1,29 @@
+{
+	"answerText": "Ampere-Maxwell law[10] Ampere's law can be used to show that the magnetic field from one of these things is equal to mu sub not times current times the number of windings over the length. This is calculated by taking a box-shaped Amperian loop.",
+	"prompts": [],
+	"heading": "Penn Bowl |2014 | 12 | 1 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This law's proportionality constant is equal to four pi times ten to the negative seventh. For 10 points each: [10] Name this law which says that the line integral of the magnetic field around a loop enclosing a wire is proportional to the current in that wire. Maxwell modified it to include displacement current.",
+	"answers": [
+		"Ampere-Maxwell",
+		"law",
+		"10",
+		"Ampere's",
+		"can",
+		"be",
+		"used",
+		"to",
+		"show",
+		"that",
+		"magnetic",
+		"field",
+		"from",
+		"one",
+		"these",
+		"things",
+		"equal",
+		"mu",
+		"sub"
+	]
+}

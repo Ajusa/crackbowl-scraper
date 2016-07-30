@@ -1,29 +1,12 @@
 {
-	"answerText": "lochs [accept Loch Eriboll or Loch Ness][10] Loch Eriboll is connected to the Pentland one of these inlets. The Solway one was the original western terminus of Hadrian's Wall.",
+	"answerText": "Zeno[10] Another philosopher, Zeno of Citium, founded this school of philosophy, whose adherents included Epictetus and the Roman Emperor Marcus Aurelius. It proposed that virtue was the only good.",
 	"prompts": [],
-	"heading": "PACE |2013 | 3 | 3 | Geography | None | HS",
-	"subject": "Geography",
+	"heading": "BHSAT |2011 | 1 | 19 | Philosophy | None | HS",
+	"subject": "Philosophy",
 	"level": "HS",
-	"question": "Question: Give these Scottish geographic terms, for 10 points each: [10] Eriboll is a sea-inlet example of these features; the better-known freshwater ones include Ness, the supposed home of a legendary monster. ",
+	"question": "Question: Answer the following questions about Classical philosophers, for 10 points each. [10] One philosopher of this name from Elea was a student of Parmenides, and according to a Platonic dialogue, debated a young Socrates. His paradoxes of motion feature the motionless arrow and Achilles racing a tortoise.",
 	"answers": [
-		"lochs",
-		"Loch",
-		"Eriboll",
-		"Ness",
-		"10",
-		"connected",
-		"to",
-		"Pentland",
-		"one",
-		"these",
-		"inlets",
-		"The",
-		"Solway",
-		"was",
-		"original",
-		"western",
-		"terminus",
-		"Hadrian's",
-		"Wall"
+		"Zeno",
+		"10"
 	]
 }

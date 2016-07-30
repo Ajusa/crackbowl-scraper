@@ -1,0 +1,33 @@
+{
+	"answerText": "quicksort [or partition-exchange sort][10] Quicksort was developed by this computer scientist who also developed a namesake logic to verify program correctness and the specification language CSP.",
+	"prompts": [],
+	"heading": "NASAT |2013 | 9 | 5 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This algorithm is in the class of n log n runtime sorting algorithms. For 10 points each: [10] Identify this sorting algorithm that uses pivots to divide a set and recursively sort it.",
+	"answers": [
+		"quicksort",
+		"partition-exchange",
+		"sort",
+		"10",
+		"Quicksort",
+		"was",
+		"developed",
+		"by",
+		"this",
+		"computer",
+		"scientist",
+		"who",
+		"also",
+		"namesake",
+		"logic",
+		"to",
+		"verify",
+		"program",
+		"correctness",
+		"and",
+		"specification",
+		"language",
+		"CSP"
+	]
+}

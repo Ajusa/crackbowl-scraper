@@ -1,0 +1,12 @@
+{
+	"answerText": "Maxwell's equations [do not accept \"Maxwell's relations\"][10] The displacement current in Maxwell's differential formulation of Ampère's law is given by this operation applied to the electric displacement field. The curl of electric field is equal to this operation applied to the B field.",
+	"prompts": [],
+	"heading": "NASAT |2014 | 1 | 15 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The namesake of this set of equations added the term for the displacement current to correct Ampère's law. [10] What set of four equations includes both of Gauss's laws, Faraday's law, and Ampère's law?",
+	"answers": [
+		"Maxwell's",
+		"equations"
+	]
+}

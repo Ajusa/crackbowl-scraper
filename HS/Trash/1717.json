@@ -1,0 +1,37 @@
+{
+	"answerText": "Schwann cells or neurolemmocytes [prompt on \"glia,\" \"neuroglia,\" or \"glial cells\"][10] Schwann cells and oligodendrocytes are myelin-producing variants of these cells that support neurons in the brain and the peripheral nervous system.",
+	"prompts": [
+		"glia",
+		"neuroglia",
+		"glial",
+		"cells",
+		"10",
+		"Schwann",
+		"cells",
+		"and",
+		"oligodendrocytes",
+		"are",
+		"myelin-producing",
+		"variants",
+		"these",
+		"cells",
+		"that",
+		"support",
+		"neurons",
+		"in",
+		"brain",
+		"and",
+		"peripheral",
+		"nervous",
+		"system"
+	],
+	"heading": "STIMPY |2015 | MIT A - Michigan B | 10 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: In 2013, doctors at The Miami Project to Cure Paralysis performed the first FDA-approved transplant of these cells to treat a spinal cord injury. For 10 points each: [10] Name these cells that produce myelin sheath and wrap it around nerve cells at neuromuscular junctions.",
+	"answers": [
+		"Schwann",
+		"cells",
+		"neurolemmocytes"
+	]
+}

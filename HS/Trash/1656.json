@@ -1,0 +1,36 @@
+{
+	"answerText": "carbon nanotubes [prompt on \"CNT(s)\"][10] Nanotubes are incredibly strong because they are comprised of bonds with this hybridization, which creates trigonal structures with bond angles of 120 degrees.",
+	"prompts": [
+		"CNT",
+		"s",
+		"10",
+		"Nanotubes",
+		"are",
+		"incredibly",
+		"strong",
+		"because",
+		"they",
+		"are",
+		"comprised",
+		"bonds",
+		"with",
+		"this",
+		"hybridization",
+		"which",
+		"creates",
+		"trigonal",
+		"structures",
+		"with",
+		"bond",
+		"angles",
+		"120",
+		"degrees"
+	],
+	"heading": "MUT |2015 | 3 | 11 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: These structures are classified as single-walled or multi-walled, and can align themselves into \"ropes.\" [10] Name these cylindrical fullerenes, allotropes of carbon that are analogous to spherical \"buckyballs.\"",
+	"answers": [
+		"carbon"
+	]
+}

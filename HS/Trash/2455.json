@@ -1,0 +1,28 @@
+{
+	"answerText": "bremsstrahlung [or free-free radiation or braking radiation][10] Like inverse Compton scattering, the spectrum of bremsstrahlung has this property, unlike the spectrum of radiation of transitions between energy levels.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 12 | 15 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This type of radiation has a flat intensity spectrum with a cutoff frequency, and it is commonly seen in X-ray tubes. [10] Name this type of radiation that's emitted when a charged particle slows down and changes path. Synchrotron and cyclotron radiation are similar to it.",
+	"answers": [
+		"bremsstrahlung",
+		"free-free",
+		"radiation",
+		"braking",
+		"10",
+		"Like",
+		"inverse",
+		"Compton",
+		"scattering",
+		"spectrum",
+		"has",
+		"this",
+		"property",
+		"unlike",
+		"transitions",
+		"between",
+		"energy",
+		"levels"
+	]
+}

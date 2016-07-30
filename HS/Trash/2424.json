@@ -1,0 +1,15 @@
+{
+	"answerText": "determinant[10] If the determinant of a matrix does not equal zero, its columns have this property, which means no column can be written as a linear combination of the others.",
+	"prompts": [],
+	"heading": "NASAT |2013 | 6 | 15 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This operation is applied to the matrix A minus lambda I in order to find the eigenvalues. For 10 points each: [10] Name this operation applied in Cramer's rule to solve a system of equations. For a two-by-two matrix, it equals the difference of the product of the diagonals.",
+	"answers": [
+		"determinant",
+		"10",
+		"If",
+		"matrix",
+		"does"
+	]
+}

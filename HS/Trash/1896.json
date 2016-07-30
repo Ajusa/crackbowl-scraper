@@ -1,0 +1,28 @@
+{
+	"answerText": "gluons[10] The strong force is responsible for binding protons and neutrons into these dense structures at the center of atoms.",
+	"prompts": [],
+	"heading": "ICCS |2014 | 6 | 22 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The color of these massless, chargeless particles corresponds to the eight Gell-Mann matrices.  [10] Name these gauge bosons that mediate the strong force. Their interactions with quarks are described by quantum chromodynamics.",
+	"answers": [
+		"gluons",
+		"10",
+		"The",
+		"strong",
+		"force",
+		"responsible",
+		"for",
+		"binding",
+		"protons",
+		"and",
+		"neutrons",
+		"into",
+		"these",
+		"dense",
+		"structures",
+		"at",
+		"center",
+		"atoms"
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"answerText": "pendulum[10] The period of a pendulum is proportional to this power of the length of the string.",
+	"prompts": [],
+	"heading": "VCU Closed |2013 | Haverford and Michigan State B | 1 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: A double one of these systems is a simple chaotic system, and elliptic integrals are required for a complete description of this system when the small-angle approximation isn't used. For 10 points each: [10] Name this type of simple harmonic oscillator which consists of a weight on the end of a massless spring.",
+	"answers": [
+		"pendulum",
+		"10",
+		"The",
+		"period",
+		"proportional",
+		"to",
+		"this",
+		"power",
+		"length",
+		"string"
+	]
+}

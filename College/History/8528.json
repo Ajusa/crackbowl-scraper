@@ -1,0 +1,41 @@
+{
+	"answerText": "Henry IV [prompt on \"Henry\"][10] The first ecumenical council in this place affirmed the Concordat of Worms, resolving the investiture issue. In 1215, the fourth one forced Jews to wear distinctive garb and codified transubstantiation.",
+	"prompts": [
+		"Henry",
+		"10",
+		"The",
+		"first",
+		"ecumenical",
+		"council",
+		"in",
+		"this",
+		"place",
+		"affirmed",
+		"Concordat",
+		"Worms",
+		"resolving",
+		"investiture",
+		"issue",
+		"In",
+		"1215",
+		"fourth",
+		"one",
+		"forced",
+		"Jews",
+		"to",
+		"wear",
+		"distinctive",
+		"garb",
+		"and",
+		"codified",
+		"transubstantiation"
+	],
+	"heading": "MAGNI |2011 | 1 | 14 | History | European | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: The investiture controversy caused violent outbursts in medieval Europe after the papacy insisted that secular leaders could not appoint bishops to the Church. Answer some questions about it, for 10 points each: [10] This Holy Roman Emperor was excommunicated by Pope Gregory VII over his investitures. In 1077, he walked to Canossa barefoot to beg for forgiveness, but went right back to appointing bishops after he got it.",
+	"answers": [
+		"Henry",
+		"IV"
+	]
+}

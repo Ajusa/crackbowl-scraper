@@ -1,0 +1,15 @@
+{
+	"answerText": "Scotland [or Alba; prompt on Great Britain; prompt on United Kingdom or UK, but obviously don't accept \"England\"][10] Abdelbaset al-Megrahi, who was convicted for his role in the bombings, was released when he was diagnosed with terminal cancer. He returned to a hero's welcome in this nation, from which he ordered the bombings.",
+	"prompts": [
+		"Great",
+		"Britain"
+	],
+	"heading": "Western Invitational Tournament |2013 | Bentley Gioia Hunter Lopez-Lago | 6 | History | American | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: In 2014, voters in this nation will participate in a referendum to secure independence from Great Britain. For 10 points each: [10] Name this country that was home to the 1988 Lockerbie bombings",
+	"answers": [
+		"Scotland",
+		"Alba"
+	]
+}

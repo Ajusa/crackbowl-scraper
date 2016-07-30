@@ -1,0 +1,16 @@
+{
+	"answerText": "gel electrophoresis [or agarose gel electrophoresis; or SDS-PAGE; prompt on \"electrophoresis\"; prompt on \"running a gel\"][10] A dye containing ethidium and a negatively charged ion of this element is used to visualize nucleic acids in agarose gel electrophoresis, and fluoresces red-orange under UV light.",
+	"prompts": [
+		"electrophoresis"
+	],
+	"heading": "ACF Regionals  |2015 | Chattahoochee HS + Columbia B + Toronto B | 1 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This general technique is used to separate macromolecules by size and charge. For 10 points each: [10] Name this laboratory technique in which samples are placed in a matrix of agarose or polyacrylamide, through which a current is run.",
+	"answers": [
+		"gel",
+		"electrophoresis",
+		"agarose",
+		"SDS-PAGE"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"answerText": "surface wave[10] These phenomena release seismic waves, which manifest as a shaking of the ground. earthquakes [or tremor; or temblor]",
+	"prompts": [],
+	"heading": "MUT |2015 | 7 | 8 | Science | Other | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This type of seismic wave is produced by the interaction of P and S waves with the Earth. [10] Identify this type of seismic wave that includes Love and Rayleigh waves.",
+	"answers": [
+		"surface",
+		"wave",
+		"10",
+		"These",
+		"phenomena",
+		"release",
+		"seismic",
+		"waves",
+		"which",
+		"manifest",
+		"as",
+		"shaking",
+		"ground",
+		"earthquakes",
+		"tremor",
+		"temblor"
+	]
+}

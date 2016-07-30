@@ -1,0 +1,20 @@
+{
+	"answerText": "similarity[10]  One of the three great classical math problems was whether or not it was possible to do this to an angle with a straightedge and compass. It is impossible for a 60-degree angle, because one cannot construct a 20-degree angle.",
+	"prompts": [],
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2012 | LISTIII_Round03.docx | 15 | Science |  | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10]  If two triangles all have the same angles, then they have this property. Two figures with this property have the same shape but are not necessarily of the same size.",
+	"answers": [
+		"similarity",
+		"10",
+		"One",
+		"three",
+		"great",
+		"classical",
+		"math",
+		"problems",
+		"was",
+		"whether"
+	]
+}

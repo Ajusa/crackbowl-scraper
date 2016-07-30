@@ -1,0 +1,33 @@
+{
+	"answerText": "proto-oncogenes [or oncoproteins] [10] BRAF inhibitors have recently been approved to treat the metastatic form of this skin cancer, which often begin as asymmetric, darkly-colored blobs.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 15 | 17 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: An example of these genes is BRAF, which is activated by a V600E mutation and inhibited by vemurafenib. For 10 points each:  [10] Identify these genes like Ras and src, which when mutated or activated at a high level, cause cancer. They're conceived of as the opposite of tumor suppressor genes.",
+	"answers": [
+		"proto-oncogenes",
+		"oncoproteins",
+		"10",
+		"BRAF",
+		"inhibitors",
+		"have",
+		"recently",
+		"been",
+		"approved",
+		"to",
+		"treat",
+		"metastatic",
+		"form",
+		"this",
+		"skin",
+		"cancer",
+		"which",
+		"often",
+		"begin",
+		"as",
+		"asymmetric",
+		"darkly-colored",
+		"blobs"
+	]
+}

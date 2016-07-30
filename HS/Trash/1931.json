@@ -1,0 +1,27 @@
+{
+	"answerText": "sets[10] This set of all subsets of a set S, including the empty set and S, contains two the n elements, where n is the number of elements in the set S.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 10 | 4 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The mathematical formulation of these objects is named for Zermelo and Fraenkel. For 10 points each: [10] Identify these mathematical objects, usually denoted by curly brackets, which contain various numbers. The union and intersection operators act on these objects. ",
+	"answers": [
+		"sets",
+		"10",
+		"This",
+		"set",
+		"all",
+		"subsets",
+		"S",
+		"including",
+		"empty",
+		"and",
+		"contains",
+		"two",
+		"n",
+		"elements",
+		"where",
+		"number",
+		"in"
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"answerText": "Bragg's Law[10] Bragg's Law can be visualized by constructing an Ewald sphere on a lattice in this type of space, which is obtained from the direct space by a Fourier transform.",
+	"prompts": [],
+	"heading": "DRAGOON |2013 | 5 | 1 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This law mathematically explains the shape of the Debye-Scherrer cones which appear in powder diffraction. [10] Name this law which states that for a wave incident on a crystal lattice, maximum scattering peaks will occur where two times the lattice spacing times the sine of the incident angle equals an integer multiple of the wavelength.",
+	"answers": [
+		"Bragg's",
+		"Law",
+		"10",
+		"can",
+		"be",
+		"visualized",
+		"by",
+		"constructing",
+		"an",
+		"Ewald",
+		"sphere",
+		"lattice",
+		"in",
+		"this",
+		"type",
+		"space",
+		"which",
+		"obtained",
+		"from",
+		"direct",
+		"Fourier",
+		"transform"
+	]
+}

@@ -1,11 +1,15 @@
 {
-	"answerText": "Zealand [do not accept \"New Zealand\"][10] This most populous city on Zealand is home to the Tivoli Gardens amusement park and the Edvard Eriksen statue The Little Mermaid.",
+	"answerText": "Book of Revelation (or Revelation of St. John; or Apocalypse of John; do not accept \"Revelations\" in place of \"Revelation\")[10]  Revelation begins by addressing this number of churches in Asia and then details the opening of this many seals, the sounding of this many trumpets, and the rising of a beast with this many heads.",
 	"prompts": [],
-	"heading": "ICCS |2014 | 1 | 9 | Geography | None | College",
-	"subject": "Geography",
-	"level": "College",
-	"question": "Question: This island is connected to the island of Funen by the Great Belt Fixed Link.  [10] Name this island whose Kronborg castle in Elsinore is the setting of Hamlet.",
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2012 | LISTIII_Round16.docx | 18 | Religion |  | HS",
+	"subject": "Religion",
+	"level": "HS",
+	"question": "Question:  [10]  Identify this text written by John of Patmos, which details the Second Coming of Christ and is generally agreed to be the last book of the Bible.",
 	"answers": [
-		"Zealand"
+		"Book",
+		"Revelation",
+		"St",
+		"John",
+		"Apocalypse"
 	]
 }

@@ -1,0 +1,42 @@
+{
+	"answerText": "bundle of His [prompt on partial answer][10] The delay between an impulse traveling through the bundle of His and the contraction of the ventricles is visually apparent on the flat PR segment generated in this procedure, which measures the heart's electrical activity.",
+	"prompts": [
+		"partial",
+		"answer",
+		"10",
+		"The",
+		"delay",
+		"between",
+		"an",
+		"impulse",
+		"traveling",
+		"through",
+		"bundle",
+		"His",
+		"and",
+		"contraction",
+		"ventricles",
+		"visually",
+		"apparent",
+		"flat",
+		"PR",
+		"segment",
+		"generated",
+		"in",
+		"this",
+		"procedure",
+		"which",
+		"measures",
+		"heart's",
+		"electrical",
+		"activity"
+	],
+	"heading": "ACF Regionals 2014 |2014 | Illinois A-Rutgers A-Alabama A | 19 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name this set of muscle fibers that branch from the AV node and conduct signals towards the Purkinje fibers.",
+	"answers": [
+		"bundle",
+		"His"
+	]
+}

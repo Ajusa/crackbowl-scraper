@@ -1,0 +1,29 @@
+{
+	"answerText": "pair programming[10] The goal of pair programming is to reduce the number of these defects in a computer program. An off-by-one error is a common example of them.",
+	"prompts": [],
+	"heading": "Dragoon |2013 | 2 | 5 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This technique may be used in extreme programming and agile programming. [10] Identify this methodology in software development in which one programmer types code and another person reviews the recently typed code for problems.",
+	"answers": [
+		"pair",
+		"programming",
+		"10",
+		"The",
+		"goal",
+		"to",
+		"reduce",
+		"number",
+		"these",
+		"defects",
+		"in",
+		"computer",
+		"program",
+		"An",
+		"off-by-one",
+		"error",
+		"common",
+		"example",
+		"them"
+	]
+}

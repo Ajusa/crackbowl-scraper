@@ -1,0 +1,11 @@
+{
+	"answerText": "currying [do not accept \"partial function application\"][10] Currying is important to the functional paradigm, which, in its purest form, also does not include these actions, in which calling a function also modifies some other state. Haskell confines all of these things to the IO monad.",
+	"prompts": [],
+	"heading": "STIMPY |2015 | 1. Chicago A - MIT B | 10 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This technique produces a function whose output is a function whose output is a function and so on. For 10 points each: [10] Identify this programming technique named after an American logician that transforms a multivariate function into a series of intermediate unary functions, ultimately yielding the same result as the original function.",
+	"answers": [
+		"currying"
+	]
+}

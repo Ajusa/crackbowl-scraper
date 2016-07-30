@@ -1,0 +1,29 @@
+{
+	"answerText": "Hill-Langmuir equation [or Langmuir isotherm, or Langmuir adsorption equation][10] The Langmuir equation is used to model this phenomenon, in which molecules stick to a solid surface. It is not to be confused with absorption.",
+	"prompts": [],
+	"heading": "DEES |2014 | Michigan A | 5 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Note to moderator: Do not reveal alternate answers to first bonus part. A thermodynamic derivation of this equation involves finding the equilibrium constant for a reaction between gas molecules and both occupied and unoccupied sites.  [10] Name this equation, which states that theta equals a constant times gas pressure, over one plus that constant times gas pressure.",
+	"answers": [
+		"Hill-Langmuir",
+		"equation",
+		"Langmuir",
+		"isotherm",
+		"adsorption",
+		"10",
+		"The",
+		"used",
+		"to",
+		"model",
+		"this",
+		"phenomenon",
+		"in",
+		"which",
+		"molecules",
+		"stick",
+		"solid",
+		"surface",
+		"It"
+	]
+}

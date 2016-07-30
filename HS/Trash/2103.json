@@ -1,0 +1,30 @@
+{
+	"answerText": "hemophilia[10] Factor VIII is produced in cells derived from these organs in Chinese hamsters. Cancer of these organs often show elevation of CA125, and they're not breasts, but BRCA2 mutations increase the probability of cancer of this organ.",
+	"prompts": [],
+	"heading": "Penn Bowl |2014 | 6 | 13 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The PTT is extended in this disease, but not the PT. For 10 points each: [10] Name this disease in which patients are missing blood clotting factors, resulting in even small cuts being potentially fatal. This disease is most often caused by mutations in factor VIII and factor IX.",
+	"answers": [
+		"hemophilia",
+		"10",
+		"Factor",
+		"VIII",
+		"produced",
+		"in",
+		"cells",
+		"derived",
+		"from",
+		"these",
+		"organs",
+		"Chinese",
+		"hamsters",
+		"Cancer",
+		"often",
+		"show",
+		"elevation",
+		"CA125",
+		"and",
+		"they're"
+	]
+}

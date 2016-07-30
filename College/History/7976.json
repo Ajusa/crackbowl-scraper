@@ -1,0 +1,29 @@
+{
+	"answerText": "Buffalo, New York[10] Czolgosz shot this Ohio-born US President in 1901. He defeated the Populist William Jennings Bryan in 1896.",
+	"prompts": [],
+	"heading": "DRAGOON |2013 | 7 | 11 | History | American | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: Grover Cleveland was the mayor of this city before becoming a governor. [10] Name this city where Leon Czolgosz and Charles Guiteau shot separate presidents.",
+	"answers": [
+		"Buffalo",
+		"New",
+		"York",
+		"10",
+		"Czolgosz",
+		"shot",
+		"this",
+		"Ohio-born",
+		"US",
+		"President",
+		"in",
+		"1901",
+		"He",
+		"defeated",
+		"Populist",
+		"William",
+		"Jennings",
+		"Bryan",
+		"1896"
+	]
+}

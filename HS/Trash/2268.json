@@ -1,0 +1,33 @@
+{
+	"answerText": "Raoult's Law[10] Debye-Hückel theory can be used to predict the activity coefficient for an electrolyte solution with this property. Henry's Law only applies to an ideal solution with this property.",
+	"prompts": [],
+	"heading": "DRAGOON |2013 | 3 | 17 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: For a non-ideal solution, this law can be modified by multiplying one of the sides of the equation by an activity coefficient. [10] Name this law which states that the vapor pressure of an ideal solution is equal to the sum over all components of the vapor pressure of the component times the mole fraction of the component.",
+	"answers": [
+		"Raoult's",
+		"Law",
+		"10",
+		"Debye-Hückel",
+		"theory",
+		"can",
+		"be",
+		"used",
+		"to",
+		"predict",
+		"activity",
+		"coefficient",
+		"for",
+		"an",
+		"electrolyte",
+		"solution",
+		"with",
+		"this",
+		"property",
+		"Henry's",
+		"only",
+		"applies",
+		"ideal"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"answerText": "Tridentine Mass [prompt on \"Latin Mass\"][10] The Tridentine Mass was created at the Council of Trent, which began a \"Counter-\" movement to this movement, in which leaders like Martin Luther questioned the teachings of the Catholic Church.",
+	"prompts": [
+		"Latin",
+		"Mass",
+		"10",
+		"The",
+		"Tridentine",
+		"Mass",
+		"was",
+		"created",
+		"at",
+		"Council",
+		"Trent",
+		"which",
+		"began",
+		"Counter-",
+		"movement",
+		"to",
+		"this",
+		"movement",
+		"in",
+		"which",
+		"leaders",
+		"Martin",
+		"Luther",
+		"questioned",
+		"teachings",
+		"Catholic",
+		"Church"
+	],
+	"heading": "Penn Bowl |2014 | 4 | 5 | Religion | None | College",
+	"subject": "Religion",
+	"level": "College",
+	"question": "Question: The 1984 letter Quattuor Abhinc Annos permitted priests and parishioners who requested to celebrate the mass in this form to do so. For 10 points each: [10] Name this mass, the standard one from Roman Missals issued from 1570 to 1962. This mass, which is often referred to as the \"older form\", is the one most often used by Old Catholics.",
+	"answers": [
+		"Tridentine",
+		"Mass"
+	]
+}

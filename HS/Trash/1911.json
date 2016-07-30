@@ -1,0 +1,28 @@
+{
+	"answerText": "Lagrangian[10] The Lagrangian for the \"true\" trajectory of a dynamical system is the one that minimizes this quantity, the integral of the Lagrangian with respect to time.",
+	"prompts": [],
+	"heading": "ICCS |2014 | 9 | 23 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: For simple systems this quantity is usually given as the difference between kinetic and potential energy.  [10] Identify this quantity from dynamical systems theory from which the equations of motion can be obtained by solving equations co-named for Euler and this quantity's French namesake.",
+	"answers": [
+		"Lagrangian",
+		"10",
+		"The",
+		"for",
+		"true",
+		"trajectory",
+		"dynamical",
+		"system",
+		"one",
+		"that",
+		"minimizes",
+		"this",
+		"quantity",
+		"integral",
+		"with",
+		"respect",
+		"to",
+		"time"
+	]
+}

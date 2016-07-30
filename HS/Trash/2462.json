@@ -1,0 +1,31 @@
+{
+	"answerText": "stress[10] The off-diagonal elements of the Cauchy stress tensor are called these kind of stresses, which are parallel to the material cross section. They are contrasted with normal stresses.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 14 | 7 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Cauchy names a tensor used to describe this quantity, which can in turn be used to find a scalar value of this quantity named for von Mises. [10] Name this quantity which has the same units as pressure. The ratio of this quantity to strain is equal to Young's modulus.",
+	"answers": [
+		"stress",
+		"10",
+		"The",
+		"off-diagonal",
+		"elements",
+		"Cauchy",
+		"tensor",
+		"are",
+		"called",
+		"these",
+		"stresses",
+		"which",
+		"parallel",
+		"to",
+		"material",
+		"cross",
+		"section",
+		"They",
+		"contrasted",
+		"with",
+		"normal"
+	]
+}

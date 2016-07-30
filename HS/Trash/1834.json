@@ -1,0 +1,27 @@
+{
+	"answerText": "alpha-synuclein[10] Alpha-synuclein deposits in Lewy bodies appear in this brain structure, which is the main site of degradation in Parkinson's disease.",
+	"prompts": [],
+	"heading": "DEES |2014 | Michigan A | 9 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Note to moderator: SNARE and CAG are pronounced like they sound, SNCA is spelled out. This protein helps support SNARE complex formation and possibly inhibits phospholipase D, but we don't know much else about its function.  [10] Name this protein coded for by the SNCA gene and famous for its aggregation in Lewy bodies, a hallmark of Parkinson's.",
+	"answers": [
+		"alpha-synuclein",
+		"10",
+		"Alpha-synuclein",
+		"deposits",
+		"in",
+		"Lewy",
+		"bodies",
+		"appear",
+		"this",
+		"brain",
+		"structure",
+		"which",
+		"main",
+		"site",
+		"degradation",
+		"Parkinson's",
+		"disease"
+	]
+}

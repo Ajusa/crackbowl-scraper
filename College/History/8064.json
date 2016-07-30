@@ -1,0 +1,36 @@
+{
+	"answerText": "Vice President of the Confederate States of America [or CSA Vice President; prompt on Vice President][10] Confederate VP Alexander Stephens served under this man, a former Secretary of War who became the only Confederate President.",
+	"prompts": [
+		"Vice",
+		"President",
+		"10",
+		"Confederate",
+		"VP",
+		"Alexander",
+		"Stephens",
+		"served",
+		"under",
+		"this",
+		"man",
+		"former",
+		"Secretary",
+		"War",
+		"who",
+		"became",
+		"only",
+		"Confederate",
+		"President"
+	],
+	"heading": "NASAT |2013 | 11 | 11 | History | American | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: The only man to hold this post was known as the \"Little Pale Star.\" For 10 points each: [10] Name this position whose only holder gave the \"Cornerstone Speech\" to explain his country's reasons for existence.",
+	"answers": [
+		"Vice",
+		"President",
+		"Confederate",
+		"States",
+		"America",
+		"CSA"
+	]
+}

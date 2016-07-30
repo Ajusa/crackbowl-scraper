@@ -1,0 +1,41 @@
+{
+	"answerText": "operational amplifiers [or op-amps; prompt on \"amplifiers\"][10] Op-amps also involve this kind of coupling, meaning electrical energy is transferred via physical conduction. This term also names a kind of flow of electric charge that is often contrasted with alternating current.",
+	"prompts": [
+		"amplifiers",
+		"10",
+		"Op-amps",
+		"also",
+		"involve",
+		"this",
+		"coupling",
+		"meaning",
+		"electrical",
+		"energy",
+		"transferred",
+		"via",
+		"physical",
+		"conduction",
+		"This",
+		"term",
+		"also",
+		"names",
+		"flow",
+		"electric",
+		"charge",
+		"that",
+		"often",
+		"contrasted",
+		"with",
+		"alternating",
+		"current"
+	],
+	"heading": "ACF Regionals  |2015 | UCSD + Michigan | 9 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The two golden rules of these devices summarize the characteristics of their ideal types, and they have two inputs and one output. For 10 points each: [10] Name these very high-gain electronic devices whose ideal versions have infinite gain, infinite input impedance, zero out impedance, infinite bandwidth, and zero input offset voltage.",
+	"answers": [
+		"operational",
+		"amplifiers",
+		"op-amps"
+	]
+}

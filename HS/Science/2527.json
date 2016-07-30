@@ -1,0 +1,22 @@
+{
+	"answerText": "translation[10]  This other type of rigid motion flips a shape over a given line.",
+	"prompts": [],
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2012 | LISTIII_Round12.docx | 6 | Science |  | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10]  This type of rigid transformation adds a vector to each point of an object, shifting it without changing its shape or orientation.",
+	"answers": [
+		"translation",
+		"10",
+		"This",
+		"other",
+		"type",
+		"rigid",
+		"motion",
+		"flips",
+		"shape",
+		"over",
+		"given",
+		"line"
+	]
+}

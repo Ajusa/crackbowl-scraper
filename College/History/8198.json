@@ -1,0 +1,42 @@
+{
+	"answerText": "White Ship disaster [or sinking of the White Ship; prompt on \"death of William Adelin\" before mentioned][10] The death of William Adelin led to the proclamation of this sister of his as queen. She never reigned because Stephen of Blois took control of England during the Anarchy.",
+	"prompts": [
+		"death",
+		"William",
+		"Adelin",
+		"10",
+		"The",
+		"death",
+		"William",
+		"Adelin",
+		"led",
+		"to",
+		"proclamation",
+		"this",
+		"sister",
+		"his",
+		"as",
+		"queen",
+		"She",
+		"never",
+		"reigned",
+		"because",
+		"Stephen",
+		"Blois",
+		"took",
+		"control",
+		"England",
+		"during",
+		"Anarchy"
+	],
+	"heading": "Penn Bowl |2013 | 7 | 20 | History | British | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: Stephen of Blois, then Count of Mortain, had a bout of diarrhea and avoided this event. [10] Name this disaster that is traditionally linked to the Quilleboeuf Rock. Its most notable casualty was William Adelin.",
+	"answers": [
+		"White",
+		"Ship",
+		"disaster",
+		"sinking"
+	]
+}

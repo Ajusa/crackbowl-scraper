@@ -1,11 +1,29 @@
 {
-	"answerText": "\"Fairytale\" [do not accept \"Fairytales\"][10] That contest, where Rybak put up the highest score in its history, was this one, where multiple countries' broadcasting consortiums select one song to enter. Ireland is the most successful country in this competition.",
+	"answerText": "Aida[10]  This Italian composer of Rigoletto and La traviata composed Aida. His totally awesome requiem is dedicated to writer Alessandro Manzoni.",
 	"prompts": [],
-	"heading": "VCU Closed |2013 | Penn and Wake Forest | 10 | Trash | None | College",
-	"subject": "Trash",
-	"level": "College",
-	"question": "Question: The lyrics of this song state that \"I'm in love with\" the title of this song \"even though it hurts\" because \"I don't' care if I lose my mind.\" For 10 points each: [10] Name this 2009 song by the Norwegian Alexander Rybak, which won an event that was held the next year in Oslo.",
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2012 | LISTIII_Round10.docx | 7 | Fine Arts |  | HS",
+	"subject": "Fine Arts",
+	"level": "HS",
+	"question": "Question:  [10]  Identify this opera, in which Radames sings Ritorna vincitor while Amneris vies with the title princess for his love.",
 	"answers": [
-		"Fairytale"
+		"Aida",
+		"10",
+		"This",
+		"Italian",
+		"composer",
+		"Rigoletto",
+		"and",
+		"La",
+		"traviata",
+		"composed",
+		"His",
+		"totally",
+		"awesome",
+		"requiem",
+		"dedicated",
+		"to",
+		"writer",
+		"Alessandro",
+		"Manzoni"
 	]
 }

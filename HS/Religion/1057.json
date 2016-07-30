@@ -1,0 +1,40 @@
+{
+	"answerText": "Anne Brontë (prompt on partial)[10] This is the aforementioned sister of Anne, who wrote a book in which the title character attends the Lowood School with Helen Burns and is locked in the Red Room by Mrs. Reed.",
+	"prompts": [
+		"partial",
+		"10",
+		"This",
+		"aforementioned",
+		"sister",
+		"Anne",
+		"who",
+		"wrote",
+		"book",
+		"in",
+		"which",
+		"title",
+		"character",
+		"attends",
+		"Lowood",
+		"School",
+		"with",
+		"Helen",
+		"Burns",
+		"and",
+		"locked",
+		"in",
+		"Red",
+		"Room",
+		"by",
+		"Mrs",
+		"Reed"
+	],
+	"heading": "James |2013 | 2 | 20 | Literature | British | HS",
+	"subject": "Literature",
+	"level": "HS",
+	"question": "Question: Her sister condemned and prevented republication of this author's The Tenant of Wildfell Hall, possibly out of jealousy. For 10 points each: [10] Who wrote of the title governess's experiences working under the Bloomfields and Murrays in Agnes Grey?",
+	"answers": [
+		"Anne",
+		"Brontë"
+	]
+}

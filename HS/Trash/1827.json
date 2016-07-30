@@ -1,0 +1,24 @@
+{
+	"answerText": "lysosomes[10] Enzymes that are bound for lysosomes are tagged in the Golgi apparatus with this molecule.",
+	"prompts": [],
+	"heading": "DEES |2014 | Maryland A | 18 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: These organelles contain acid hydrolase enzymes to break down waste materials.  [10] Name these organelles that can break down worn-out organelles or food particles.",
+	"answers": [
+		"lysosomes",
+		"10",
+		"Enzymes",
+		"that",
+		"are",
+		"bound",
+		"for",
+		"tagged",
+		"in",
+		"Golgi",
+		"apparatus",
+		"with",
+		"this",
+		"molecule"
+	]
+}

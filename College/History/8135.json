@@ -1,0 +1,42 @@
+{
+	"answerText": "death of Alexander the Great [or death of Alexander III; or death of Alexander of Macedonia; prompt on just death of Alexander][10] This Roman emperor reportedly snatched Alexander's breastplate from his tomb. He is better known for allegedly trying to appoint his horse as a consul.",
+	"prompts": [
+		"just",
+		"death",
+		"Alexander",
+		"10",
+		"This",
+		"Roman",
+		"emperor",
+		"reportedly",
+		"snatched",
+		"Alexander's",
+		"breastplate",
+		"from",
+		"his",
+		"tomb",
+		"He",
+		"better",
+		"known",
+		"for",
+		"allegedly",
+		"trying",
+		"to",
+		"appoint",
+		"his",
+		"horse",
+		"as",
+		"consul"
+	],
+	"heading": "NASAT |2013 | 6 | 20 | History | Classical | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: This event may have been precipitated by grief faced after the death of Hephaestion. For 10 points each: [10] Name this event suggested by some to be as the result of poisoning, but may just have been the result of disease. It led to the wars of the Diadochi.",
+	"answers": [
+		"death",
+		"Alexander",
+		"Great",
+		"III",
+		"Macedonia"
+	]
+}

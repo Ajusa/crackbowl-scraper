@@ -1,0 +1,39 @@
+{
+	"answerText": "Abraham-Lorentz Force [Also Accept: Radiation Reaction Force. Do not accept or Prompt on Lorentz Force as it is a distinct force][10] The Abraham-Lorentz force is proportional to charge squared times this quantity. This is the time derivative of the acceleration of a system.",
+	"prompts": [
+		"Lorentz",
+		"Force",
+		"as",
+		"distinct",
+		"force",
+		"10",
+		"The",
+		"Abraham-Lorentz",
+		"force",
+		"proportional",
+		"to",
+		"charge",
+		"squared",
+		"times",
+		"this",
+		"quantity",
+		"This",
+		"time",
+		"derivative",
+		"acceleration",
+		"system"
+	],
+	"heading": "Penn-ance |2012 | 01 | 9 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This force's equation is derived, by integrating the power radiated due to the Larmor formula over time [10] Name this force acting on an accelerating charged particle due to its emission of electromagnetic radiation. A quantum analogue exists and is named for Dirac and Langevin in addition to the two named here.",
+	"answers": [
+		"Abraham-Lorentz",
+		"Force",
+		"Also",
+		"Accept:",
+		"Radiation",
+		"Reaction",
+		"Do"
+	]
+}

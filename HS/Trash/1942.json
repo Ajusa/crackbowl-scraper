@@ -1,0 +1,26 @@
+{
+	"answerText": "retina[10] This test, which consists of numbers written with colored dots, is used to diagnose color blindness.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 12 | 4 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Cells located in this structure have a unique ion channel that is gated by cyclic GMP, and flame hemorrhages appear in this structure in people with diabetes. For 10 points each:  [10] Name this structure located in the back of the eye that contains photosensitive rod and cone cells. ",
+	"answers": [
+		"retina",
+		"10",
+		"This",
+		"test",
+		"which",
+		"consists",
+		"numbers",
+		"written",
+		"with",
+		"colored",
+		"dots",
+		"used",
+		"to",
+		"diagnose",
+		"color",
+		"blindness"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"answerText": "Jacobian matrix [or Jacobian determinant][10] The Jacobian is also used when changing variables while doing this. The fundamental theorem of calculus says that it is the opposite of differentiation.",
+	"prompts": [],
+	"heading": "DEES |2014 | Editors 2 | 15 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The Implicit Function Theorem is satisfied when the determinant of this matrix is non-zero.  [10] Name this m by n matrix consisting of the partial derivatives of a function F from R n to R m. ",
+	"answers": [
+		"Jacobian",
+		"matrix",
+		"determinant",
+		"10",
+		"The",
+		"also",
+		"used",
+		"when",
+		"changing",
+		"variables",
+		"while",
+		"doing",
+		"this",
+		"fundamental",
+		"theorem",
+		"calculus",
+		"says",
+		"that",
+		"opposite",
+		"differentiation"
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"answerText": "plasmas[10] This quantity is basically a constant of motion for particles in a plasma and is thus the first adiabatic invariant. It's often expressed in units of the Bohr magneton.",
+	"prompts": [],
+	"heading": "PADAWAN |2014 | 15 | 6 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The best kinetic equation for modeling these substances is the Vlasov equation.  [10] Name this \"fourth state of matter\" that is a fluid of ionized matter.",
+	"answers": [
+		"plasmas",
+		"10",
+		"This",
+		"quantity",
+		"basically",
+		"constant",
+		"motion",
+		"for",
+		"particles",
+		"in",
+		"plasma",
+		"and",
+		"thus",
+		"first",
+		"adiabatic",
+		"invariant",
+		"It's",
+		"often",
+		"expressed",
+		"units",
+		"Bohr",
+		"magneton"
+	]
+}

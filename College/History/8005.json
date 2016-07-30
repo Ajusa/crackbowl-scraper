@@ -1,0 +1,40 @@
+{
+	"answerText": "trenches [prompt on \"ditches\" or \"holes\" or other such answers][10] The Battle of Brandy Station was one of the larger Civil War battles fought primarily between this type of force. John Buford was a commander of this type of force.",
+	"prompts": [
+		"ditches",
+		"holes",
+		"other",
+		"such",
+		"10",
+		"The",
+		"Battle",
+		"Brandy",
+		"Station",
+		"was",
+		"one",
+		"larger",
+		"Civil",
+		"War",
+		"battles",
+		"fought",
+		"primarily",
+		"between",
+		"this",
+		"type",
+		"force",
+		"John",
+		"Buford",
+		"was",
+		"commander",
+		"this",
+		"type",
+		"force"
+	],
+	"heading": "Michigan Fall Tournament |2013 | Dartmouth A Round 13 | 19 | History | American | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: Answer the following about the military history of the American Civil War, for 10 points each. [10] At Cold Harbor, the Army of the Potomac conducted an assault against Confederate troops that were protected by these. Warfare in World War I was characterized by a proliferation of networks of these fortifications.",
+	"answers": [
+		"trenches"
+	]
+}

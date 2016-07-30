@@ -1,0 +1,33 @@
+{
+	"answerText": "Henry the Navigator [prompt on partial answer][10] Henry's father John I founded this Portuguese dynasty, which ruled until Portugal was absorbed into Spain in 1580.",
+	"prompts": [
+		"partial",
+		"answer",
+		"10",
+		"Henry's",
+		"father",
+		"John",
+		"I",
+		"founded",
+		"this",
+		"Portuguese",
+		"dynasty",
+		"which",
+		"ruled",
+		"Portugal",
+		"was",
+		"absorbed",
+		"into",
+		"Spain",
+		"in",
+		"1580"
+	],
+	"heading": "ICCS |2014 | 1 | 8 | History | European | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: This man sponsored expeditions that discovered the Azores, and supported what became the University of Lisbon.  [10] Name this Portuguese prince who helped start the Portuguese Golden Age by supporting exploration.",
+	"answers": [
+		"Henry",
+		"Navigator"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"answerText": "Dijkstra's algorithm[10] During the first step of Dijkstra's algorithm, the distance of all nodes except for the start nodes is assigned this tentative value.",
+	"prompts": [],
+	"heading": "DRAGOON |2013 | Finals 1 | 17 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: It uses a priority queue to order vertices by their closeness. For 10 points each: [10] Name this algorithm, named after a Dutch scientist, which returns the shortest path for a collection of points to the start point.",
+	"answers": [
+		"Dijkstra's",
+		"algorithm",
+		"10",
+		"During",
+		"first",
+		"step",
+		"distance",
+		"all",
+		"nodes",
+		"except",
+		"for",
+		"start",
+		"assigned",
+		"this",
+		"tentative",
+		"value"
+	]
+}

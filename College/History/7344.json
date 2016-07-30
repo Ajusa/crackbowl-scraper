@@ -1,0 +1,41 @@
+{
+	"answerText": "Henry IV [or Henri IV; or Henri-Quatre; or Henry III of Navarre; prompt on \"Henry\" or \"Henry III\" or \"Henry of Navarre\"][10] Henry supposedly escaped at least 12 assassination attempts before this fanatical Catholic stabbed him in his carriage in 1610.",
+	"prompts": [
+		"Henry",
+		"Henry",
+		"III",
+		"Henry",
+		"Navarre",
+		"10",
+		"Henry",
+		"supposedly",
+		"escaped",
+		"at",
+		"least",
+		"12",
+		"assassination",
+		"attempts",
+		"this",
+		"fanatical",
+		"Catholic",
+		"stabbed",
+		"him",
+		"in",
+		"his",
+		"carriage",
+		"in",
+		"1610"
+	],
+	"heading": "MUT |2015 | 8 | 19 | History | European | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: This king promulgated the Edict of Nantes [10] Name this king of France who supposedly said that Paris was \"well worth a mass\" after converting to Catholicism.",
+	"answers": [
+		"Henry",
+		"IV",
+		"Henri",
+		"Henri-Quatre",
+		"III",
+		"Navarre"
+	]
+}

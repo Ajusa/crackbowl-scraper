@@ -1,0 +1,20 @@
+{
+	"answerText": "(one-dimensional) finite square (potential) well [or finite rectangular well; accept finite potential well; prompt on any partial answer; do not accept or prompt on any answer containing \"infinite\"][10] The Kronig-Penney model is easily solved via Bloch's theorem, which states that an energy eigenfunction in a potential of this type can be decomposed into the product of an exponential and a function of this type.",
+	"prompts": [
+		"partial",
+		"answer",
+		"not"
+	],
+	"heading": "ACF Regionals 2014 |2014 | MIT A-Illinois B-Texas A&M A | 14 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Identify this quantum-mechanical potential whose bound states are sinusoids stitched to exponentials. A one-dimensional lattice of this potential is equivalent to the Kronig-Penney model, which models crystalline solids.",
+	"answers": [
+		"one-dimensional",
+		"finite",
+		"square",
+		"potential",
+		"well",
+		"rectangular"
+	]
+}

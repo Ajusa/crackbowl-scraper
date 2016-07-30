@@ -1,0 +1,28 @@
+{
+	"answerText": "photons[10] In the far field, the angular spacing of the fringes is approximately equal to the wavelength of the light divided by this other quantity.",
+	"prompts": [],
+	"heading": "DEES |2014 | Penn A | 17 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer some questions about Young's double-slit experiment,  [10] Young's double-slit experiment showed that these particles have wave properties, since they form an interference pattern of alternating fringes on the film.",
+	"answers": [
+		"photons",
+		"10",
+		"In",
+		"far",
+		"field",
+		"angular",
+		"spacing",
+		"fringes",
+		"approximately",
+		"equal",
+		"to",
+		"wavelength",
+		"light",
+		"divided",
+		"by",
+		"this",
+		"other",
+		"quantity"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"answerText": "IgM [or Immunoglobulin M; prompt on \"immunoglobulin\" or \"antibody\"][10] IgM is the largest isotype of these Y-shaped proteins produced by B cells, which specifically recognize and bind to antigens.",
+	"prompts": [
+		"immunoglobulin",
+		"antibody",
+		"10",
+		"IgM",
+		"largest",
+		"isotype",
+		"these",
+		"Y-shaped",
+		"proteins",
+		"produced",
+		"by",
+		"B",
+		"cells",
+		"which",
+		"specifically",
+		"recognize",
+		"and",
+		"bind",
+		"to",
+		"antigens"
+	],
+	"heading": "PADAWAN |2014 | 2 | 15 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name this very large protein consisting of two heavy and two light chains, which forms intermolecular disulfide bonds, aggregating into pentamers. It is produced in the immediate response to an antigen.",
+	"answers": [
+		"IgM",
+		"Immunoglobulin",
+		"M"
+	]
+}

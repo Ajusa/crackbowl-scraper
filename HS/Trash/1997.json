@@ -1,0 +1,12 @@
+{
+	"answerText": "amortized analysis [do NOT accept other answers][10] Robert Tarjan introduced amortized analysis as a formal method and developed a wide array of data structures. With Daniel Sleator, Tarjan created splay trees, which are self-adjusting examples of the \"search\" type of these trees.",
+	"prompts": [],
+	"heading": "PADAWAN |2014 | 1 | 8 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name this technique for analyzing an algorithm's runtime in which one averages over a worst-case sequence of operations. Hence, it is concerned with the actual runtime.",
+	"answers": [
+		"amortized",
+		"analysis"
+	]
+}

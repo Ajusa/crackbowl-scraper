@@ -1,0 +1,31 @@
+{
+	"answerText": "differential equations[10] This method of solving partial differential equations assumes that the solution will be a product of a set of functions of single variables; that product solution is put into the original equation.",
+	"prompts": [],
+	"heading": "VCU Closed |2013 | Rutgers and Virginia A | 6 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The heat equation and the wave equation are examples of the \"partial\" equations of this type. For 10 points each: [10] Name this type of equation whose terms contain a function and its derivatives of various orders.",
+	"answers": [
+		"differential",
+		"equations",
+		"10",
+		"This",
+		"method",
+		"solving",
+		"partial",
+		"assumes",
+		"that",
+		"solution",
+		"will",
+		"be",
+		"product",
+		"set",
+		"functions",
+		"single",
+		"variables",
+		"put",
+		"into",
+		"original",
+		"equation"
+	]
+}

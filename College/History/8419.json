@@ -1,0 +1,31 @@
+{
+	"answerText": "Charles V of the Holy Roman Empire [or Charles I of Spain; prompt on Charles] [10] Charles V was a member of this royal house that ruled Austria-Hungary until 1918.",
+	"prompts": [
+		"Charles",
+		"10",
+		"Charles",
+		"V",
+		"was",
+		"member",
+		"this",
+		"royal",
+		"house",
+		"that",
+		"ruled",
+		"Austria-Hungary",
+		"1918"
+	],
+	"heading": "Collegiate Novice |2012 | 9 | 17 | History | European | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: The Schmalkaldic League opposed this ruler.  [10] Name this Holy Roman Emperor and King of Spain who fathered Phillip II.",
+	"answers": [
+		"Charles",
+		"V",
+		"Holy",
+		"Roman",
+		"Empire",
+		"I",
+		"Spain"
+	]
+}

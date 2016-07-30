@@ -1,0 +1,11 @@
+{
+	"answerText": "Java (do not accept \"JavaScript\")[10]  The method \"Bark\" in \"Dog\" can be called by an instance of \"Poodle\" because of this feature of object-oriented programming, which allows subclasses to take on methods and properties of their parent classes.",
+	"prompts": [],
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2012 | LISTIII_Round16.docx | 16 | Science |  | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10]  Classes are key to object-oriented programming, the most common language of which is this language, developed by Sun Microsystems. It shares a lot of syntax with C and C++ and runs on a virtual machine.",
+	"answers": [
+		"Java"
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"answerText": "Heine-Borel theorem[10] The actual definition of compact is that every cover of the space has one of these.",
+	"prompts": [],
+	"heading": "DEES |2014 | Penn A | 7 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Part of the proof of this theorem can be used to show that any compact subset of a Hausdorff space is closed.  [10] Name this theorem that states that subsets of Euclidean space are compact if and only if they are closed and bounded. ",
+	"answers": [
+		"Heine-Borel",
+		"theorem",
+		"10",
+		"The",
+		"actual",
+		"definition",
+		"compact",
+		"that",
+		"every",
+		"cover",
+		"space",
+		"has",
+		"one",
+		"these"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"answerText": "systemic lupus erythematosus[10] The symptoms of this other autoimmune disorder imitates another disease that is caused by the buildup of uric acid crystals. It causes buildup of crystals of calcium pyrophosphate dihydrate.",
+	"prompts": [],
+	"heading": "STIMPY |2015 | 1. Chicago A - MIT B | 5 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This autoimmune disorder causes a distinctive butterfly rash and occurs nine times more frequently in females than in males. For 10 points each: [10] Name this disorder that causes inflammation, arthritis, rashes, and fever.",
+	"answers": [
+		"systemic",
+		"lupus",
+		"erythematosus",
+		"10",
+		"The",
+		"symptoms",
+		"this",
+		"other",
+		"autoimmune",
+		"disorder",
+		"imitates"
+	]
+}

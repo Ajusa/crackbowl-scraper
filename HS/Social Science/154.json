@@ -1,12 +1,11 @@
 {
-	"answerText": "Zeno[10] Another philosopher, Zeno of Citium, founded this school of philosophy, whose adherents included Epictetus and the Roman Emperor Marcus Aurelius. It proposed that virtue was the only good.",
+	"answerText": "money [do not accept \"currency\"][10] The Federal Reserve sets this minimum amount of money that a bank must retain at the end of each day. It is  currently 10% of the bank's net transactions. The money multiplier is the reciprocal of this quantity.",
 	"prompts": [],
-	"heading": "BHSAT |2011 | 1 | 19 | Philosophy | None | HS",
-	"subject": "Philosophy",
+	"heading": "Prison Bowl |2012 | 4 | 12 | Social Science | None | HS",
+	"subject": "Social Science",
 	"level": "HS",
-	"question": "Question: Answer the following questions about Classical philosophers, for 10 points each. [10] One philosopher of this name from Elea was a student of Parmenides, and according to a Platonic dialogue, debated a young Socrates. His paradoxes of motion feature the motionless arrow and Achilles racing a tortoise.",
+	"question": "Question: The fiat type of this entity derives its value from its declaration as \"legal tender\" by the government. For 10  points each: [10] Give this general term for an object that can be accepted as payment for a good or service. Most of its M1 (\"M  one\") supply is held in banks.",
 	"answers": [
-		"Zeno",
-		"10"
+		"money"
 	]
 }

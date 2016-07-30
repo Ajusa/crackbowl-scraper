@@ -1,0 +1,24 @@
+{
+	"answerText": "Mongol invasions of Japan [or Yuan invasions of Japan; or Kublai Khan's invasions of Japan; accept equivalents for invasion like \"attack\"; prompt on \"Chinese invasion of Japan\"; prompt on \"invasions of Japan\"][10] Those Mongol invasions were ordered by this grandson of Genghis and brother of Möngke who won the Battle of Yamen and founded the Yuan Dynasty.",
+	"prompts": [
+		"Chinese",
+		"invasion",
+		"Japan"
+	],
+	"heading": "STIMPY |2015 | Harvard A | 15 | History | World | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: During one of these events, soldiers fought on and around large walls at Iki-no-matsubara, and before these events a letter was sent addressed to the \"ruler of a small country.\" For 10 points each: [10] Name these events chronicled by Suenaga, the second of which was repelled by a fleet-crushing \"divine wind.\"",
+	"answers": [
+		"Mongol",
+		"invasions",
+		"Japan",
+		"Yuan",
+		"Kublai",
+		"Khan's",
+		"equivalents",
+		"for",
+		"invasion",
+		"attack"
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"answerText": "phonons[10] This type of scattering occurs when light interacts with acoustic oscillations like phonons.",
+	"prompts": [],
+	"heading": "SUBMIT |2014 | UVA A, Minnesota, Northeastern A | 12 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name these quasiparticles which are the vibrational modes in condensed systems. Debye was able to better predict heat capacity in the low temperature limit by considering their contributions.",
+	"answers": [
+		"phonons",
+		"10",
+		"This",
+		"type",
+		"scattering",
+		"occurs",
+		"when",
+		"light",
+		"interacts",
+		"with",
+		"acoustic",
+		"oscillations"
+	]
+}

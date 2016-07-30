@@ -1,0 +1,26 @@
+{
+	"answerText": "linear momentum[10] While the primitive vectors of a real-space lattice form a Wigner-Seitz cell, the three primitive vectors of a reciprocal lattice form one of these entities.",
+	"prompts": [],
+	"heading": "DEES |2014 | Chicago A | 21 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer the following about reciprocal lattices.  [10] Reciprocal lattices are representations of the crystal in this space, which is conjugate to the position. This variable and position obey the Heisenberg uncertainty principle",
+	"answers": [
+		"linear",
+		"momentum",
+		"10",
+		"While",
+		"primitive",
+		"vectors",
+		"real-space",
+		"lattice",
+		"form",
+		"Wigner-Seitz",
+		"cell",
+		"three",
+		"reciprocal",
+		"one",
+		"these",
+		"entities"
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"answerText": "rhombuses [or rhombi][10] If a rhombus has diagonals of length x and y, then what is the area of the rhombus?",
+	"prompts": [],
+	"heading": "ICCS |2014 | 8 | 7 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: These shapes have area equal to side-length squared times sine of the angle between them.  [10] Identify these quadrilaterals that, like squares, have four equal sides and perpendicular diagonals. Unlike squares, however, their angles need not be right.",
+	"answers": [
+		"rhombuses",
+		"rhombi",
+		"10",
+		"If",
+		"rhombus",
+		"has",
+		"diagonals",
+		"length",
+		"x",
+		"and",
+		"y",
+		"then",
+		"what",
+		"area",
+		"rhombus?"
+	]
+}

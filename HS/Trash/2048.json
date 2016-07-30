@@ -1,0 +1,18 @@
+{
+	"answerText": "Lorenz gauge [or Lorentz gauge  yes, that's correct][10] Another popular gauge is the Coulomb gauge because even if the B field varies in time, this equation will be the same as in electrostatics. It gives the Laplacian of the electric potential as equal to charge density over permittivity.",
+	"prompts": [],
+	"heading": "PADAWAN |2014 | 8 | 4 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The portion of the electric field induced by the magnetic field is not purely solenoidal in this gauge. [10] Name this gauge specified by the condition: divergence of the magnetic vector potential plus the quantity one over speed of light squared times partial time derivative of electric potential, equals zero.",
+	"answers": [
+		"Lorenz",
+		"gauge",
+		"Lorentz",
+		"",
+		"yes",
+		"that's",
+		"correct",
+		"10"
+	]
+}

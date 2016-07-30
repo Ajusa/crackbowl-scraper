@@ -1,0 +1,23 @@
+{
+	"answerText": "structural isomers [or isomerism] [10] Benzene has multiple structural isomers, including one shaped like a triangular box and another with two cyclobutene rings joined together. Name either.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 11 | 14 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This phenomenon exists between the compounds n-pentane, isopentane, and neopentane, but not also with cyclopentane. For 10 points each: [10] Identify this phenomenon where compounds share the same molecular formula, but have different Lewis structures. ",
+	"answers": [
+		"structural",
+		"isomers",
+		"isomerism",
+		"10",
+		"Benzene",
+		"has",
+		"multiple",
+		"including",
+		"one",
+		"shaped",
+		"triangular",
+		"box",
+		"and"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"answerText": "alcohols (prompt on OH)[10] This reaction converts primary and secondary alcohols to a variety of compounds including ethers, and can notably invert the stereochemistry of the alcohol group. Its reagents include triphenylphosphine and DEAD, or diethylazodicarboxylate.",
+	"prompts": [
+		"OH",
+		"10",
+		"This",
+		"reaction",
+		"converts",
+		"primary",
+		"and",
+		"secondary",
+		"alcohols",
+		"to",
+		"variety",
+		"compounds",
+		"including",
+		"ethers",
+		"and",
+		"can",
+		"notably",
+		"invert",
+		"stereochemistry",
+		"alcohol",
+		"group",
+		"Its",
+		"reagents",
+		"include",
+		"triphenylphosphine",
+		"and",
+		"DEAD",
+		"diethylazodicarboxylate"
+	],
+	"heading": "Missiles of October |2011 | 11 | 10 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: These functional groups can be converted to tosylates to make them better leaving groups. For 10 points each: [10] Identify this type of compound exemplified by ethanol.",
+	"answers": [
+		"alcohols"
+	]
+}

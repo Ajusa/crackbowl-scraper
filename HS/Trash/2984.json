@@ -1,0 +1,23 @@
+{
+	"answerText": "Philip IV of Spain [or Felipe IV of Spain or Philip III of Portugal or Philip III of Aragon; do not accept or prompt on just \"Philip III\" or \"Philip V\"; prompt on Philip; prompt on Felipe][10]  J. H. Elliott wrote a dual biography of Olivares and this French minister, nicknamed \"The Red Eminence.\" This cardinal held great power during the reign of Louis XIII.",
+	"prompts": [
+		"just",
+		"Philip",
+		"III",
+		"Philip",
+		"V"
+	],
+	"heading": "PACE NSC |2015 | 2 | 23 | History | European | HS",
+	"subject": "History",
+	"level": "HS",
+	"question": "Question: Identify the following about the Count-Duke of Olivares, for 10 points each. [10] Olivares was a minister of this Spanish king, for whom he built the Buen Retiro palace. The next Spanish monarch with the same name as this king sparked a war by succeeding the feeble-minded Charles II.",
+	"answers": [
+		"Philip",
+		"IV",
+		"Spain",
+		"Felipe",
+		"III",
+		"Portugal",
+		"Aragon"
+	]
+}

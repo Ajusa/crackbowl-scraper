@@ -1,0 +1,30 @@
+{
+	"answerText": "retina[10] There are two types of photoreceptor cells in the retina, one responsible for color vision, and the other responsible for vision in low light. Name both.",
+	"prompts": [],
+	"heading": "ICCS |2014 | 1 | 10 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Flame hemorrhages appear in this structure in people suffering from diabetes or hypertension.  [10] Name this organ found in the back of the eye, which relays signals from light-sensitive cells to the optic nerve.",
+	"answers": [
+		"retina",
+		"10",
+		"There",
+		"are",
+		"two",
+		"types",
+		"photoreceptor",
+		"cells",
+		"in",
+		"one",
+		"responsible",
+		"for",
+		"color",
+		"vision",
+		"and",
+		"other",
+		"low",
+		"light",
+		"Name",
+		"both"
+	]
+}

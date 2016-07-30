@@ -1,0 +1,33 @@
+{
+	"answerText": "pKa [do not accept or prompt on \"Ka\"][10] According to the leveling effect, this is the strongest acid which can exist in water. This cation consists of a proton bonded to water.",
+	"prompts": [
+		"Ka",
+		"10",
+		"According",
+		"to",
+		"leveling",
+		"effect",
+		"this",
+		"strongest",
+		"acid",
+		"which",
+		"can",
+		"exist",
+		"in",
+		"water",
+		"This",
+		"cation",
+		"consists",
+		"proton",
+		"bonded",
+		"to",
+		"water"
+	],
+	"heading": "NASAT |2013 | 10 | 20 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This quantity equals around 25 for alkynes, which allows them to be deprotonated by strong bases. For 10 points each: [10] Name this quantity which is equal to the pH halfway to the equivalence point in a titration. It measures the strength of an acid; a higher value of this quantity means a weaker acid.",
+	"answers": [
+		"pKa"
+	]
+}

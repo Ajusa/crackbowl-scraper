@@ -1,0 +1,31 @@
+{
+	"answerText": "extracellular matrix (or ECM)[10] This protein with a triple helix structure enhances the structural integrity of ECM. It's the most abundant protein in the ECM, as well as the most abundant protein in the human body.",
+	"prompts": [],
+	"heading": "SUBMIT |2014 | Illinois A, Alabama, Yale B | 19 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name these cells that create extracellular matrix. 3T3 cells are a mouse embryonic line of these cells.",
+	"answers": [
+		"extracellular",
+		"matrix",
+		"ECM",
+		"10",
+		"This",
+		"protein",
+		"with",
+		"triple",
+		"helix",
+		"structure",
+		"enhances",
+		"structural",
+		"integrity",
+		"It's",
+		"most",
+		"abundant",
+		"in",
+		"as",
+		"well",
+		"human",
+		"body"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"answerText": "Election of 1876 [prompt on \"76\"][10] This was the name given to Democrats like Samuel Tilden and Grover Cleveland who adhered to classical liberalism and laissez-faire policies.",
+	"prompts": [
+		"76",
+		"10",
+		"This",
+		"was",
+		"name",
+		"given",
+		"to",
+		"Democrats",
+		"Samuel",
+		"Tilden",
+		"and",
+		"Grover",
+		"Cleveland",
+		"who",
+		"adhered",
+		"to",
+		"classical",
+		"liberalism",
+		"and",
+		"laissez-faire",
+		"policies"
+	],
+	"heading": "Penn Bowl |2013 | 9 | 18 | History | American | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: During this election, philanthropist Peter Cooper ran on the Greenback Party ticket. [10] Name this election year in which Rutherford B. Hayes defeated Samuel Tilden after the Republicans agreed to end reconstruction.",
+	"answers": [
+		"Election",
+		"1876"
+	]
+}

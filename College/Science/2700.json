@@ -1,0 +1,40 @@
+{
+	"answerText": "Leyden jar [DO NOT reveal if it is not given, but prompt on capacitor][10] The Leyden jar is a simple example of this type of circuit element for storing charge. A typical example consists of two parallel metal terminals separated by a dielectric material.",
+	"prompts": [
+		"capacitor",
+		"10",
+		"The",
+		"Leyden",
+		"jar",
+		"simple",
+		"example",
+		"this",
+		"type",
+		"circuit",
+		"element",
+		"for",
+		"storing",
+		"charge",
+		"A",
+		"typical",
+		"example",
+		"consists",
+		"two",
+		"parallel",
+		"metal",
+		"terminals",
+		"separated",
+		"by",
+		"dielectric",
+		"material"
+	],
+	"heading": "Illinois Fall Touranment |2012 | 5 | 5 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: A simple one of these devices consists of a glass jar coated on the inside and outside with conducting foil and containing a round metal ball mounted in the middle. For 10 points each: [10] Name this simple device invented in the 1700s that stores electric charge.",
+	"answers": [
+		"Leyden",
+		"jar",
+		"DO"
+	]
+}

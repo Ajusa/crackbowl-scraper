@@ -83,6 +83,8 @@ function makeJson(url, file, subject, level) {
         for (var i = obj.length - 1; i >= 0; i--) {
             fs.writeFile(file + "/" + i + ".json", JSON.stringify(obj[i], null, "\t"), function(err) {});
         }
-
+        fs.writeFile(file + "/" + "info.json", JSON.stringify({
+            number: obj.length,
+        }, null, "\t"), function(err) {});
     })
 }

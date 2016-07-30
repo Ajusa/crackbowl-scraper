@@ -1,0 +1,18 @@
+{
+	"answerText": "P or PTIME[10] It is an open question whether or not this other computational class is equal to P. Those problems that are complete for this class are generally thought to be computational intractable, unless it is equal to P.",
+	"prompts": [],
+	"heading": "MUT |2012 | 3 | 18 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: We are sure that this class is not equal to PSPACE, but we are not sure about much else on it. For 10 points each: [10] Name this class of computational complexity theory which is defined as the set of all problems for which there is a deterministic Turing Machine that can verify an answer to a certain type of problem in polynomial time.",
+	"answers": [
+		"P",
+		"PTIME",
+		"10",
+		"It",
+		"an",
+		"open",
+		"question",
+		"whether"
+	]
+}

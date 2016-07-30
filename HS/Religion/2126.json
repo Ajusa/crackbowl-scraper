@@ -1,0 +1,28 @@
+{
+	"answerText": "options[10] This doubly-eponymous formula for European option pricing was developed in the 1970s and allows for delta hedging. Its notoriously long proof involves solving a differential equation based on the stock price following a random walk.",
+	"prompts": [],
+	"heading": "Missiles of October |2011 | 4 | 11 | Social Science | None | College",
+	"subject": "Social Science",
+	"level": "College",
+	"question": "Question: They come in American and European forms, with the difference between the two being the ability to exercise them before the expiration date.  For 10 points each: [10] Name these financial derivatives that specify a strike price at which a stock can be bought or sold. They come in put and call varieties.",
+	"answers": [
+		"options",
+		"10",
+		"This",
+		"doubly-eponymous",
+		"formula",
+		"for",
+		"European",
+		"option",
+		"pricing",
+		"was",
+		"developed",
+		"in",
+		"1970s",
+		"and",
+		"allows",
+		"delta",
+		"hedging",
+		"Its"
+	]
+}

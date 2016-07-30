@@ -1,0 +1,36 @@
+{
+	"answerText": "Raney nickel [prompt on nickel][10] Nickel is complexed with these molecules in the Mond process. Isoelectronic with nitrogen gas, its toxicity is due to an irreversible binding to hemoglobin.",
+	"prompts": [
+		"nickel",
+		"10",
+		"Nickel",
+		"complexed",
+		"with",
+		"these",
+		"molecules",
+		"in",
+		"Mond",
+		"process",
+		"Isoelectronic",
+		"with",
+		"nitrogen",
+		"gas",
+		"its",
+		"toxicity",
+		"due",
+		"to",
+		"an",
+		"irreversible",
+		"binding",
+		"to",
+		"hemoglobin"
+	],
+	"heading": "DEES |2014 | Toronto-Waterloo-McMaster A | 17 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The most well-known application of this catalyst is in the Mozingo reaction, where it is used to remove a thioketal from the alkane product.  [10] Name this grey powdered catalyst that is derived from an alloy of aluminium and its namesake metal.",
+	"answers": [
+		"Raney",
+		"nickel"
+	]
+}

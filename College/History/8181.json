@@ -1,0 +1,37 @@
+{
+	"answerText": "Shaka Zulu [or Shaka kaSenzangakhona; prompt on kaSenzangakhona][10] Shaka's establishment of the Zulu as a regional power began the mfecane, which led to King Mzilikazi of this kingdom dominating the Transvaal after leaving Shaka's empire.",
+	"prompts": [
+		"kaSenzangakhona",
+		"10",
+		"Shaka's",
+		"establishment",
+		"Zulu",
+		"as",
+		"regional",
+		"power",
+		"began",
+		"mfecane",
+		"which",
+		"led",
+		"to",
+		"King",
+		"Mzilikazi",
+		"this",
+		"kingdom",
+		"dominating",
+		"Transvaal",
+		"after",
+		"leaving",
+		"Shaka's",
+		"empire"
+	],
+	"heading": "Penn Bowl |2013 | 4 | 6 | History | World | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: This ruler made tactical military reforms such as the development of the bull horn formation. [10] Name this first King of the Zulu.",
+	"answers": [
+		"Shaka",
+		"Zulu",
+		"kaSenzangakhona"
+	]
+}

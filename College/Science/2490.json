@@ -1,0 +1,32 @@
+{
+	"answerText": "photons[10] This vector, important to calculating the radiation pressure, is equal to the cross product of the electric field and the H-field, and gives the energy flux density of an electromagnetic field.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 8 | 8 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer some questions about radiation pressure. [10] Radiation pressure is caused by these particles hitting a solid object. These particles are emitted during radiative transitions, and are the quanta of light.",
+	"answers": [
+		"photons",
+		"10",
+		"This",
+		"vector",
+		"important",
+		"to",
+		"calculating",
+		"radiation",
+		"pressure",
+		"equal",
+		"cross",
+		"product",
+		"electric",
+		"field",
+		"and",
+		"H-field",
+		"gives",
+		"energy",
+		"flux",
+		"density",
+		"an",
+		"electromagnetic"
+	]
+}

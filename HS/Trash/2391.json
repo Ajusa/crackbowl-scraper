@@ -1,0 +1,28 @@
+{
+	"answerText": "symmetric matrix[10] This kind of square matrix, consisting of a function's second-order partial derivatives, is positive definite at a function's local minima and negative definite at a function's local maxima.",
+	"prompts": [],
+	"heading": "NASAT |2013 | 17 | 15 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: These mathematical objects can be classified as positive definite, negative definite, or indefinite depending on the product of a vector, it, and the vector's transpose. For 10 points each: [10] Name this type of square matrix that is equal to its own transpose.",
+	"answers": [
+		"symmetric",
+		"matrix",
+		"10",
+		"This",
+		"square",
+		"consisting",
+		"function's",
+		"second-order",
+		"partial",
+		"derivatives",
+		"positive",
+		"definite",
+		"at",
+		"local",
+		"minima",
+		"and",
+		"negative",
+		"maxima"
+	]
+}

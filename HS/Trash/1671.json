@@ -1,0 +1,16 @@
+{
+	"answerText": "the ideal rocket equation [accept, but DO NOT MENTION, the Tsiolkovsky rocket equation][10] The ideal rocket equation is often named for this reclusive Russian scientist, who like Hermann Oberth and Robert Goddard is considered a father of rocketry.",
+	"prompts": [],
+	"heading": "MUT |2015 | 6 | 21 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The military engineer William Moore developed a precursor to this equation thanks to experimental data gathered by using a weapon designed by Sir William Congreve. [10] Identify this equation that sets delta-v equal to the effective exhaust velocity times the logarithm of the ratio of initial and final masses. As its name suggests, it is useful for describing the motion of things that decrease in mass as they use fuel.",
+	"answers": [
+		"the",
+		"ideal",
+		"rocket",
+		"equation",
+		"but",
+		"DO"
+	]
+}

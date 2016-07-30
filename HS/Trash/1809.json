@@ -1,0 +1,36 @@
+{
+	"answerText": "beta-pleated sheet [prompt on beta strand][10] Along with alpha helices, beta-pleated sheets make up this level of protein structure, which involves the local geometrical structure of amino acid sequences.",
+	"prompts": [
+		"beta",
+		"strand",
+		"10",
+		"Along",
+		"with",
+		"alpha",
+		"helices",
+		"beta-pleated",
+		"sheets",
+		"make",
+		"up",
+		"this",
+		"level",
+		"protein",
+		"structure",
+		"which",
+		"involves",
+		"local",
+		"geometrical",
+		"structure",
+		"amino",
+		"acid",
+		"sequences"
+	],
+	"heading": "DEES |2014 | Columbia B | 2 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The strength of fibroin, a major component of silk, results from the crystallization of many of these structures.  [10] Name this protein structure held together by hydrogen bonds that may be classified as either parallel or antiparallel depending on the orientation of the C-terminus.",
+	"answers": [
+		"beta-pleated",
+		"sheet"
+	]
+}

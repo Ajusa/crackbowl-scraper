@@ -1,0 +1,33 @@
+{
+	"answerText": "Navier-Stokes equations[10] Stokes's formula for a sphere moving slowly in a fluid gives the drag as equal to this constant times dynamic viscosity times the radius of the sphere times fluid velocity.",
+	"prompts": [],
+	"heading": "MUT |2015 | 7 | 2 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The existence and uniqueness of solutions to this set of equations is the subject of a Millenium Prize Problem.  [10] Name these nonlinear equations from fluid dynamics that completely describe the motion of a viscous flow.",
+	"answers": [
+		"Navier-Stokes",
+		"equations",
+		"10",
+		"Stokes's",
+		"formula",
+		"for",
+		"sphere",
+		"moving",
+		"slowly",
+		"in",
+		"fluid",
+		"gives",
+		"drag",
+		"as",
+		"equal",
+		"to",
+		"this",
+		"constant",
+		"times",
+		"dynamic",
+		"viscosity",
+		"radius",
+		"velocity"
+	]
+}

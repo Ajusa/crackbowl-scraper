@@ -1,0 +1,27 @@
+{
+	"answerText": "graphs[10] This kind of route in a graph visits each vertex exactly once. The task of finding one of these in a graph is NP-complete.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 14 | 14 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: An important result in this theory was that no one could traverse the seven bridges of Konigsberg without going over one of the bridges twice. For 10 points each:  [10] Name these mathematical constructs which consist of a group of vertices connected by one or more edges. ",
+	"answers": [
+		"graphs",
+		"10",
+		"This",
+		"route",
+		"in",
+		"graph",
+		"visits",
+		"each",
+		"vertex",
+		"exactly",
+		"once",
+		"The",
+		"task",
+		"finding",
+		"one",
+		"these",
+		"NP-complete"
+	]
+}

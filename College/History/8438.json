@@ -1,0 +1,28 @@
+{
+	"answerText": "Ivan III [or Ivan the Great; or Ivan Veliky; prompt on Ivan Vasilyevich][10] Ivan III was the Grand Prince of this city, which houses the Kremlin.",
+	"prompts": [
+		"Ivan",
+		"Vasilyevich",
+		"10",
+		"Ivan",
+		"III",
+		"was",
+		"Grand",
+		"Prince",
+		"this",
+		"city",
+		"which",
+		"houses",
+		"Kremlin"
+	],
+	"heading": "NASAT |2012 | 1 | 6 | History | European | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: This ruler annexed Yaroslavl and Rostov, and he took Novgorod in 1478 after a series of campaigns. For 10 points each: [10] Name this Russian ruler who married Zoe Paleologus and successfully ended the tributary status of his people.",
+	"answers": [
+		"Ivan",
+		"III",
+		"Great",
+		"Veliky"
+	]
+}

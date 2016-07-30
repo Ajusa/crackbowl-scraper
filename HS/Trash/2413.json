@@ -1,0 +1,32 @@
+{
+	"answerText": "two[10] Pi bonds are formed from the overlap of these chemical entities. They must be oriented perpendicular to the sigma bond and parallel to one another in order for a pi bond to form.",
+	"prompts": [],
+	"heading": "NASAT |2013 | 3 | 18 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer the following on sigma bonds and pi bonds. For 10 points each: [10] Give the number of pi bonds present in a triple bond.",
+	"answers": [
+		"two",
+		"10",
+		"Pi",
+		"bonds",
+		"are",
+		"formed",
+		"from",
+		"overlap",
+		"these",
+		"chemical",
+		"entities",
+		"They",
+		"must",
+		"be",
+		"oriented",
+		"perpendicular",
+		"to",
+		"sigma",
+		"bond",
+		"and",
+		"parallel",
+		"one"
+	]
+}
