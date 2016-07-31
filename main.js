@@ -5,6 +5,7 @@ var mkpath = require('mkpath');
 var obj = [];
 var words = ["mention", "is", "either", "before", "or", "accept", "like", "answers", "[", "]", "on", "until", "it", "mentioned", "synonyms", "the", "do", "any", "kind", "of", "mention", "a"];
 var chars = [".", "[", "]", ",", "(", ")", ";", '"'];
+<<<<<<< HEAD
 var subjects = ["Literature", "History", "Science", "Fine Arts", "Religion", "Mythology", "Philosophy", "Social Science", "Geography", "Current Events", "Trash"]
 var levels = ["College", "HS", "MS"]
 var heading;
@@ -15,6 +16,29 @@ for (var i = levels.length - 1; i >= 0; i--) {
     }
 
 }
+=======
+fs.readFile('source.html', 'utf8', function(err, contents) {
+    $ = cheerio.load(contents);
+    $('div.col-md-12').each(function(i, elem) {
+        var raw = $(this).find('p').next().text();
+        if (raw.indexOf("ANSWER:") == -1) {} else {
+            var arr = [];
+
+            var answer = raw.split("ANSWER:")[1];
+            answer = answer.trim();
+            var finalObj = {
+                answerText: answer,
+                prompts: [],
+            }
+            for (var i = chars.length - 1; i >= 0; i--) {
+                newanswer = answer;
+                do {
+                    answer = newanswer;
+                    newanswer = answer.replace(chars[i], " ");
+                }
+                while (newanswer != answer);
+            }
+>>>>>>> parent of 8319da3... Added tourney headings
 
 function buildUrl(subject, level) {
     return "http://www.quinterest.org/php/searchDatabase.php?limit=20&info=&categ=" + encodeURIComponent(subject) + "&sub=None&stype=Answer&qtype=Tossup&difficulty=" + encodeURIComponent(level) + "&tournamentyear=All"
