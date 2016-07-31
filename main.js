@@ -6,6 +6,7 @@ var obj = [];
 var words = ["mention", "is", "either", "before", "or", "accept", "like", "answers", "[", "]", "on", "until", "it", "mentioned", "synonyms", "the", "do", "any", "kind", "of", "mention", "a"];
 var chars = [".", "[", "]", ",", "(", ")", ";", '"'];
 <<<<<<< HEAD
+<<<<<<< HEAD
 var subjects = ["Literature", "History", "Science", "Fine Arts", "Religion", "Mythology", "Philosophy", "Social Science", "Geography", "Current Events", "Trash"]
 var levels = ["College", "HS", "MS"]
 var heading;
@@ -17,6 +18,8 @@ for (var i = levels.length - 1; i >= 0; i--) {
 
 }
 =======
+=======
+>>>>>>> parent of 8319da3... Added tourney headings
 fs.readFile('source.html', 'utf8', function(err, contents) {
     $ = cheerio.load(contents);
     $('div.col-md-12').each(function(i, elem) {
