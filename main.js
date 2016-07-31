@@ -81,6 +81,7 @@ function makeJson(url, file, subject, level) {
                 obj.push(finalObj)
             }
         });
-        fs.writeFile(file + subject + ".json", JSON.stringify(obj, null, "\t"), function(err) {});
+
     })
+    fs.writeFile(file + subject + ".json", JSON.stringify(obj, null, "\t"), function(err) {});
 }
