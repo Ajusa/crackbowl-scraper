@@ -1,0 +1,38 @@
+{
+	"answerText": "dopamine [prompt on DA][10]  This family of enzymes originally discovered by Mary Bernheim functions by breaking down dopamine, tryptamine, and other associated neurotransmitters. It catalyzes the conversion of metanephrine to VMA.",
+	"prompts": [
+		"DA",
+		"10",
+		"This",
+		"family",
+		"enzymes",
+		"originally",
+		"discovered",
+		"by",
+		"Mary",
+		"Bernheim",
+		"functions",
+		"by",
+		"breaking",
+		"down",
+		"dopamine",
+		"tryptamine",
+		"and",
+		"other",
+		"associated",
+		"neurotransmitters",
+		"It",
+		"catalyzes",
+		"conversion",
+		"metanephrine",
+		"to",
+		"VMA"
+	],
+	"heading": "NASAT |2013 | 2 | 12 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Identify this neurotransmitter which is heavily involved in the brain's reward pathways. It is a precursor to epinephrine",
+	"answers": [
+		"dopamine"
+	]
+}

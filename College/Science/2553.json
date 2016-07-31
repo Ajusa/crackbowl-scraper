@@ -1,0 +1,33 @@
+{
+	"answerText": "trophosphere[10] The temperature of the trophosphere decreases as you go up, meaning that it has a positive value of this quantity. This quantity is the negative derivative of temperature with respect to altitude.",
+	"prompts": [],
+	"heading": "VCU Closed |2013 | Editors 2 | 17 | Science | Other | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This is the layer where aerosols and water vapor tends to hang out, For 10 points: [10] Name the lowest layer of the atmosphere.",
+	"answers": [
+		"trophosphere",
+		"10",
+		"The",
+		"temperature",
+		"decreases",
+		"as",
+		"you",
+		"go",
+		"up",
+		"meaning",
+		"that",
+		"has",
+		"positive",
+		"value",
+		"this",
+		"quantity",
+		"This",
+		"negative",
+		"derivative",
+		"with",
+		"respect",
+		"to",
+		"altitude"
+	]
+}

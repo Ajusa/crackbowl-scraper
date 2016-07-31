@@ -1,0 +1,15 @@
+{
+	"answerText": "heart attack [or acute myocardial infarction, do not accept \"cardiac arrest\"][10] Acute coronary syndromes are typically categorized by whether an elevation in this part of an EKG is present. This flat portion represents the waiting point until ventricular repolarization, after the depolarization during the QRS complex.",
+	"prompts": [],
+	"heading": "DEES |2014 | Editors 3 + UCSD | 8 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This event can be detected with Sgarbossa's criteria when EKG diagnosis is obscured by a left bundle branch block or paced rhythm.  [10] Name this event often triggered when an atherosclerotic plaque ruptures and blocks oxygen from reaching parts of a namesake organ. Classical symptoms of this event in males are angina pectoris and radiating left arm pain.",
+	"answers": [
+		"heart",
+		"attack",
+		"acute",
+		"myocardial",
+		"infarction"
+	]
+}

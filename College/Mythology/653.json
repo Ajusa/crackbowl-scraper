@@ -1,0 +1,42 @@
+{
+	"answerText": "African/black slaves [prompt on less specific answers that do not mention slaves][10] An instance of this practice being carried out by practitioners of Santeria resulted in a Supreme Court case that held a local ordinance from Florida was unconstitutional.",
+	"prompts": [
+		"less",
+		"specific",
+		"that",
+		"not",
+		"slaves",
+		"10",
+		"An",
+		"instance",
+		"this",
+		"practice",
+		"being",
+		"carried",
+		"out",
+		"by",
+		"practitioners",
+		"Santeria",
+		"resulted",
+		"in",
+		"Supreme",
+		"Court",
+		"case",
+		"that",
+		"held",
+		"local",
+		"ordinance",
+		"from",
+		"Florida",
+		"was",
+		"unconstitutional"
+	],
+	"heading": "PADAWAN |2014 | 13 | 5 | Religion | None | College",
+	"subject": "Religion",
+	"level": "College",
+	"question": "Question: These people originated the spiritual \"Go Down, Moses.\" [10] Name these people whose arrival in the Americas resulted in the creation of Yoruba-based traditions such as Candomblé, Santeria, and Voodoo.",
+	"answers": [
+		"African/black",
+		"slaves"
+	]
+}

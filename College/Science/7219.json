@@ -1,0 +1,16 @@
+{
+	"answerText": "curvature [10] In Euclidean space, where curvature is not 0, this proposition, equivalent to Playfair's axiom and the third member of Hilbert's Axioms, no longer holds.",
+	"prompts": [],
+	"heading": "ACF Winter |2009 | University of Pittsburgh A and Walter Johnson High School | 16 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: According to the four-vertex theorem, a closed embedded smooth plane curve has at least 4 extrema of this quantity.  [10] Identify this quantity, which loosely speaking measures deviations from flatness. ",
+	"answers": [
+		"curvature",
+		"10",
+		"In",
+		"Euclidean",
+		"space",
+		"where"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"answerText": "stress [10] On a stress-strain curve, this point is the greatest stress a material can endure before its cross-section decreases and it fractures.",
+	"prompts": [],
+	"heading": "ACF Regionals  |2012 | RPI | 18 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The shear form of this force occurs parallel to a material's surface. For 10 points each: [10] Name this type of force, given in units of Newtons per square meter, typically plotted against strain on certain curves.",
+	"answers": [
+		"stress",
+		"10",
+		"On",
+		"stress-strain",
+		"curve",
+		"this",
+		"point",
+		"greatest",
+		"material",
+		"can",
+		"endure",
+		"its",
+		"cross-section",
+		"decreases",
+		"and",
+		"fractures"
+	]
+}

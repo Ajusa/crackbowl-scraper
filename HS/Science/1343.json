@@ -1,0 +1,30 @@
+{
+	"answerText": "diode (accept light emitting diode; prompt on \"LED\")[10] Diodes usually consist of this type of junction in which two halves of a semiconductor are doped differently.",
+	"prompts": [
+		"LED",
+		"10",
+		"Diodes",
+		"usually",
+		"consist",
+		"this",
+		"type",
+		"junction",
+		"in",
+		"which",
+		"two",
+		"halves",
+		"semiconductor",
+		"are",
+		"doped",
+		"differently"
+	],
+	"heading": "James |2013 | 4 | 19 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: The circuit diagram symbol for this component is a triangle and a line. For 10 points each: [10] Name this electrical component that allow current flow in one direction. They have a light emitting type.",
+	"answers": [
+		"diode",
+		"light",
+		"emitting"
+	]
+}

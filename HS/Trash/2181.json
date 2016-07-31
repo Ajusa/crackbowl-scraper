@@ -1,0 +1,37 @@
+{
+	"answerText": "Barr body [prompt on X-chromatin, inactivated X chromosome or chromocenter][10] X-inactivation is usually random in mammals, although it is deterministic in these species. Species within this infraclass include koalas and kangaroos.",
+	"prompts": [
+		"X-chromatin",
+		"inactivated",
+		"X",
+		"chromosome",
+		"chromocenter",
+		"10",
+		"X-inactivation",
+		"usually",
+		"random",
+		"in",
+		"mammals",
+		"although",
+		"deterministic",
+		"in",
+		"these",
+		"species",
+		"Species",
+		"within",
+		"this",
+		"infraclass",
+		"include",
+		"koalas",
+		"and",
+		"kangaroos"
+	],
+	"heading": "ACF Regionals |2013 | Bellevue + Michigan A + Georgia Tech | 14 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: These entities can be identified by staining interphase cells with orcein and were first discovered in cat neurons. For 10 points each: [10] Identify these entities that have undergone lyonization.",
+	"answers": [
+		"Barr",
+		"body"
+	]
+}

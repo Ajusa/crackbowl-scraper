@@ -1,0 +1,31 @@
+{
+	"answerText": "positive terminal[10]  Multiple resistors can either be in series or in this configuration. The reciprocal of the total resistance is equal to the sum of the reciprocals of the individual resistances of resistors in this configuration.",
+	"prompts": [],
+	"heading": "Prison Bowl |2013 | Round07.docx | 15 | Science |  | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10]  In a circuit diagram, conventional current flows out of this end of the battery, represented by a long perpendicular line. In actuality, electrons flow into this terminal.",
+	"answers": [
+		"positive",
+		"terminal",
+		"10",
+		"Multiple",
+		"resistors",
+		"can",
+		"be",
+		"in",
+		"series",
+		"this",
+		"configuration",
+		"The",
+		"reciprocal",
+		"total",
+		"resistance",
+		"equal",
+		"to",
+		"sum",
+		"reciprocals",
+		"individual",
+		"resistances"
+	]
+}

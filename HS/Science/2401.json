@@ -1,0 +1,33 @@
+{
+	"answerText": "rational numbers [or Q][10]  One consequence of some p-adic metrics is that this infinite series, in which the nth term is \"1 over n,\" converges in p-adic metric spaces.",
+	"prompts": [],
+	"heading": "PACE |2013 | 3 | 9 | Science | Math | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: The p-adic metric provides one way to complete this set. For 10 points each: [10]  Name this set, of which the real numbers are another completion. This set contains all numbers that can be written as finite fractions of integers. ",
+	"answers": [
+		"rational",
+		"numbers",
+		"Q",
+		"10",
+		"One",
+		"consequence",
+		"some",
+		"p-adic",
+		"metrics",
+		"that",
+		"this",
+		"infinite",
+		"series",
+		"in",
+		"which",
+		"nth",
+		"term",
+		"1",
+		"over",
+		"n",
+		"converges",
+		"metric",
+		"spaces"
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"answerText": "electrical resistance [do NOT accept or prompt on \"resistivity\"][10] This is the AC analog of resistance. Its real part is the resistance and its imaginary part is the reactance.",
+	"prompts": [
+		"resistivity",
+		"10",
+		"This",
+		"AC",
+		"analog",
+		"resistance",
+		"Its",
+		"real",
+		"part",
+		"resistance",
+		"and",
+		"its",
+		"imaginary",
+		"part",
+		"reactance"
+	],
+	"heading": "BHSAT |2015 | Round 4 | 5 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: This quantity is equal to voltage divided by current by Ohm's law, For 10 points each [10] Name this opposition to the flow of current that is absent in superconductors.",
+	"answers": [
+		"electrical",
+		"resistance"
+	]
+}

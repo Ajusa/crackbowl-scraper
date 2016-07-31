@@ -1,0 +1,33 @@
+{
+	"answerText": "Henry II [prompt on \"Henry\"][10] Thomas Beckett held this position in which he resisted the Constitutions of Clarendon. It is one of the highest positions in the Anglican Church.",
+	"prompts": [
+		"Henry",
+		"10",
+		"Thomas",
+		"Beckett",
+		"held",
+		"this",
+		"position",
+		"in",
+		"which",
+		"he",
+		"resisted",
+		"Constitutions",
+		"Clarendon",
+		"It",
+		"one",
+		"highest",
+		"positions",
+		"in",
+		"Anglican",
+		"Church"
+	],
+	"heading": "James |2013 | 7 | 7 | History | British | HS",
+	"subject": "History",
+	"level": "HS",
+	"question": "Question: Richard the Lionheart along with his brothers revolted against this man. For 10 points each: [10] Name this Plantagenet king who was married to Eleanor of Acquitaine and whose knights killed Thomas Becket.",
+	"answers": [
+		"Henry",
+		"II"
+	]
+}

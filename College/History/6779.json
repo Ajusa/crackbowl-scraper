@@ -1,0 +1,16 @@
+{
+	"answerText": "determinant[10] This is the determinant of the matrix of a non-invertible transformation.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 9 | 11 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This operation is applied to the Wronskian to determine linear independence of solutions to differential equations. [10] Name this alternating multilinear function that is usually indicated by putting straight bars on either side of a matrix.",
+	"answers": [
+		"determinant",
+		"10",
+		"This",
+		"matrix",
+		"non-invertible",
+		"transformation"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"answerText": "dominant strategies [or word forms; do NOT accept \"dominaTED strategies\"; accept \"weak(ly) dominant\" or \"strict(ly) dominant\" ][10] This situation results when the prisoners pursue  the dominant strategy in the prisoner's dilemma; in this situation, each player's decision is the best response to each other player's strategy.",
+	"prompts": [],
+	"heading": "MUT |2015 | 3 | 8 | Social Science | None | College",
+	"subject": "Social Science",
+	"level": "College",
+	"question": "Question: the prisoner's dilemma, implicating the other agent is this type of strategy. [10] Name these strategies, for which the payoff is always greater than it is for pursuing any other strategy regardless of the strategy pursued by the other agent",
+	"answers": [
+		"dominant",
+		"strategies",
+		"word",
+		"forms"
+	]
+}

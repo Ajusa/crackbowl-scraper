@@ -1,0 +1,33 @@
+{
+	"answerText": "topology[10] A set theory definition of topology defines a set of points X and a subset of X with this property. Those subsets of X with this property must also retain it under finite intersection and finite union.",
+	"prompts": [],
+	"heading": "DRAGOON |2013 | 4 | 12 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: One of the most celebrated results of this field is the Whitney Embedding Theorem, which states that any object with n dimensions can be embedded in a space with 2n + 1 dimensions. [10] Name this discipline of mathematics whose branches include geometry. It is loosely defined as the study of spaces, and objects studied in this discipline include Klein bottles and Möbius strips.",
+	"answers": [
+		"topology",
+		"10",
+		"A",
+		"set",
+		"theory",
+		"definition",
+		"defines",
+		"points",
+		"X",
+		"and",
+		"subset",
+		"with",
+		"this",
+		"property",
+		"Those",
+		"subsets",
+		"must",
+		"also",
+		"retain",
+		"under",
+		"finite",
+		"intersection",
+		"union"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"answerText": "quantitative trait loci [or quantitative trait locus; or QTL][10] Each gene contributing to a polygenic phenotype assorts independently and has one allele per gamete, in accordance with this first of Mendel's laws.",
+	"prompts": [],
+	"heading": "PADAWAN |2014 | 5 | 19 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Lander and Botstein developed the most popular method of visualizing these entities, overcoming the low power of ANOVA. [10] Identify these DNA regions containing, or linked to, genes underlying polygenic phenotypes like skin color. These regions can be \"mapped\" to determine how many of them shape the phenotype of interest.",
+	"answers": [
+		"quantitative",
+		"trait",
+		"loci",
+		"locus",
+		"QTL",
+		"10",
+		"Each",
+		"gene",
+		"contributing",
+		"to",
+		"polygenic"
+	]
+}

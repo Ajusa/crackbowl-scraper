@@ -1,0 +1,13 @@
+{
+	"answerText": "truth [accept true; accept Wahrheit; do not accept synonyms][10] This German defined primary truths as identities and sought to prove that all truths are primary. He used the principle of sufficient reason to prove God's existence in his Theodicy and Monadology.",
+	"prompts": [],
+	"heading": "MAGNI |2011 | 1 | 10 | Philosophy | None | College",
+	"subject": "Philosophy",
+	"level": "College",
+	"question": "Question: Alfred Tarski studied the conditions of this property, which conflicts with \"method\" according to a work of philosophical hermeneutics by Heidegger's student Hans Georg Gadamer. For 10 points each: [10] Name this property of statements, which Wittgenstein and many geometry classes have analyzed using namesake \"tables\" displaying it and its opposite.",
+	"answers": [
+		"truth",
+		"true",
+		"Wahrheit"
+	]
+}

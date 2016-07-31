@@ -1,0 +1,27 @@
+{
+	"answerText": "The Stefan-Boltzmann law states that this quantity for a blackbody is proportional to the fourth power of the temperature.[10] power of the emitted radiation",
+	"prompts": [],
+	"heading": "DEES |2014 | McGill + Penn B | 1 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The assumption that every degree of freedom had to contribute one half k T to the energy of these things led to the ultraviolet catastrophe.  [10] Name these idealized objects which reflect no light and emit electromagnetic radiation with a continuous spectrum.",
+	"answers": [
+		"The",
+		"Stefan-Boltzmann",
+		"law",
+		"states",
+		"that",
+		"this",
+		"quantity",
+		"for",
+		"blackbody",
+		"proportional",
+		"to",
+		"fourth",
+		"power",
+		"temperature",
+		"10",
+		"emitted",
+		"radiation"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"answerText": "moment of inertia[10] This theorem gives the moment of inertia through an axis not passing through the center of mass. It states that I equals I sub cm plus m r squared, where r is the distance from the old axis to the new one.",
+	"prompts": [],
+	"heading": "Penn Bowl |2012 | 7 | 12 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This quantity is equal to the integral of the density function times the square of the radius vector over a space. For 10 points each: [10] Identify this value symbolized I, the rotational equivalent of mass. Multiplying it by the angular velocity gives the angular momentum.",
+	"answers": [
+		"moment",
+		"inertia",
+		"10",
+		"This",
+		"theorem",
+		"gives",
+		"through",
+		"an",
+		"axis"
+	]
+}

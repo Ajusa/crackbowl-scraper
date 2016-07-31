@@ -1,0 +1,37 @@
+{
+	"answerText": "Down Syndrome (Prompt on Trisomy 21)[10] This disorder is caused by the doubling of the X chromosome in a male. Symptoms of this condition include decreased levels of testosterone and abnormal secondary sex characteristics.",
+	"prompts": [
+		"Trisomy",
+		"21",
+		"10",
+		"This",
+		"disorder",
+		"caused",
+		"by",
+		"doubling",
+		"X",
+		"chromosome",
+		"in",
+		"male",
+		"Symptoms",
+		"this",
+		"condition",
+		"include",
+		"decreased",
+		"levels",
+		"testosterone",
+		"and",
+		"abnormal",
+		"secondary",
+		"sex",
+		"characteristics"
+	],
+	"heading": "James |2013 | 2 | 12 | Science | Biology | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: 12. Answer some questions about chromosomal abnormalities, for 10 points each: [10] This disease was called Mongolian Idiocy by its namesake, and individuals with this disease have 3 copies of chromosome 21. This causes mental retardation and stunted growth, among other symptoms.",
+	"answers": [
+		"Down",
+		"Syndrome"
+	]
+}

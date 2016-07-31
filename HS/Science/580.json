@@ -1,0 +1,41 @@
+{
+	"answerText": "Zen Buddhism [prompt on \"Chan Buddhism\"][10] Like the Gateless Gate, this book compiles many koans of the Sòng Dynasty. Classics like \"the Highest Meaning of the Holy Truths\" and \"Hsueh Fang's Grain of Rice\" are included in this book.",
+	"prompts": [
+		"Chan",
+		"Buddhism",
+		"10",
+		"Like",
+		"Gateless",
+		"Gate",
+		"this",
+		"book",
+		"compiles",
+		"many",
+		"koans",
+		"Sòng",
+		"Dynasty",
+		"Classics",
+		"Highest",
+		"Meaning",
+		"Holy",
+		"Truths",
+		"and",
+		"Hsueh",
+		"Fang's",
+		"Grain",
+		"Rice",
+		"are",
+		"included",
+		"in",
+		"this",
+		"book"
+	],
+	"heading": "STIMPY |2015 | NYU - Kentucky B | 3 | Religion | None | College",
+	"subject": "Religion",
+	"level": "College",
+	"question": "Question: The Soto School makes up the largest branch of this religious sect. For 10 points each: [10] Name this sect of Buddhism founded by Bodhidharma whose members contemplate koans.",
+	"answers": [
+		"Zen",
+		"Buddhism"
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"answerText": "Cybele [or Magna Mater; prompt on \"Mater\"][10] This act was done by priests of Cybele in Rome to honor the mythic disfigurement of Attis. Cronus did this to his father Uranus using a sickle.",
+	"prompts": [
+		"Mater",
+		"10",
+		"This",
+		"act",
+		"was",
+		"done",
+		"by",
+		"priests",
+		"Cybele",
+		"in",
+		"Rome",
+		"to",
+		"honor",
+		"mythic",
+		"disfigurement",
+		"Attis",
+		"Cronus",
+		"did",
+		"this",
+		"to",
+		"his",
+		"father",
+		"Uranus",
+		"using",
+		"sickle"
+	],
+	"heading": "PADAWAN |2014 | 2 | 19 | Mythology | None | College",
+	"subject": "Mythology",
+	"level": "College",
+	"question": "Question:  [10] Name this lover of Attis, a Near Eastern goddess of fertility who was later worshipped in Rome.",
+	"answers": [
+		"Cybele",
+		"Magna",
+		"Mater"
+	]
+}

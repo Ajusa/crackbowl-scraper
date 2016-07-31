@@ -1,0 +1,16 @@
+{
+	"answerText": "small intestine [or small bowel; prompt on partial answer; prompt on bowel; prompt on entrails][10] The small intestine's Paneth cells belong to this type of major tissue that lines the surfaces and cavities of organs. Mucus-releasing goblet cells belong to the simple columnar subtype of this tissue.",
+	"prompts": [
+		"partial",
+		"answer"
+	],
+	"heading": "PACE NSC |2015 | 4 | 9 | Science | Biology | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: I-cells in this organ release cholecystokinin, which targets the pancreas and gallbladder to secrete substances important for amino acid and fat digestion. For 10 points each: [10] Name this digestive organ that receives pancreatic juices through the sphincter of Oddi, which connects with its duodenum region.",
+	"answers": [
+		"small",
+		"intestine",
+		"bowel"
+	]
+}

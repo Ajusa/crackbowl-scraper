@@ -1,0 +1,36 @@
+{
+	"answerText": "cryptography [prompt on \"encryption\" or \"decryption\"][10] This system generates a public key and a private key from a product of primes, a number coprime to that product, and the modular inverse of the coprime number.",
+	"prompts": [
+		"encryption",
+		"decryption",
+		"10",
+		"This",
+		"system",
+		"generates",
+		"public",
+		"key",
+		"and",
+		"private",
+		"key",
+		"from",
+		"product",
+		"primes",
+		"number",
+		"coprime",
+		"to",
+		"that",
+		"product",
+		"and",
+		"modular",
+		"inverse",
+		"coprime",
+		"number"
+	],
+	"heading": "DEES |2014 | WUSTL  | 20 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: One saying in this field is \"the enemy knows the system\" and is sometimes called Shannon's Maxim,  [10] Name this field that concerns the obscuration of data, often for communications. Its public-key branch allows for authentication, integrity, and confidentiality.",
+	"answers": [
+		"cryptography"
+	]
+}

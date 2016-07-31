@@ -1,0 +1,32 @@
+{
+	"answerText": "pre-exponential factor [or frequency factor; prompt on A or Z factor or characteristic constant][10] In an Arrhenius plot, the natural log of the rate constant is plotted against this quantity.",
+	"prompts": [
+		"A",
+		"Z",
+		"factor",
+		"characteristic",
+		"constant",
+		"10",
+		"In",
+		"an",
+		"Arrhenius",
+		"plot",
+		"natural",
+		"log",
+		"rate",
+		"constant",
+		"plotted",
+		"against",
+		"this",
+		"quantity"
+	],
+	"heading": "ACF Regionals |2013 | Editors 1 | 11 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This factor represents the frequency of collisions between reactant molecules. For 10 points each: [10] Identify this constant that multiplies the exponential term in the Arrhenius equation.",
+	"answers": [
+		"pre-exponential",
+		"factor",
+		"frequency"
+	]
+}

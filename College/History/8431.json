@@ -1,0 +1,43 @@
+{
+	"answerText": "Napoleon III [accept Charles Louis-Napoleon Bonaparte, prompt on Bonaparte][10] During Napoleon III's reign, a French company built this artificial waterway in Egypt which connects the Mediterranean Sea and the Red Sea. It took 10 years to construct.",
+	"prompts": [
+		"Bonaparte",
+		"10",
+		"During",
+		"Napoleon",
+		"III's",
+		"reign",
+		"French",
+		"company",
+		"built",
+		"this",
+		"artificial",
+		"waterway",
+		"in",
+		"Egypt",
+		"which",
+		"connects",
+		"Mediterranean",
+		"Sea",
+		"and",
+		"Red",
+		"Sea",
+		"It",
+		"took",
+		"10",
+		"years",
+		"to",
+		"construct"
+	],
+	"heading": "MUT |2012 | 2 | 11 | History | European | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: This man's Prime Minister, Emile Ollivier, led the push to create a more \"liberal empire.\" For 10 points each: [10] Name this French monarch, who notably commissioned Baron Haussman's plan to modernize Paris. He also supported Maximilian I as Emperor of Mexico.",
+	"answers": [
+		"Napoleon",
+		"III",
+		"Charles",
+		"Louis-Napoleon",
+		"Bonaparte"
+	]
+}

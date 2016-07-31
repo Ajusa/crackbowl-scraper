@@ -1,0 +1,29 @@
+{
+	"answerText": "calorimeters[10] This type of calorimeter, named because it withstands a pressure build-up, works by measuring the change in temperature of a fluid, usually water.",
+	"prompts": [],
+	"heading": "Masonic |2014 | 3 | 17 | Science | Chemistry | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name these objects used to measure the amount of heat during a reaction.",
+	"answers": [
+		"calorimeters",
+		"10",
+		"This",
+		"type",
+		"calorimeter",
+		"named",
+		"because",
+		"withstands",
+		"pressure",
+		"build-up",
+		"works",
+		"by",
+		"measuring",
+		"change",
+		"in",
+		"temperature",
+		"fluid",
+		"usually",
+		"water"
+	]
+}

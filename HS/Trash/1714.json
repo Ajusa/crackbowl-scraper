@@ -1,0 +1,31 @@
+{
+	"answerText": "BetheWeizsäcker formula [accept semi-empirical mass formula][10] The BetheWeizsäcker formula is based on the liquid drop model proposed by George Gamow, which treats this structure as a drop of uniform liquid. It notably contains protons and neutrons and is found at the center of an atom.",
+	"prompts": [],
+	"heading": "STIMPY |2015 | Michigan A - Penn B | 14 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The first term in this equation is the volume term, which arises from the strong force and is proportional to A. For 10 points each: [10] Name this formula, usually expressed in terms of A and Z, that allows one to calculate either its namesake quantity or binding energy.",
+	"answers": [
+		"BetheWeizsäcker",
+		"formula",
+		"semi-empirical",
+		"mass",
+		"10",
+		"The",
+		"based",
+		"liquid",
+		"drop",
+		"model",
+		"proposed",
+		"by",
+		"George",
+		"Gamow",
+		"which",
+		"treats",
+		"this",
+		"structure",
+		"as",
+		"uniform",
+		"It"
+	]
+}

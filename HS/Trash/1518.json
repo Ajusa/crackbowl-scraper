@@ -1,0 +1,30 @@
+{
+	"answerText": "intersection[10]  This other set operation, applied to two sets yields a set of ordered pairs, each of whose first element is from the first set and second element from the second set.",
+	"prompts": [],
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2012 | LISTIII_Round13.docx | 14 | Science |  | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10]  Identify this set operation, symbolized by an upside-down U, whose output is the set of all elements common to each set.",
+	"answers": [
+		"intersection",
+		"10",
+		"This",
+		"other",
+		"set",
+		"operation",
+		"applied",
+		"to",
+		"two",
+		"sets",
+		"yields",
+		"ordered",
+		"pairs",
+		"each",
+		"whose",
+		"first",
+		"element",
+		"from",
+		"and",
+		"second"
+	]
+}

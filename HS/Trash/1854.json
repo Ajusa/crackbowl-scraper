@@ -1,0 +1,25 @@
+{
+	"answerText": "cAMP [or cyclic adenosine monophosphate][10] cAMP is inhibited by this enzyme, which breaks it down into the nucleotide AMP.",
+	"prompts": [],
+	"heading": "DEES |2014 | William and Mary | 5 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Protein kinase A is activated when bound to this molecule.  [10] Name this molecule derived from ATP, best known as an intracellular second messenger.",
+	"answers": [
+		"cAMP",
+		"cyclic",
+		"adenosine",
+		"monophosphate",
+		"10",
+		"inhibited",
+		"by",
+		"this",
+		"enzyme",
+		"which",
+		"breaks",
+		"down",
+		"into",
+		"nucleotide",
+		"AMP"
+	]
+}

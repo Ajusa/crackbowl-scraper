@@ -1,0 +1,24 @@
+{
+	"answerText": "second law of thermodynamics[10] The second law of thermodynamics puts an upper limit for this value of an engine. For a Carnot engine, this value, symbolized eta, is equal to one minus the ratio of the temperature of the cold reservoir to the hot reservoir.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 3 | 17 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: One formulation of this law states that the line integral of dQ over T around a closed path is less than or equal to zero. [10] Name this fundamental law which states that for a closed system, the entropy inevitably increases.",
+	"answers": [
+		"second",
+		"law",
+		"thermodynamics",
+		"10",
+		"The",
+		"puts",
+		"an",
+		"upper",
+		"limit",
+		"for",
+		"this",
+		"value",
+		"engine",
+		"For"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"answerText": "Huffman coding[10] The number of operations needed to create a Huffman code is equal to big O of this value, which is also the average runtime of quicksort.",
+	"prompts": [],
+	"heading": "VCU Closed |2013 | Editors 3 | 1 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: A modified form of this algorithm is used to encode bitmaps in fax machines, and For 10 points each: [10] Identify this compression algorithm which takes an input sentence, creates a frequency table, then generates a tree of binary prefix codes.",
+	"answers": [
+		"Huffman",
+		"coding",
+		"10",
+		"The",
+		"number",
+		"operations",
+		"needed",
+		"to",
+		"create",
+		"code",
+		"equal",
+		"big",
+		"O",
+		"this",
+		"value",
+		"which",
+		"also",
+		"average",
+		"runtime",
+		"quicksort"
+	]
+}

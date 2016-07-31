@@ -1,0 +1,31 @@
+{
+	"answerText": "mergesort[10] This other sorting algorithm, named for its speed, was formulated by Tony Hoare and involves recursively sorting sub-lists around a pivot.",
+	"prompts": [],
+	"heading": "SUBMIT |2014 | Washington, Dartmouth B, GW A | 9 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Identify this algorithm that, in the worst case runs in big O of n log n. It works by recursively splitting a list and performing the namesake action with each sublist.",
+	"answers": [
+		"mergesort",
+		"10",
+		"This",
+		"other",
+		"sorting",
+		"algorithm",
+		"named",
+		"for",
+		"its",
+		"speed",
+		"was",
+		"formulated",
+		"by",
+		"Tony",
+		"Hoare",
+		"and",
+		"involves",
+		"recursively",
+		"sub-lists",
+		"around",
+		"pivot"
+	]
+}

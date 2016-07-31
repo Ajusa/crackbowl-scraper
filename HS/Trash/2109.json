@@ -1,0 +1,37 @@
+{
+	"answerText": "molecular clock [prompt on \"chronograms\"][10] The molecular clock assumption was originally tested using this gene, which is a part of the electron transport chain that moves between complex III and IV.",
+	"prompts": [
+		"chronograms",
+		"10",
+		"The",
+		"molecular",
+		"clock",
+		"assumption",
+		"was",
+		"originally",
+		"tested",
+		"using",
+		"this",
+		"gene",
+		"which",
+		"part",
+		"electron",
+		"transport",
+		"chain",
+		"that",
+		"moves",
+		"between",
+		"complex",
+		"III",
+		"and",
+		"IV"
+	],
+	"heading": "Penn Bowl |2014 | 9 | 9 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The BEAST technique uses the relaxed version of this technique, which was used to determine the route that HIV took to get to the United States in one controversial paper. For 10 points each: [10] Name this technique used alongside phylogenetic trees and based on Kimura's neutral theory, in which the number of mutations can be used as a proxy for the time in which two species diverged.",
+	"answers": [
+		"molecular",
+		"clock"
+	]
+}

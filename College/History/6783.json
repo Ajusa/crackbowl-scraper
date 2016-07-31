@@ -1,0 +1,14 @@
+{
+	"answerText": "dispersion relations [prompt on \"dispersion\"]",
+	"prompts": [
+		"dispersion"
+	],
+	"heading": "Terrapin |2013 | Chris Ray - FINAL | 7 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: These allow the phase velocity to exceed the group velocity, which is the derivative of this function with respect to wavenumber. For 10 points each: [10] Name these equations which give the dependence of a wave's frequency on its wavenumber. ",
+	"answers": [
+		"dispersion",
+		"relations"
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"answerText": "positrons [prompt on \"antielectron\"][10] These objects play the role of \"coefficients\" in the Dirac equation. They are mutually anticommuting and can be constructed by taking tensor products of the Pauli matrices and the identity.",
+	"prompts": [
+		"antielectron",
+		"10",
+		"These",
+		"objects",
+		"play",
+		"role",
+		"coefficients",
+		"in",
+		"Dirac",
+		"equation",
+		"They",
+		"are",
+		"mutually",
+		"anticommuting",
+		"and",
+		"can",
+		"be",
+		"constructed",
+		"by",
+		"taking",
+		"tensor",
+		"products",
+		"Pauli",
+		"matrices",
+		"and",
+		"identity"
+	],
+	"heading": "STIMPY |2015 | Editors 3 | 16 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Negative energy solutions to the Dirac equation predicted the existence of these particles. For 10 points each: [10] Name these positively charged particles, the antiparticles of electrons. They were experimentally discovered in cosmic rays by Carl Anderson.",
+	"answers": [
+		"positrons"
+	]
+}

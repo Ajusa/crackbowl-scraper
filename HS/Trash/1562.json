@@ -1,0 +1,33 @@
+{
+	"answerText": "orbital motion[10] At these five eponymous points, the gravitational force between two massive bodies cancels, allowing objects at these points to remain stationary relative to those bodies.",
+	"prompts": [],
+	"heading": "BHSAT |2011 | 1 | 1 | Science | Other | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: Often described by the Newton's cannon thought experiment, it occurs when a tangentially moving object is pulled by gravity as a centripetal force, but has enough velocity to avoid falling. For 10 points each: [10] First, name this path followed by objects in freefall, which Kepler's First Law says is elliptical for planets.",
+	"answers": [
+		"orbital",
+		"motion",
+		"10",
+		"At",
+		"these",
+		"five",
+		"eponymous",
+		"points",
+		"gravitational",
+		"force",
+		"between",
+		"two",
+		"massive",
+		"bodies",
+		"cancels",
+		"allowing",
+		"objects",
+		"at",
+		"to",
+		"remain",
+		"stationary",
+		"relative",
+		"those"
+	]
+}

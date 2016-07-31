@@ -1,0 +1,28 @@
+{
+	"answerText": "ferrofluid[10] Ferromagnets become paramagnetic above this temperature. Above this temperature, a law describing magnetic susceptibility partly named for Weiss applies.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 10 | 17 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The resistivity of these materials is equal to the Vollema value times e to the negative square of the applied magnetic field plus the Pietrow constant. [10] Name these materials that consist of magnetic nanoparticles suspended in a carrier solvent. Despite their name, they are actually superparamagnetic, since they don't maintain magnetization in the absence of a field.",
+	"answers": [
+		"ferrofluid",
+		"10",
+		"Ferromagnets",
+		"become",
+		"paramagnetic",
+		"above",
+		"this",
+		"temperature",
+		"Above",
+		"law",
+		"describing",
+		"magnetic",
+		"susceptibility",
+		"partly",
+		"named",
+		"for",
+		"Weiss",
+		"applies"
+	]
+}

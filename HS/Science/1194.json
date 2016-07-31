@@ -1,0 +1,16 @@
+{
+	"answerText": "Fermat's last theorem [prompt on \"Fermat's conjecture\"; prompt on partial answer][10] Fermat is the namesake of a type of these numbers, of which his take the form \"two-to-the-two-to-the-n plus one.\" These are numbers whose only integer divisors are themselves and one.",
+	"prompts": [
+		"Fermat's",
+		"conjecture"
+	],
+	"heading": "BELLOCO |2014 | 4 | 1 | Science | Math | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: The Taniyama-Shimura conjecture was cited in the proof of this theorem as a link between elliptic curves and modular forms. [10] Name this theorem proved by Andrew Wiles. It states that no three positive integers a, b, and c can satisfy the equation \"a-to-the-n plus b-to-the-n equals c-to-the-n\" for integer values of n greater than two.",
+	"answers": [
+		"Fermat's",
+		"last",
+		"theorem"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"answerText": "Champ [prompt on the Lake Champlain monster] [10] Champ is also a major draw for tourists in Burlington, a city in this state, the home of the Green Mountains.",
+	"prompts": [
+		"Lake",
+		"Champlain",
+		"monster",
+		"10",
+		"Champ",
+		"also",
+		"major",
+		"draw",
+		"for",
+		"tourists",
+		"in",
+		"Burlington",
+		"city",
+		"in",
+		"this",
+		"state",
+		"home",
+		"Green",
+		"Mountains"
+	],
+	"heading": "NASAT  |2014 | 10 | 7 | Geography | None | College",
+	"subject": "Geography",
+	"level": "College",
+	"question": "Question: Sandra Mansi's photograph of this thing has been criticized for possibly depicting a tree trunk. For 10 points each:  [10] Name this thing, which is said to be a plesiosaur or other lake monster located in a body of water located partially in Quebec and partially in the American border. Tourists go to places like Plattsburgh, New York, hoping to get a peek.",
+	"answers": [
+		"Champ"
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"answerText": "threads[10] The Dining Philosophers Problem, which can be used to simulate deadlock between threads, was solved using semaphores by this Dutch computer scientist",
+	"prompts": [],
+	"heading": "Penn Bowl |2012 | Editors Packet 3 | 1 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: In GUIs, these are generated when the user inputs commands, and using the Java suspend or stop command on these entities makes programs prone to deadlock. For 10 points each: [10] Identify these subsets of processes which processors multiplex using context switching. These are the smallest units of execution that can be run by a program.",
+	"answers": [
+		"threads",
+		"10",
+		"The",
+		"Dining",
+		"Philosophers",
+		"Problem",
+		"which",
+		"can",
+		"be",
+		"used",
+		"to",
+		"simulate",
+		"deadlock",
+		"between",
+		"was",
+		"solved",
+		"using",
+		"semaphores",
+		"by",
+		"this",
+		"Dutch",
+		"computer",
+		"scientist"
+	]
+}

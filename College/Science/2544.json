@@ -1,0 +1,32 @@
+{
+	"answerText": "epigenetics (accept word forms)[10] DNA methylation most commonly occurs on this pyrimidine nucleotide, which deaminates to uracil and forms three hydrogen bonds with guanine.",
+	"prompts": [],
+	"heading": "VCU Closed  |2013 | Delaware + Michigan A  | 13 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Among the tools used in this field is formaldehyde cross-linking combined with high-throughput sequencing in order to map histone modifications and find regulatory regions. For 10 points each: [10] Name this sub-field of biology that is primarily concerned with heritable changes in phenotype other than changes in DNA. Modification of histones are among the changes studied.",
+	"answers": [
+		"epigenetics",
+		"word",
+		"forms",
+		"10",
+		"DNA",
+		"methylation",
+		"most",
+		"commonly",
+		"occurs",
+		"this",
+		"pyrimidine",
+		"nucleotide",
+		"which",
+		"deaminates",
+		"to",
+		"uracil",
+		"and",
+		"three",
+		"hydrogen",
+		"bonds",
+		"with",
+		"guanine"
+	]
+}

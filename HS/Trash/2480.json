@@ -1,0 +1,29 @@
+{
+	"answerText": "Maxwell-Boltzmann distribution[10] In the Maxwell-Boltzmann distribution, an averaged form of this quantity is equal to the square root of 3 times RT over the molecular weight.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 5 | 15 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This statistical distribution has a normalizing constant equal to one over 2 pi m k T all to the three-halves power. [10] Name this statistical distribution used to describe classical gases. A generalization of this distribution to relativistic speeds is named for Juttner.",
+	"answers": [
+		"Maxwell-Boltzmann",
+		"distribution",
+		"10",
+		"In",
+		"an",
+		"averaged",
+		"form",
+		"this",
+		"quantity",
+		"equal",
+		"to",
+		"square",
+		"root",
+		"3",
+		"times",
+		"RT",
+		"over",
+		"molecular",
+		"weight"
+	]
+}

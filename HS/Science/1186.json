@@ -1,0 +1,30 @@
+{
+	"answerText": "Johannes Kepler's laws of planetary motion [accept either underlined part][10] Kepler's laws of planetary motion supported this model of the universe, in which the earth revolved around the sun, which was the center of the universe.",
+	"prompts": [],
+	"heading": "BELLOCO |2014 | 2 | 5 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: The third of these states that the square of the orbital period is proportional to the cube of the orbit's semi-major axis. [10] Name these laws formulated by a German astronomer to describe the movement of bodies in the solar system, the first of which states that the orbits are ellipses with the Sun at one focus.",
+	"answers": [
+		"Johannes",
+		"Kepler's",
+		"laws",
+		"planetary",
+		"motion",
+		"underlined",
+		"part",
+		"10",
+		"supported",
+		"this",
+		"model",
+		"universe",
+		"in",
+		"which",
+		"earth",
+		"revolved",
+		"around",
+		"sun",
+		"was",
+		"center"
+	]
+}

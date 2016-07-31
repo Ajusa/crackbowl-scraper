@@ -1,0 +1,26 @@
+{
+	"answerText": "derivative[10] One a three-dimensional surface, this is the term for a point that is a maximum along one axis but a minimum along another. The hyperbolic paraboloid has one of these points.",
+	"prompts": [],
+	"heading": "Penn-ance |2012 | 10 | 3 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: When applied to the product of two functions, the result of this operation is calculated using the chain rule. For 10 points each: [10] Name this operation, which is equal to the limit of f of x plus h minus f of x divided by h as h goes to zero. It is equal to the rate of change of a function at a given point.",
+	"answers": [
+		"derivative",
+		"10",
+		"One",
+		"three-dimensional",
+		"surface",
+		"this",
+		"term",
+		"for",
+		"point",
+		"that",
+		"maximum",
+		"along",
+		"one",
+		"axis",
+		"but",
+		"minimum"
+	]
+}

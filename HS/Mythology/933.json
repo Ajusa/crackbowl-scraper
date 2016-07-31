@@ -1,0 +1,43 @@
+{
+	"answerText": "Gaius Julius Caesar (prompt on \"Caesar\")[10] Suetonius [swee-TOE-nee-us] wrote that Julius Caesar saw an apparition that convinced him to cross this river. Doing so sparked a civil war with Pompey, which Julius Caesar won.",
+	"prompts": [
+		"Caesar",
+		"10",
+		"Suetonius",
+		"swee-TOE-nee-us",
+		"wrote",
+		"that",
+		"Julius",
+		"Caesar",
+		"saw",
+		"an",
+		"apparition",
+		"that",
+		"convinced",
+		"him",
+		"to",
+		"cross",
+		"this",
+		"river",
+		"Doing",
+		"so",
+		"sparked",
+		"civil",
+		"war",
+		"with",
+		"Pompey",
+		"which",
+		"Julius",
+		"Caesar",
+		"won"
+	],
+	"heading": "Masonic |2014 | 1 | 12 | History | Classical | HS",
+	"subject": "History",
+	"level": "HS",
+	"question": "Question:  [10] Name this leader who fell out with Pompey following the death of Crassus at the hands of the Parthians.",
+	"answers": [
+		"Gaius",
+		"Julius",
+		"Caesar"
+	]
+}

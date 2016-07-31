@@ -1,0 +1,31 @@
+{
+	"answerText": "Exxon Valdez oil spill[10] This BP-owned platform on the Gulf of Mexico exploded in 2010, spilling a lot of oil into the Ocean. This disaster is currently the largest oil spill in history.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 3 | 3 | History | Other | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: Answer some questions about oil companies behaving badly. [10] The company at the center of this disaster secretly negotiated damages with the Seattle Seven. This tanker crashed in Prince William Sound and killed a bunch of sea otters and gulls because its captain was drunk.",
+	"answers": [
+		"Exxon",
+		"Valdez",
+		"oil",
+		"spill",
+		"10",
+		"This",
+		"BP-owned",
+		"platform",
+		"Gulf",
+		"Mexico",
+		"exploded",
+		"in",
+		"2010",
+		"spilling",
+		"lot",
+		"into",
+		"Ocean",
+		"disaster",
+		"currently",
+		"largest",
+		"history"
+	]
+}

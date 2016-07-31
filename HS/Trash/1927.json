@@ -1,0 +1,31 @@
+{
+	"answerText": "Fibonacci sequence[10] The Lamé parameters are used to model this phenomenon, where materials return to their previous shape after suffering deformations.",
+	"prompts": [],
+	"heading": "NASAT |2014 | 1 | 2 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer some questions about the mathematician Gabriel Lamé, for 10 points each. [10] Lamé's theorem states that the greatest common devisor for two consecutive numbers in this sequence always leads to the worst case for the Euclidean algorithm. The nth term over the n minus one term in this sequence equals the golden ratio.",
+	"answers": [
+		"Fibonacci",
+		"sequence",
+		"10",
+		"The",
+		"Lamé",
+		"parameters",
+		"are",
+		"used",
+		"to",
+		"model",
+		"this",
+		"phenomenon",
+		"where",
+		"materials",
+		"return",
+		"their",
+		"previous",
+		"shape",
+		"after",
+		"suffering",
+		"deformations"
+	]
+}

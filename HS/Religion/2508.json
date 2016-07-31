@@ -1,0 +1,39 @@
+{
+	"answerText": "incenter (do not accept other centers like circumcenter, orthocenter, or centroid, prompt on center)[10]  An easy method of determining perpendicularity can be proven by setting the orthocenter's coordinates all equal to this smallest whole number. It is the number of elements in the empty set.",
+	"prompts": [
+		"center",
+		"10",
+		"An",
+		"easy",
+		"method",
+		"determining",
+		"perpendicularity",
+		"can",
+		"be",
+		"proven",
+		"by",
+		"setting",
+		"orthocenter's",
+		"coordinates",
+		"all",
+		"equal",
+		"to",
+		"this",
+		"smallest",
+		"whole",
+		"number",
+		"It",
+		"number",
+		"elements",
+		"in",
+		"empty",
+		"set"
+	],
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2012 | LISTIII_Round08.docx | 18 | Science |  | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10]  Coordinates proportional to the sides of the reference triangle mark the location of this point, where all three angle bisectors of a triangle concur.",
+	"answers": [
+		"incenter"
+	]
+}

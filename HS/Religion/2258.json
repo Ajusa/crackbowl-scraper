@@ -1,0 +1,11 @@
+{
+	"answerText": "arrays [do not accept \"ArrayLists\"][10] One element that often goes into arrays is this primitive type, which in Java can hold a maximum value of 2 to the 31st. It has a type of division that removes the decimal value.",
+	"prompts": [],
+	"heading": "Prison Bowl |2014 | 01 | 1 | Science | Computer Science | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: The world of computer science is filled with wonderful terms; name some relevant to Java. For ten points each: [10] These structures contain multiple elements of the same type and cannot be resized. They are similar to matrices in mathematics.",
+	"answers": [
+		"arrays"
+	]
+}

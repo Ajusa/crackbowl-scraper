@@ -1,0 +1,12 @@
+{
+	"answerText": "water vapor [do not accept \"water\"] [10] The greenhouse effect is the absorption and re-emission of this type of radiation, which is just longer in wavelength than visible light.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 10 | 12 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This molecule's concentration in the atmosphere has increased concomitant with the increase in carbon dioxide, as warmer air is able to hold more of it. For 10 points each: [10] Identify this most abundant greenhouse gas in the atmosphere and dominant contributor to the greenhouse effect. ",
+	"answers": [
+		"water",
+		"vapor"
+	]
+}

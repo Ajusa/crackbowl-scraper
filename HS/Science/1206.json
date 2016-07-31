@@ -1,0 +1,24 @@
+{
+	"answerText": "stomach[10] The digestive fluid produced in the stomach is gastric acid. This is the strong acid that is a major constituent in gastric acid.",
+	"prompts": [],
+	"heading": "Masonic |2014 | 2 | 3 | Science | Biology | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name this digestive organ between the esophagus and small intestine.",
+	"answers": [
+		"stomach",
+		"10",
+		"The",
+		"digestive",
+		"fluid",
+		"produced",
+		"in",
+		"gastric",
+		"acid",
+		"This",
+		"strong",
+		"that",
+		"major",
+		"constituent"
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"answerText": "salivary amylase [or alpha-amylase][10] This organ is innervated by the lingual and facial nerves and contains the hyoglossus and styloglossus muscles. It is also known for its taste buds.",
+	"prompts": [],
+	"heading": "BELLOCO |2014 | 1 | 15 | Science | Biology | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: This protein, also referred to as ptyalin (\"TIE-uh-lin\"), catalyses the hydrolysis of alpha(1,4) glycosidic linkages. [10] Name this protein found in saliva that breaks down starch and glycogen to yield glucose and maltose. Its optimal pH range is between 5.6 and 6.9, and it is inactivated by the stomach's acidic conditions.",
+	"answers": [
+		"salivary",
+		"amylase",
+		"alpha-amylase",
+		"10",
+		"This",
+		"organ",
+		"innervated",
+		"by",
+		"lingual",
+		"and",
+		"facial",
+		"nerves",
+		"contains",
+		"hyoglossus",
+		"styloglossus",
+		"muscles",
+		"It",
+		"also",
+		"known",
+		"for",
+		"its",
+		"taste",
+		"buds"
+	]
+}

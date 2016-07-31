@@ -1,0 +1,43 @@
+{
+	"answerText": "short-term memory [or working memory; prompt on memory][10] This condition does not affect short-term memory, since it is a disruption of long-term memory. Its \"anterograde\" form is an inability to consolidate new memories, and is \"retrograde\" form involves the loss of existing memories.",
+	"prompts": [
+		"memory",
+		"10",
+		"This",
+		"condition",
+		"does",
+		"not",
+		"affect",
+		"short-term",
+		"memory",
+		"since",
+		"disruption",
+		"long-term",
+		"memory",
+		"Its",
+		"anterograde",
+		"form",
+		"an",
+		"inability",
+		"to",
+		"consolidate",
+		"new",
+		"memories",
+		"and",
+		"retrograde",
+		"form",
+		"involves",
+		"loss",
+		"existing",
+		"memories"
+	],
+	"heading": "NASAT |2014 | 2 | 9 | Social Science | None | College",
+	"subject": "Social Science",
+	"level": "College",
+	"question": "Question: \"Chunking\" can increase the capacity of this system, which is the second stage of the Atkinson-Shifflin three-stage model. [10] Name this system whose \"magic number\" is, according to George Miller, seven plus or minus two.",
+	"answers": [
+		"short-term",
+		"memory",
+		"working"
+	]
+}

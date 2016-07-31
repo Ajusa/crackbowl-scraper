@@ -1,0 +1,14 @@
+{
+	"answerText": "torque [prompt on \"moment of force\"; prompt on \"tau\"][10] This is the periodic change in the position of the rotational axis of an object. It may come in torque-induced and torque-free varieties.",
+	"prompts": [
+		"moment",
+		"force"
+	],
+	"heading": "BELLOCO |2014 | 1 | 9 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: This quantity is the time derivative of angular momentum. [10] Name this rotational analogue of force, which is calculated by taking the cross product of the lever-arm distance and applied force.",
+	"answers": [
+		"torque"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"answerText": "power series [prompt on \"(infinite) series\"][10] These numbers were introduced by Kurt Hensel as a number theoretic analog of power series in complex analysis. They are a completion of the rationals with respect to a non-Euclidean norm, unlike the reals.",
+	"prompts": [
+		"infinite",
+		"series",
+		"10",
+		"These",
+		"numbers",
+		"were",
+		"introduced",
+		"by",
+		"Kurt",
+		"Hensel",
+		"as",
+		"number",
+		"theoretic",
+		"analog",
+		"power",
+		"series",
+		"in",
+		"complex",
+		"analysis",
+		"They",
+		"are",
+		"completion",
+		"rationals",
+		"with",
+		"respect",
+		"to",
+		"non-Euclidean",
+		"norm",
+		"unlike",
+		"reals"
+	],
+	"heading": "PADAWAN |2014 | 14 | 9 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  These expressions can converge in one of three ways: for x equals c, for all x, or for x minus c strictly less than the radius of convergence.  [10] Name these expressions typified by an infinite sum, for n, of a-sub-n times the nth power of the quantity x minus c, where c is its center.",
+	"answers": [
+		"power",
+		"series"
+	]
+}

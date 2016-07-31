@@ -1,0 +1,13 @@
+{
+	"answerText": "blazars [prompt on \"quasar\"; prompt on \"active galactic nuclei\" or \"AGN\"][10] The term \"blazar\" originally referred to BL Lac objects and a type of \"optically violent\" quasar described by this adjective. This adjective is also applied to stars with oscillating luminosity, exemplified by Delta Cephei.",
+	"prompts": [
+		"quasar"
+	],
+	"heading": "STIMPY |2015 | Dartmouth A - Rice | 8 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This term was coined as a collective term by Edward Spiegel in 1978. For 10 points each: [10] Give this name for extremely compact quasi-stellar radio sources, which are generally thought to be powered by jet-emitting supermassive black holes at the center of active galaxies.",
+	"answers": [
+		"blazars"
+	]
+}

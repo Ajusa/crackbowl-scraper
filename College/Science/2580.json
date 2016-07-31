@@ -1,0 +1,13 @@
+{
+	"answerText": "magnetization [or magnetic polarization; do not accept anything else][10] Due to quantum effects, this type of magnet can exist, in which the magnetization depends hysteretically on the applied magnetic field. This phenomenon vanishes above the Curie point, and is found in materials like cobalt.",
+	"prompts": [],
+	"heading": "VCU Closed |2013 | Michigan B and Yale A | 8 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: According to the Bohr-van Leeuwen theorem, this property of a classical solid must vanish. For 10 points each: [10] Identify this property of matter that measures the density of a certain kind of dipole moment. Statically, its divergence is equal to the negative divergence of the H-field.",
+	"answers": [
+		"magnetization",
+		"magnetic",
+		"polarization"
+	]
+}

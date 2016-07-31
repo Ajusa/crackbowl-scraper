@@ -1,0 +1,32 @@
+{
+	"answerText": "rate constant[10] In the Arrhenius equation, this value is usually symbolized A. This value is equal to the steric factor times the collision frequency in one formulation.",
+	"prompts": [],
+	"heading": "Penn Bowl |2014 | 5 | 19 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This value is proportional to an exponential of the transition state according to the Arrhenius equation. For 10 points each: [10] Name this constant for a reaction, symbolized with a lowercase k, which is multiplied by some polynomial of the reactant concentrations to give the speed of a reaction.",
+	"answers": [
+		"rate",
+		"constant",
+		"10",
+		"In",
+		"Arrhenius",
+		"equation",
+		"this",
+		"value",
+		"usually",
+		"symbolized",
+		"A",
+		"This",
+		"equal",
+		"to",
+		"steric",
+		"factor",
+		"times",
+		"collision",
+		"frequency",
+		"in",
+		"one",
+		"formulation"
+	]
+}

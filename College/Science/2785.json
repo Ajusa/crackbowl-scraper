@@ -1,0 +1,31 @@
+{
+	"answerText": "Faraday's law of induction[10] Faraday's law is the basis of these devices, which uses a pair of inductively coupled coils to move an electromotive force from one voltage to another.",
+	"prompts": [],
+	"heading": "Penn-ance |2012 | 3 | 13 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The negative sign in this law is a result of Lenz's law. For 10 points each: [10] Name this law which states that the induced electromotive force in a loop of wire is equal to the time derivative of the magnetic flux through the loop. It is often written as one of Maxwell's equations.",
+	"answers": [
+		"Faraday's",
+		"law",
+		"induction",
+		"10",
+		"basis",
+		"these",
+		"devices",
+		"which",
+		"uses",
+		"pair",
+		"inductively",
+		"coupled",
+		"coils",
+		"to",
+		"move",
+		"an",
+		"electromotive",
+		"force",
+		"from",
+		"one",
+		"voltage"
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"answerText": "Summa Theologica [or Summation of Theology; prompt on \"Summa\"][10]  This Scholastic philosopher defended Christianity and put forth a four-part definition of faith in Summa con Gentiles, which he expanded on in Summa Theologica.",
+	"prompts": [
+		"Summa",
+		"10",
+		"This",
+		"Scholastic",
+		"philosopher",
+		"defended",
+		"Christianity",
+		"and",
+		"put",
+		"forth",
+		"four-part",
+		"definition",
+		"faith",
+		"in",
+		"Summa",
+		"con",
+		"Gentiles",
+		"which",
+		"he",
+		"expanded",
+		"in",
+		"Summa",
+		"Theologica"
+	],
+	"heading": "Prison Bowl |2013 | Round13.docx | 5 | Philosophy |  | HS",
+	"subject": "Philosophy",
+	"level": "HS",
+	"question": "Question:  [10]  Name this incomplete work structured as a series of objections and responses. It contains five arguments for the existence of God.",
+	"answers": [
+		"Summa",
+		"Theologica",
+		"Summation",
+		"Theology"
+	]
+}

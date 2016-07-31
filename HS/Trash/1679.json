@@ -1,0 +1,20 @@
+{
+	"answerText": "Mars[10] This former tallest mountain in the Solar System is the tallest volcano on Mars.",
+	"prompts": [],
+	"heading": "MUT |2015 | 8 | 11 | Science | Other | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: A hypothesis about the crustal dichotomy on this planet centers on a single large impact forming the Borealis basin, which restarted volcanic activity and formed the Tharsis bulge [10] Name this planet with a \"dramatic\" topographic and geologic dichotomy between the northern, lowland third of its crust and the southern, upland two-thirds of its crust",
+	"answers": [
+		"Mars",
+		"10",
+		"This",
+		"former",
+		"tallest",
+		"mountain",
+		"in",
+		"Solar",
+		"System",
+		"volcano"
+	]
+}

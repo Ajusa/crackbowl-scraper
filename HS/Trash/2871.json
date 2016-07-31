@@ -1,0 +1,35 @@
+{
+	"answerText": ": chemical potential [prompt on potential][10] For an ideal free gas of electrons, the chemical potential is the Fermi energy at this temperature.  This temperature is equal to zero kelvin.",
+	"prompts": [
+		"potential",
+		"10",
+		"For",
+		"an",
+		"ideal",
+		"free",
+		"gas",
+		"electrons",
+		"chemical",
+		"potential",
+		"Fermi",
+		"energy",
+		"at",
+		"this",
+		"temperature",
+		"This",
+		"temperature",
+		"equal",
+		"to",
+		"zero",
+		"kelvin"
+	],
+	"heading": "2010 ACF Fall |2010 | Bellarmine and UCLA (1) | 10 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The gradient of this quantity acts as the driving force in diffusion.  For 10 points each: [10] Name this quantity, often symbolized mu, that, for a component in solution, is equal to the derivative of total internal energy with respect to number of particles of the component.",
+	"answers": [
+		":",
+		"chemical",
+		"potential"
+	]
+}

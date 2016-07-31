@@ -1,0 +1,12 @@
+{
+	"answerText": "mantle [accept upper mantle; do not accept \"lower mantle\"] [10] Tectonic plates compose what shell layer, which lies above the Earth's asthenosphere and below the atmosphere and is comprised of the crust and upper mantle?",
+	"prompts": [],
+	"heading": "Collegiate Novice |2012 | 7 | 13 | Science | Other | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer some questions about tectonic plate theory,  [10] Tectonic plates are carried by subduction into what layer of the Earth, below the crust and above the core? ",
+	"answers": [
+		"mantle",
+		"upper"
+	]
+}

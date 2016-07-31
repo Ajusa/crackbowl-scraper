@@ -1,0 +1,29 @@
+{
+	"answerText": "acetylcholine[10] This type of acetylcholine receptor is present on skeletal muscle and neurons, as opposed to muscarinic receptors, which exist in the heart.",
+	"prompts": [],
+	"heading": "ICCS |2014 | 7 | 11 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: An autoimmune condition in which there are antibodies to this substance's receptors is called Myasthenia Gravis.  [10] Name this neurotransmitter which carries signals across the neuromuscular junction. Sarin and other nerve agents block the enzyme that breaks it down.",
+	"answers": [
+		"acetylcholine",
+		"10",
+		"This",
+		"type",
+		"receptor",
+		"present",
+		"skeletal",
+		"muscle",
+		"and",
+		"neurons",
+		"as",
+		"opposed",
+		"to",
+		"muscarinic",
+		"receptors",
+		"which",
+		"exist",
+		"in",
+		"heart"
+	]
+}

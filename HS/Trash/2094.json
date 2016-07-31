@@ -1,0 +1,30 @@
+{
+	"answerText": "kinetic energy[10] The integral of the Lagrangian is equal to this quantity. Hamilton's principle states that the derivative of this quantity with respect to the generalized coordinates is equal to zero.",
+	"prompts": [],
+	"heading": "Penn Bowl |2014 | 4 | 15 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer some questions about Lagrangian mechanics, for 10 points each: [10] The Lagrangian is the difference between the potential energy and this quantity, which in Lagrangian mechanics is symbolized T. For a classical particle undergoing translation, it is equal to one-half m v squared.",
+	"answers": [
+		"kinetic",
+		"energy",
+		"10",
+		"The",
+		"integral",
+		"Lagrangian",
+		"equal",
+		"to",
+		"this",
+		"quantity",
+		"Hamilton's",
+		"principle",
+		"states",
+		"that",
+		"derivative",
+		"with",
+		"respect",
+		"generalized",
+		"coordinates",
+		"zero"
+	]
+}

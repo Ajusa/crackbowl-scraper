@@ -1,0 +1,31 @@
+{
+	"answerText": "flipflop[10] One type of Flip-Flop, an SR Latch, can be built from two of this type of logic gate, which with the NAND gate is considered a \"universal gate.\"",
+	"prompts": [],
+	"heading": "VCU Closed  |2013 | Chicago B + Yale B | 20 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: To implement a stack data structure, one can use parallel shift registers. But this bonus isn't about data structures. For 10 points each: [10] A shift register is a series of these circuits connected to the same clock. They come in SR, D, and T types.",
+	"answers": [
+		"flipflop",
+		"10",
+		"One",
+		"type",
+		"Flip-Flop",
+		"an",
+		"SR",
+		"Latch",
+		"can",
+		"be",
+		"built",
+		"from",
+		"two",
+		"this",
+		"logic",
+		"gate",
+		"which",
+		"with",
+		"NAND",
+		"considered",
+		"universal"
+	]
+}

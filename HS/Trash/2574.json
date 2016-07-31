@@ -1,0 +1,30 @@
+{
+	"answerText": "plasmids[10] The sex pilus is encoded by this plasmid, which contains the Tra region. Those organisms that integrate this plasmid into their genome",
+	"prompts": [],
+	"heading": "VCU Closed |2013 | Maryland B and Michigan A | 1 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: These short segments are often transmitted during conjugation using sex pili. For 10 points each: [10] Name these short segments of DNA exchanged between bacteria in order to share traits like antibiotic resistance. They were first characterized by Joshua Lederberg.",
+	"answers": [
+		"plasmids",
+		"10",
+		"The",
+		"sex",
+		"pilus",
+		"encoded",
+		"by",
+		"this",
+		"plasmid",
+		"which",
+		"contains",
+		"Tra",
+		"region",
+		"Those",
+		"organisms",
+		"that",
+		"integrate",
+		"into",
+		"their",
+		"genome"
+	]
+}

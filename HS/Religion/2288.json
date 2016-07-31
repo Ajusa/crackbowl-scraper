@@ -1,0 +1,33 @@
+{
+	"answerText": "mitosis [do not accept or prompt on \"meiosis\"][10] Before mitosis, the cell must replicate its DNA in this second phase of the cell cycle. It comes between G1 and G2.",
+	"prompts": [
+		"meiosis",
+		"10",
+		"Before",
+		"mitosis",
+		"cell",
+		"must",
+		"replicate",
+		"its",
+		"DNA",
+		"in",
+		"this",
+		"second",
+		"phase",
+		"cell",
+		"cycle",
+		"It",
+		"comes",
+		"between",
+		"G1",
+		"and",
+		"G2"
+	],
+	"heading": "BISB |2013 | 2 | 4 | Science | Biology | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: This fourth stage of the cell cycle only occurs after the G2 checkpoint. For 10 points each: [10] Name this process in which a cell divides into two equivalent daughter cells.",
+	"answers": [
+		"mitosis"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"answerText": "currency [prompt on \"money\"][10] This economic condition formally suggests that the devaluation of a currency will not result in an improvement of the balance of trade, unless the elasticities of exports and imports sum to greater than 1.",
+	"prompts": [
+		"money",
+		"10",
+		"This",
+		"economic",
+		"condition",
+		"formally",
+		"suggests",
+		"that",
+		"devaluation",
+		"currency",
+		"will",
+		"not",
+		"result",
+		"in",
+		"an",
+		"improvement",
+		"balance",
+		"trade",
+		"unless",
+		"elasticities",
+		"exports",
+		"and",
+		"imports",
+		"sum",
+		"to",
+		"greater",
+		"than",
+		"1"
+	],
+	"heading": "PADAWAN |2014 | 9 | 16 | Social Science | None | College",
+	"subject": "Social Science",
+	"level": "College",
+	"question": "Question: The ISO codes for these things are typically a combination of a two letter country code and their first initial. [10] Name this medium of exchange, whose paper varieties include the Euro and US dollar. Exchange rates are the rate of interchange between them.",
+	"answers": [
+		"currency"
+	]
+}

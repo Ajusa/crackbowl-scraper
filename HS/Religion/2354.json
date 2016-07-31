@@ -1,0 +1,13 @@
+{
+	"answerText": "collision[10] Whether or not a collision is elastic, the total value of this quantity in the system is conserved. For an object, it is defined as the product of that object's mass and its velocity.",
+	"prompts": [],
+	"heading": "James |2013 | 3 | 20 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: Kinetic energy is conserved in an elastic one of these and objects stick together in the perfectly inelastic type. For 10 points: [10] Identify these events exemplified by a tennis ball hitting a racket.",
+	"answers": [
+		"collision",
+		"10",
+		"Whether"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"answerText": "sulfuric acid [do not accept \"sulfurous acid\"; accept oil of vitriol; accept fuming sulfuric acid] [10] An early method of producing sulfuric acid was to react an aqueous solution of sulfur dioxide with nitrogen dioxide in chambers lined with this heavy metal.",
+	"prompts": [],
+	"heading": "Collegiate Novice |2012 | 8 | 10 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Name the following about the production of a certain compound,  [10] This compound is a diprotic acid that can undergo electrophilic aromatic substitution with benzene. This leading cause of acid rain has a chemical formula of H2SO4 . ",
+	"answers": [
+		"sulfuric",
+		"acid"
+	]
+}

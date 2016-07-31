@@ -1,0 +1,12 @@
+{
+	"answerText": "linear velocity (do not accept \"angular velocity\" or \"omega\")[10]  This quantity is equal to v-squared over R. It is equal to force divided by mass, and is the rate of change in the object's velocity.",
+	"prompts": [],
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2012 | LISTIII_Round14.docx | 2 | Science |  | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10]  An object with mass m is held in an orbit of radius R by a centripetal force of m times this quantity-squared divided by R.",
+	"answers": [
+		"linear",
+		"velocity"
+	]
+}

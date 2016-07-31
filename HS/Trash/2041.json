@@ -1,0 +1,32 @@
+{
+	"answerText": "electrophilic aromatic substitution [or EAS; prompt on partial answers][10] This aromatic compound, with formula C6H6 , and three double bonds, undergoes tons of electrophilic aromatic substitutions.",
+	"prompts": [
+		"partial",
+		"10",
+		"This",
+		"aromatic",
+		"compound",
+		"with",
+		"formula",
+		"C6H6",
+		"and",
+		"three",
+		"double",
+		"bonds",
+		"undergoes",
+		"tons",
+		"electrophilic",
+		"aromatic",
+		"substitutions"
+	],
+	"heading": "PADAWAN |2014 | 6 | 8 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: An iminium ion undergoes a process of this type with an arene in the Vilsmeier-Haack reaction. [10] Name this kind of reaction in which activating groups act as ortho/para directors, and deactivating groups act as meta-directors. Aluminum trichloride catalyzes two reactions of this type, the Friedel-Crafts acylation and alkylation.",
+	"answers": [
+		"electrophilic",
+		"aromatic",
+		"substitution",
+		"EAS"
+	]
+}

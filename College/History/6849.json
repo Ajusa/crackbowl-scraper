@@ -1,0 +1,29 @@
+{
+	"answerText": "NP-complete[10] The best known algorithms for NP-complete problems like k-SAT take at least this worst-case runtime, which implies that P is not equal to NP. A version of the halting problem which asks whether a Turing machine will stop in a finite amount of steps is also solvable in this runtime.",
+	"prompts": [],
+	"heading": "VCU Closed |2013 | Harvard A and Virginia B | 16 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The Cook-Levin theorem showed that the Boolean Satisfiability Problem is in this complexity class. For 10 points each: [10] This class of problems consists of the problems that are the most difficult problems in NP; formally, a problem is in this class if and only if it is in NP and every problem in NP is reducible to it.",
+	"answers": [
+		"NP-complete",
+		"10",
+		"The",
+		"best",
+		"known",
+		"algorithms",
+		"for",
+		"problems",
+		"k-SAT",
+		"take",
+		"at",
+		"least",
+		"this",
+		"worst-case",
+		"runtime",
+		"which",
+		"implies",
+		"that",
+		"P"
+	]
+}

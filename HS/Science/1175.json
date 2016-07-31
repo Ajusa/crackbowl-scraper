@@ -1,0 +1,31 @@
+{
+	"answerText": "period[10] Cepheid variables are an essential part of the cosmic ladder for this quantity, which is often measured in parsecs and astronomical units.",
+	"prompts": [],
+	"heading": "PACE NSC |2015 | 3 | 17 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: Using observations on the star RW Draconis, Sergey Blazhko found variations in this quantity and amplitude for RR Lyrae Stars. For 10 points each: [10] Name this quantity that is a measure of how frequently a star pulsates. Henrietta Swan Leavitt derived a relation between luminosity and this quantity for Cepheid (SEH-fee-id) variable stars.",
+	"answers": [
+		"period",
+		"10",
+		"Cepheid",
+		"variables",
+		"are",
+		"an",
+		"essential",
+		"part",
+		"cosmic",
+		"ladder",
+		"for",
+		"this",
+		"quantity",
+		"which",
+		"often",
+		"measured",
+		"in",
+		"parsecs",
+		"and",
+		"astronomical",
+		"units"
+	]
+}

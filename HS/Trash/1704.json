@@ -1,0 +1,31 @@
+{
+	"answerText": "polymerization [accept word forms][10] Besides step-growth, the other main type of polymerization is this one that focuses on linking monomers one at a time. Living polymerization is a type of this polymerization that lacks a termination reaction.",
+	"prompts": [],
+	"heading": "STIMPY |2015 | Harvard A | 1 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This technique can be step-growth, in which case the reaction occurs between substituent functional groups. For 10 points each: [10] Name these reactions in which subunits are linked together to form larger, often repeating, macromolecules.",
+	"answers": [
+		"polymerization",
+		"word",
+		"forms",
+		"10",
+		"Besides",
+		"step-growth",
+		"other",
+		"main",
+		"type",
+		"this",
+		"one",
+		"that",
+		"focuses",
+		"linking",
+		"monomers",
+		"at",
+		"time",
+		"Living",
+		"lacks",
+		"termination",
+		"reaction"
+	]
+}

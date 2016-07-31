@@ -1,0 +1,36 @@
+{
+	"answerText": "fugacity [prompt on f][10] Chemical potential is equal to the partial molar form of this quantity. The natural log of the equilibrium constant is equal to the change in this over minus RT",
+	"prompts": [
+		"f",
+		"10",
+		"Chemical",
+		"potential",
+		"equal",
+		"to",
+		"partial",
+		"molar",
+		"form",
+		"this",
+		"quantity",
+		"The",
+		"natural",
+		"log",
+		"equilibrium",
+		"constant",
+		"equal",
+		"to",
+		"change",
+		"in",
+		"this",
+		"over",
+		"minus",
+		"RT"
+	],
+	"heading": "ACF Regionals  |2012 | Maryland B + Loyola  | 3 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The chemical potential is equal to the standard chemical potential plus RT times the natural log of this quantity over its reference value. For 10 points each: [10] Name this tendency to escape whose ratio with pressure as pressure goes to zero is one.",
+	"answers": [
+		"fugacity"
+	]
+}

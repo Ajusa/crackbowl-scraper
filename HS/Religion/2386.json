@@ -1,0 +1,39 @@
+{
+	"answerText": "Higgs boson [prompt on \"boson\"][10] This largest particle accelerator in the world built by CERN has most likely found the Higgs boson. Some worried that it might produce planet destroying mini-black holes.",
+	"prompts": [
+		"boson",
+		"10",
+		"This",
+		"largest",
+		"particle",
+		"accelerator",
+		"in",
+		"world",
+		"built",
+		"by",
+		"CERN",
+		"has",
+		"most",
+		"likely",
+		"found",
+		"Higgs",
+		"boson",
+		"Some",
+		"worried",
+		"that",
+		"might",
+		"produce",
+		"planet",
+		"destroying",
+		"mini-black",
+		"holes"
+	],
+	"heading": "James |2013 | 9 | 4 | Science | Chemistry | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: A particle with mass of 125-127 GeV is thought to be this particle. For 10 points each: [10] Name this particle thought to explain why other particles have mass. For a long time the only particle in the Standard Model not observed, it is often called the \"God particle.\"",
+	"answers": [
+		"Higgs",
+		"boson"
+	]
+}

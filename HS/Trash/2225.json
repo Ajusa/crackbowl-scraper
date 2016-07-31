@@ -1,0 +1,16 @@
+{
+	"answerText": "HR diagram [or Hertzsprung-Russell diagram; or HRD; prompt on CMD; prompt on color-magnitude diagram; prompt on temperature-luminosity diagram][10] This Japanese astrophysicist showed that there is a boundary on the HR diagram cooler than which stable stars cannot exist. He also names a path taken by some protostars on the HR diagram.",
+	"prompts": [
+		"CMD"
+	],
+	"heading": "ACF Regionals |2013 | Rutgers-NB + St. Johns A + Haverford | 12 | Science | Other | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: green apple [prompt on \"apple\"] [10] Name this two-dimensional scatter graph of stars whose horizontal axis is stellar temperature or color index and vertical axis is absolute magnitude or intrinsic luminosity.",
+	"answers": [
+		"HR",
+		"diagram",
+		"Hertzsprung-Russell",
+		"HRD"
+	]
+}

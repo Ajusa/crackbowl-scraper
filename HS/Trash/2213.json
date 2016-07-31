@@ -1,0 +1,29 @@
+{
+	"answerText": "vapor pressure[10] This law allows the vapor pressure of a mixture to be calculated as a sum, weighted by mole fraction, of the vapor pressures of the mixture's components.",
+	"prompts": [],
+	"heading": "ACF Regionals |2013 | NYU A + MSU + Caltech A | 9 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The Antoine equation describes this quantity in terms of the three coefficients and temperature. For 10 points each: [10] Name this quantity that denotes the pressure exerted by a gas in equilibrium with its liquid or solid state.",
+	"answers": [
+		"vapor",
+		"pressure",
+		"10",
+		"This",
+		"law",
+		"allows",
+		"mixture",
+		"to",
+		"be",
+		"calculated",
+		"as",
+		"sum",
+		"weighted",
+		"by",
+		"mole",
+		"fraction",
+		"pressures",
+		"mixture's",
+		"components"
+	]
+}

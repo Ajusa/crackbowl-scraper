@@ -1,0 +1,27 @@
+{
+	"answerText": "rings[10] These subsets of rings are closed under addition and super-closed under multiplication. Examples include maximal, prime, and radical ones.",
+	"prompts": [],
+	"heading": "ACF Winter |2009 | Brown University and Notre Dame | 15 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: A fundamental result in algebraic geometry requires much technical work in commutative algebra. FTPE: [10] Much of commutative algebra concerns these structures, which specialize to integral domains when they contain no zero divisors and fields when their non-zero elements form an abelian group under multiplication.",
+	"answers": [
+		"rings",
+		"10",
+		"These",
+		"subsets",
+		"are",
+		"closed",
+		"under",
+		"addition",
+		"and",
+		"super-closed",
+		"multiplication",
+		"Examples",
+		"include",
+		"maximal",
+		"prime",
+		"radical",
+		"ones"
+	]
+}

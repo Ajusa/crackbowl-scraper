@@ -1,0 +1,42 @@
+{
+	"answerText": "gel electrophoresis [prompt on partial answer][10]  Gel electrophoresis is used in this technique, which is used to confirm an HIV infection. In this technique, proteins are transferred to a membrane and probed with an antibody.",
+	"prompts": [
+		"partial",
+		"answer",
+		"10",
+		"Gel",
+		"electrophoresis",
+		"used",
+		"in",
+		"this",
+		"technique",
+		"which",
+		"used",
+		"to",
+		"confirm",
+		"an",
+		"HIV",
+		"infection",
+		"In",
+		"this",
+		"technique",
+		"proteins",
+		"are",
+		"transferred",
+		"to",
+		"membrane",
+		"and",
+		"probed",
+		"with",
+		"an",
+		"antibody"
+	],
+	"heading": "PACE |2013 | 2 | 21 | Science | Biology | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  A two-dimensional version of this technique separates protein by both size and isoelectric point. For 10 points each:  [10] Name this separation method where an electric field is used to move proteins and DNA into bands of similar size. It is visualized using Coomassie blue or ethidium bromide. ",
+	"answers": [
+		"gel",
+		"electrophoresis"
+	]
+}

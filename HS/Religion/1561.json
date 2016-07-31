@@ -1,0 +1,31 @@
+{
+	"answerText": "synagogue [prompt on Jewish temple][10] Most synagogues have an ark that contains this holy book comprised of the first five books of the Old Testament.",
+	"prompts": [
+		"Jewish",
+		"temple",
+		"10",
+		"Most",
+		"synagogues",
+		"have",
+		"an",
+		"ark",
+		"that",
+		"contains",
+		"this",
+		"holy",
+		"book",
+		"comprised",
+		"first",
+		"five",
+		"books",
+		"Old",
+		"Testament"
+	],
+	"heading": "Missiles of October |2011 | 7 | 9 | Religion | None | College",
+	"subject": "Religion",
+	"level": "College",
+	"question": "Question: These buildings are sometimes called shuls, which means \"schools,\" and some of them contain a lectern called an amud, which is used by the chazzan. For 10 points each: [10] Name these places of worship which also contain a large bath called a mikveh and a lamp called a ner tamid, which represents a seven-branched candelabrum used in ancient times.",
+	"answers": [
+		"synagogue"
+	]
+}

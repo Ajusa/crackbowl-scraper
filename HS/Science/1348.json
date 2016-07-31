@@ -1,0 +1,33 @@
+{
+	"answerText": "drag force[10] When an object is dropped, it accelerates until the drag force is equal to the object's weight, at which point the object continues to fall at a constant speed known by this name.",
+	"prompts": [],
+	"heading": "James |2013 | 5 | 17 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: This force acts opposite the direction of motion on an object moving through a fluid. For 10 points: [10] Identify this force, which depends on, among other factors, the density of the fluid and the speed of the object.",
+	"answers": [
+		"drag",
+		"force",
+		"10",
+		"When",
+		"an",
+		"object",
+		"dropped",
+		"accelerates",
+		"equal",
+		"to",
+		"object's",
+		"weight",
+		"at",
+		"which",
+		"point",
+		"continues",
+		"fall",
+		"constant",
+		"speed",
+		"known",
+		"by",
+		"this",
+		"name"
+	]
+}

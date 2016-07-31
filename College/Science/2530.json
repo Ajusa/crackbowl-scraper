@@ -1,0 +1,21 @@
+{
+	"answerText": "divergence [10] The divergence of the curl of a vector field is always equal to this value.",
+	"prompts": [],
+	"heading": "VCU Closed  |2013 | Chicago C & South Carolina A | 3 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: For a continuously differentiable input, this value is merely equal to du dx plus dv dy plus dw dz. For 10 points each: [10] Name this vector-valued operation often symbolized del dot, which is positive near sources and negative near sinks.",
+	"answers": [
+		"divergence",
+		"10",
+		"The",
+		"curl",
+		"vector",
+		"field",
+		"always",
+		"equal",
+		"to",
+		"this",
+		"value"
+	]
+}

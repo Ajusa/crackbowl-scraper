@@ -1,0 +1,30 @@
+{
+	"answerText": "organ transplant[10] This immunosuppressant is used to prevent transplant rejection by blocking interleukin-2 signalling. Its \"target\" is a protein that regulates cell growth.",
+	"prompts": [],
+	"heading": "SUBMIT |2014 | UVA A, Minnesota, Northeastern A | 4 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name this process involving moving an organ from one body to another.",
+	"answers": [
+		"organ",
+		"transplant",
+		"10",
+		"This",
+		"immunosuppressant",
+		"used",
+		"to",
+		"prevent",
+		"rejection",
+		"by",
+		"blocking",
+		"interleukin-2",
+		"signalling",
+		"Its",
+		"target",
+		"protein",
+		"that",
+		"regulates",
+		"cell",
+		"growth"
+	]
+}

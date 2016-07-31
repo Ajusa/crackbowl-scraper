@@ -1,0 +1,32 @@
+{
+	"answerText": "computer graphics [10] One technique for rendering three-dimensional graphics attempts to \"trace\" the path that one of these objects takes as it bounces throughout an environment.",
+	"prompts": [],
+	"heading": "Collegiate Novice |2012 | 8 | 8 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This technology is implemented by namesake cards manufactured by nVidia.  [10] Name this technology that uses rasters, sprites, vectors, and pixels to display images. ",
+	"answers": [
+		"computer",
+		"graphics",
+		"10",
+		"One",
+		"technique",
+		"for",
+		"rendering",
+		"three-dimensional",
+		"attempts",
+		"to",
+		"trace",
+		"path",
+		"that",
+		"one",
+		"these",
+		"objects",
+		"takes",
+		"as",
+		"bounces",
+		"throughout",
+		"an",
+		"environment"
+	]
+}

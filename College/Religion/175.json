@@ -1,0 +1,32 @@
+{
+	"answerText": "Lesser Antilles [prompt on Antilles] [10] The Lesser Antilles can be found in this sea. Europeans called islands in this sea the West Indies",
+	"prompts": [
+		"Antilles",
+		"10",
+		"The",
+		"Lesser",
+		"Antilles",
+		"can",
+		"be",
+		"found",
+		"in",
+		"this",
+		"sea",
+		"Europeans",
+		"called",
+		"islands",
+		"in",
+		"this",
+		"sea",
+		"West",
+		"Indies"
+	],
+	"heading": "NASAT  |2014 | 20 | 19 | Geography | None | HS",
+	"subject": "Geography",
+	"level": "HS",
+	"question": "Question: One member of this chain of islands is a lifeless rock named Redonda whose second-to-last king \"Robert the Bald\" was succeeded by \"Michael the Grey\" in 2009. For 10 points each:  [10] Redonda, which belongs to Antigua and Barbuda, is a member of the Leeward Islands, which makes up this island chain along with the Windward Islands. ",
+	"answers": [
+		"Lesser",
+		"Antilles"
+	]
+}

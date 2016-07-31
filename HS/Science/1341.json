@@ -1,0 +1,27 @@
+{
+	"answerText": "factorial[10] The factorial of this value is defined to be one, as applying the definition of the factorial to it results in an empty product.",
+	"prompts": [],
+	"heading": "James |2013 | 4 | 8 | Science | Math | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: This function often occurs in combinatorics, and it of n gives the number of permutations of n objects. For 10 points: [10] Identify this function, represented by an exclamation point, which for a positive integer is the product of that integer and all those positive integers less than it.",
+	"answers": [
+		"factorial",
+		"10",
+		"The",
+		"this",
+		"value",
+		"defined",
+		"to",
+		"be",
+		"one",
+		"as",
+		"applying",
+		"definition",
+		"results",
+		"in",
+		"an",
+		"empty",
+		"product"
+	]
+}

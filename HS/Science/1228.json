@@ -1,0 +1,17 @@
+{
+	"answerText": "(first) (mass) moment of inertia (or rotational inertia or polar moment of inertia or angular mass, do not accept partial answers)[10] This quantity equals the ratio of torque to moment of inertia.",
+	"prompts": [],
+	"heading": "Masonic |2014 | 7 | 5 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name this rotational analogue of mass.",
+	"answers": [
+		"first",
+		"mass",
+		"moment",
+		"inertia",
+		"rotational",
+		"polar",
+		"angular"
+	]
+}

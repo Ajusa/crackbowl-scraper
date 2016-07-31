@@ -1,0 +1,33 @@
+{
+	"answerText": "law code [prompt on laws; accept Napoleonic Code; or Code civil des francais] [10] This Babylonian ruler's law code mandated the punishment of \"an eye for an eye.\"",
+	"prompts": [
+		"laws",
+		"Napoleonic",
+		"Code",
+		"Code",
+		"civil",
+		"des",
+		"francais",
+		"10",
+		"This",
+		"Babylonian",
+		"ruler's",
+		"law",
+		"code",
+		"mandated",
+		"punishment",
+		"an",
+		"eye",
+		"for",
+		"an",
+		"eye"
+	],
+	"heading": "Collegiate Novice |2012 | 7 | 11 | History | Classical | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: One of these documents mandates cutting off a son's hand for striking his father.  [10] Name these documents, one of which was carved on a column in Susa. Another one, which was made by Napoleon, forbade privileges based on birth and allowed freedom of religion. ",
+	"answers": [
+		"law",
+		"code"
+	]
+}

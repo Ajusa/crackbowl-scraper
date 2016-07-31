@@ -1,0 +1,27 @@
+{
+	"answerText": "oxygen (prompt on \"O\")[10] This allotrope of oxygen, also called trioxygen, has three oxygen atoms in each molecule.",
+	"prompts": [
+		"O",
+		"10",
+		"This",
+		"allotrope",
+		"oxygen",
+		"also",
+		"called",
+		"trioxygen",
+		"has",
+		"three",
+		"oxygen",
+		"atoms",
+		"in",
+		"each",
+		"molecule"
+	],
+	"heading": "Masonic |2014 | 2 | 11 | Science | Chemistry | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name this element that binds to hemoglobin and that is much more concentrated in arterial blood than in venous blood.",
+	"answers": [
+		"oxygen"
+	]
+}

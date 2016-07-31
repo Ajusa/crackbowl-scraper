@@ -1,0 +1,39 @@
+{
+	"answerText": "meiosis [prompt on \"division\" or \"reduction division\"] [10] During prophase I of meiosis, homologous chromosomes recombine and exchange genetic material in a process given this name. Synaptonemal complexes are required for this process.",
+	"prompts": [
+		"division",
+		"reduction",
+		"division",
+		"10",
+		"During",
+		"prophase",
+		"I",
+		"meiosis",
+		"homologous",
+		"chromosomes",
+		"recombine",
+		"and",
+		"exchange",
+		"genetic",
+		"material",
+		"in",
+		"process",
+		"given",
+		"this",
+		"name",
+		"Synaptonemal",
+		"complexes",
+		"are",
+		"required",
+		"for",
+		"this",
+		"process"
+	],
+	"heading": "NASAT  |2014 | 14 | 2 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: In human females, this process stops at prophase I until puberty, and then pauses again at metaphase II until fertilization. For 10 points each:  [10] Name this form of cell division undergone by gametes, in which a single diploid cell divides into four haploid cells",
+	"answers": [
+		"meiosis"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"answerText": "canonical transformations [or contact transformations; or scale transformations; do NOT accept \"point transformations\"][10] One can determine if a transform is canonical by checking whether this matrix for it satisfies the symplectic condition. It contains the partial derivatives of a vector function, and its determinant is used when performing a change of variables for an integral.",
+	"prompts": [],
+	"heading": "PADAWAN |2014 | 9 | 10 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: An easy test to see if a coordinate transform is of this type is to see whether the fundamental Poisson brackets are conserved. [10] Name these coordinate transforms from small p and small q to big P and big Q, where big P and big Q are functions of small p and small q, that satisfy Hamilton's equations of motion.",
+	"answers": [
+		"canonical",
+		"transformations",
+		"contact",
+		"scale"
+	]
+}

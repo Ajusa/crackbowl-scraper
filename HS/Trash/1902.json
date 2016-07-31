@@ -1,0 +1,32 @@
+{
+	"answerText": "hydrogen[10] In the Bohr model, a hydrogen atom is said to be in this state if the electron is in the second or any higher energy orbital. This state is contrasted with the ground state.",
+	"prompts": [],
+	"heading": "ICCS |2014 | 8 | 3 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Series of spectral lines of this element are named after Lyman, Balmer, Paschen, and Brackett.  [10] Name this element whose spectrum was predicted using a model developed by Niels Bohr. The Bohr model did not work for any other elements with more electrons. ",
+	"answers": [
+		"hydrogen",
+		"10",
+		"In",
+		"Bohr",
+		"model",
+		"atom",
+		"said",
+		"to",
+		"be",
+		"in",
+		"this",
+		"state",
+		"if",
+		"electron",
+		"second",
+		"higher",
+		"energy",
+		"orbital",
+		"This",
+		"contrasted",
+		"with",
+		"ground"
+	]
+}

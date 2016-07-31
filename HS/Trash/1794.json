@@ -1,0 +1,14 @@
+{
+	"answerText": "turbidity currents [prompt on \"current\"; prompt on \"sediment gravity flow\" or any part of that][10] The rocks produced by turbidity currents are classified as this type of sedimentary rock because they are formed from namesake sediment fragments laid down by moving fluids. They are classed as conglomerates, sandstones, or mudrocks.",
+	"prompts": [
+		"current"
+	],
+	"heading": "ACF Regionals 2014 |2014 | UCSD | 12 | Science | Other | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name these gravity-driven phenomena in which sediment-laden water moves rapidly downslope through clear water. ",
+	"answers": [
+		"turbidity",
+		"currents"
+	]
+}

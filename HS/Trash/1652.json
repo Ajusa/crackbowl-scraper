@@ -1,0 +1,26 @@
+{
+	"answerText": "metric tensor[10] The metric tensor is an integral part of the theory of general relativity proposed by this physicist, whose summation notation is used when raising or lowering the indices of a tensor by contracting it with the metric tensor.",
+	"prompts": [],
+	"heading": "MUT |2015 | 2 | 11 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This tensor can be used to raise or lower arbitrary indices, turning covariant indices into contravariant indices and vice versa. [10] Name this symmetric tensor so named because it defines the way length is measured. ",
+	"answers": [
+		"metric",
+		"tensor",
+		"10",
+		"The",
+		"an",
+		"integral",
+		"part",
+		"theory",
+		"general",
+		"relativity",
+		"proposed",
+		"by",
+		"this",
+		"physicist",
+		"whose",
+		"summation"
+	]
+}

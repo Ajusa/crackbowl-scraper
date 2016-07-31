@@ -1,0 +1,13 @@
+{
+	"answerText": "glucose[10] Humans cannot digest this polymer of glucose because it forms a strong microfibril matrix found in plant cell walls. However, bacteria living in the digestive systems of ruminants possess dockerins that can break down this compound.",
+	"prompts": [],
+	"heading": "LIST (Ladue Invitational Spring Tournament) |2013 | 1 | 17 | Science | Biology | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name this monosaccharide with the chemical formula C6H12O6. People suffering from diabetes do not have enough functional insulin to metabolize this compound.",
+	"answers": [
+		"glucose",
+		"10",
+		"Humans"
+	]
+}

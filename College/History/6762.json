@@ -1,0 +1,22 @@
+{
+	"answerText": "Nernst equation[10] The formation of this gas has a standard reduction potential of zero.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 5 | 4 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: An equation named for Goldman, Hodgkin, and Katz reduces to this one when the permeability is set to one and only one ion is considered. [10] Name this equation named for a German chemist, which gives the reduction potential for an electrochemical reaction given the number of electrons transferred and the concentration of the reactants.",
+	"answers": [
+		"Nernst",
+		"equation",
+		"10",
+		"The",
+		"formation",
+		"this",
+		"gas",
+		"has",
+		"standard",
+		"reduction",
+		"potential",
+		"zero"
+	]
+}

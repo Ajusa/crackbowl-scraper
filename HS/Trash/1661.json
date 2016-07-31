@@ -1,0 +1,43 @@
+{
+	"answerText": "antibiotics [or antibacterials; prompt on \"antimicrobial\"][10] The majority of natural antibiotics discovered to date come from this largest genus of Actinobacteria, with over 500 species. They are usually found in soil and produce the earthy-smelling metabolite geosmin.",
+	"prompts": [
+		"antimicrobial",
+		"10",
+		"The",
+		"majority",
+		"natural",
+		"antibiotics",
+		"discovered",
+		"to",
+		"date",
+		"come",
+		"from",
+		"this",
+		"largest",
+		"genus",
+		"Actinobacteria",
+		"with",
+		"over",
+		"500",
+		"species",
+		"They",
+		"are",
+		"usually",
+		"found",
+		"in",
+		"soil",
+		"and",
+		"produce",
+		"earthy-smelling",
+		"metabolite",
+		"geosmin"
+	],
+	"heading": "MUT |2015 | 4 | 13 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The iChip method was used to discover of one of these compounds called teixobactin that is claimed to be less susceptible to resistance because it binds to the conserved lipids II and III [10] Name this type of bacteria-killing chemical which also includes vancomycin and methicillin.",
+	"answers": [
+		"antibiotics",
+		"antibacterials"
+	]
+}

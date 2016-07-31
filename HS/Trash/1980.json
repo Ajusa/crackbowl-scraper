@@ -1,0 +1,13 @@
+{
+	"answerText": "quaternion group [10] Another group with eight members is the set of symmetries of the square. Symmetries of ngons are these types of groups, usually written D-sub-n or D-sub-two-n.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 6 | 7 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Name some things relating to groups with eight members, for 10 points each. [10] The bases of this extension of the complex numbers can be treated as a group. This system adds j and k to i as square roots of negative one and is non-commutative. ",
+	"answers": [
+		"quaternion",
+		"group",
+		"10"
+	]
+}

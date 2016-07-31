@@ -1,0 +1,31 @@
+{
+	"answerText": "Larmor radius [10] Plasmas are considered collisionless if this is large compared to the scale length of a plasma; it is the average distance a particle travels before it interacts with another particle.",
+	"prompts": [],
+	"heading": "ACF Winter |2009 | UC Los Angeles B and Iowa | 11 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: name these things related to plasma physics. [10] In a magnetized plasma, the scale length is large compared to this radius of gyration of an ion about the magnetic field.  It is named for an Irish Physicist who also lends his name to the precession of the spin of a nucleus in a magnetic field. ",
+	"answers": [
+		"Larmor",
+		"radius",
+		"10",
+		"Plasmas",
+		"are",
+		"considered",
+		"collisionless",
+		"if",
+		"this",
+		"large",
+		"compared",
+		"to",
+		"scale",
+		"length",
+		"plasma",
+		"average",
+		"distance",
+		"particle",
+		"travels",
+		"interacts",
+		"with"
+	]
+}

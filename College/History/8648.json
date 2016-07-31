@@ -1,0 +1,42 @@
+{
+	"answerText": "John Quincy Adams [prompt on partial answer][10] William H. Crawford served in this position under James Monroe. Other people to serve in this position include Levi Woodbury, Thomas Corwin, and Benjamin Bristow.",
+	"prompts": [
+		"partial",
+		"answer",
+		"10",
+		"William",
+		"H",
+		"Crawford",
+		"served",
+		"in",
+		"this",
+		"position",
+		"under",
+		"James",
+		"Monroe",
+		"Other",
+		"people",
+		"to",
+		"serve",
+		"in",
+		"this",
+		"position",
+		"include",
+		"Levi",
+		"Woodbury",
+		"Thomas",
+		"Corwin",
+		"and",
+		"Benjamin",
+		"Bristow"
+	],
+	"heading": "ACF Winter |2009 | University of North Carolina, Truman State A, and University of Toronto | 11 | History | American | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: Answer the following concerning the presidency of James Monroe,  [10] This man served as Monroe's Secretary of State and negotiated the treaty ceding Florida to the United States with Luis de Onis. He would succeed Monroe as president.",
+	"answers": [
+		"John",
+		"Quincy",
+		"Adams"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"answerText": "Gibbs free energy [prompt on partial answer][10] This principle states that the structure of a transition state resembles whichever, of the reactants or the products, is closer to it in Gibbs free energy.",
+	"prompts": [
+		"partial",
+		"answer",
+		"10",
+		"This",
+		"principle",
+		"states",
+		"that",
+		"structure",
+		"transition",
+		"state",
+		"resembles",
+		"whichever",
+		"reactants",
+		"products",
+		"closer",
+		"to",
+		"in",
+		"Gibbs",
+		"free",
+		"energy"
+	],
+	"heading": "Terrapin |2013 | Ike Jose + Tanay Kothari | 13 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: A reaction occurs spontaneously when the change in this quantity is less than zero. For 10 points each: [10] Name this quantity defined as enthalpy minus temperature times entropy.",
+	"answers": [
+		"Gibbs",
+		"free",
+		"energy"
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"answerText": "carrying capacity [prompt on K][10] This type of selection sees the population booms and then busts rapidly after the carrying capacity is exceeded. It is contrasted with k-selection.",
+	"prompts": [
+		"K",
+		"10",
+		"This",
+		"type",
+		"selection",
+		"sees",
+		"population",
+		"booms",
+		"and",
+		"then",
+		"busts",
+		"rapidly",
+		"after",
+		"carrying",
+		"capacity",
+		"exceeded",
+		"It",
+		"contrasted",
+		"with",
+		"k-selection"
+	],
+	"heading": "Missiles of October |2011 | 1 | 13 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: For a population P under a logistic model, this is the K in dP/dt = cP times 1  P/K. For 10 points each: [10] Name this concept, the maximum size of a population that its habitat can support over time. It is often represented as the uppermost horizontal asymptote in a graph of population versus time.",
+	"answers": [
+		"carrying",
+		"capacity"
+	]
+}

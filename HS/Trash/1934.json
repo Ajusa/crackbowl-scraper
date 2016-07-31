@@ -1,0 +1,19 @@
+{
+	"answerText": "ribosome[10] Along with the A and E sites, a site denoted by this letter exists on the large subunit of the ribosome. This site holds the growing polypeptide chain.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 10 | 15 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This organelle contains a sarcin-ricin loop in its 23S component, and it uses RNA to catalyze the peptidyl-transferase reaction. For 10 points each:  [10] Name this organelle, which in eukaryotes contains a 40S and 60S component and is responsible for synthesizing proteins. ",
+	"answers": [
+		"ribosome",
+		"10",
+		"Along",
+		"with",
+		"A",
+		"and",
+		"E",
+		"sites",
+		"site"
+	]
+}

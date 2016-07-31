@@ -1,0 +1,31 @@
+{
+	"answerText": "metaphors[10] The \"Linguistic Wars\" were a series of academic disputes between people like Lakoff and John Ross and this man. He is the author of Syntactic Structures.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 11 | 8 | Social Science | None | College",
+	"subject": "Social Science",
+	"level": "College",
+	"question": "Question: The \"conceptual\" types of these constructs are mappings from the source domain to the target domain in such a way that helps us think about, speak about, and understand the target domain. [10] Name these linguistic constructs that were discussed in a work by George Lakoff and Mark Johnson.",
+	"answers": [
+		"metaphors",
+		"10",
+		"The",
+		"Linguistic",
+		"Wars",
+		"were",
+		"series",
+		"academic",
+		"disputes",
+		"between",
+		"people",
+		"Lakoff",
+		"and",
+		"John",
+		"Ross",
+		"this",
+		"man",
+		"He",
+		"author",
+		"Syntactic",
+		"Structures"
+	]
+}

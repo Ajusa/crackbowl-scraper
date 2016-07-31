@@ -1,0 +1,27 @@
+{
+	"answerText": "Quarks[10] The first generation quarks are up and down. The second generation quarks are charm and strange. This is the name of the two third generation quarks.",
+	"prompts": [],
+	"heading": "Masonic |2014 | 1 | 6 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name these fundamental particles that come in six flavors.",
+	"answers": [
+		"Quarks",
+		"10",
+		"The",
+		"first",
+		"generation",
+		"quarks",
+		"are",
+		"up",
+		"and",
+		"down",
+		"second",
+		"charm",
+		"strange",
+		"This",
+		"name",
+		"two",
+		"third"
+	]
+}

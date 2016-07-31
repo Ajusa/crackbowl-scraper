@@ -1,0 +1,32 @@
+{
+	"answerText": "Viscosity[10] In this type of fluid, viscosity has a constant value, equal to the ratio of the shear stress to the velocity gradient. Examples of this type of fluid include water and air.",
+	"prompts": [],
+	"heading": "GSAC |2014 | 2 | 14 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: The kinematic version of this property is equal to the dynamic version of this property divided by the density of the fluid. For 10 points each: [10] Name this property of fluids, the resistance of a fluid to flow.",
+	"answers": [
+		"Viscosity",
+		"10",
+		"In",
+		"this",
+		"type",
+		"fluid",
+		"viscosity",
+		"has",
+		"constant",
+		"value",
+		"equal",
+		"to",
+		"ratio",
+		"shear",
+		"stress",
+		"velocity",
+		"gradient",
+		"Examples",
+		"include",
+		"water",
+		"and",
+		"air"
+	]
+}

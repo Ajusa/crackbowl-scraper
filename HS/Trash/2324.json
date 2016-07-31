@@ -1,0 +1,27 @@
+{
+	"answerText": "Poisson distribution[10] A distribution has this property if the probability of x greater than s plus t given x is greater than t, for s not equal to t, is equal to the probability of x greater than s. The exponential and geometric distributions have it.",
+	"prompts": [],
+	"heading": "Michigan Fall Tournament |2013 | Editors Round 5 | 17 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Name the following about statistical distributions, for 10 points each. [10] This distribution's expected value and variance are the same. It yields the probability of a given number of events occurring in some period, given an average rate for that period.",
+	"answers": [
+		"Poisson",
+		"distribution",
+		"10",
+		"A",
+		"has",
+		"this",
+		"property",
+		"if",
+		"probability",
+		"x",
+		"greater",
+		"than",
+		"s",
+		"plus",
+		"t",
+		"given",
+		"for"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"answerText": "fluorescence[10] The states on a Jablonski diagram are grouped by their multiplicity of this quantity, which, for a given electron, is equal to either one-half or negative one-half.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 9 | 8 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer some questions about Jablonski diagrams. [10] Straight arrows on Jablonski diagrams indicate radiative transitions. An example of such a phenomenon is this one, in which a molecule absorbs light at one frequency and emits it at another.",
+	"answers": [
+		"fluorescence",
+		"10",
+		"The",
+		"states",
+		"Jablonski",
+		"diagram",
+		"are",
+		"grouped",
+		"by",
+		"their",
+		"multiplicity",
+		"this",
+		"quantity",
+		"which",
+		"for",
+		"given",
+		"electron",
+		"equal",
+		"to",
+		"one-half",
+		"negative"
+	]
+}

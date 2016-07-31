@@ -1,0 +1,20 @@
+{
+	"answerText": "chirality[10] The letters R and S are used to denote types of a chiral molecule that possess the \"stereo\" form of this relationship. This relationship's \"structural\" form is possessed by n-butane and 2-methylpropane.",
+	"prompts": [],
+	"heading": "MUT |2014 | 3 | 10 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The cholesteric mesophase is a type of nematic phase with this property. For 10 points each: [10] Name this property possessed by 1-chloro-1-bromo-1-fluoroethane, in which a molecule is not superimposable on its mirror image. ",
+	"answers": [
+		"chirality",
+		"10",
+		"The",
+		"letters",
+		"R",
+		"and",
+		"S",
+		"are",
+		"used",
+		"to"
+	]
+}

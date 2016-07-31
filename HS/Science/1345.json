@@ -1,0 +1,31 @@
+{
+	"answerText": "crystals (prompt on \"solid\"s)[10] Many crystals are ionic solids, made up of these compounds with ionic bonds. Sodium chloride is a common example.",
+	"prompts": [
+		"solid",
+		"s",
+		"10",
+		"Many",
+		"crystals",
+		"are",
+		"ionic",
+		"solids",
+		"made",
+		"up",
+		"these",
+		"compounds",
+		"with",
+		"ionic",
+		"bonds",
+		"Sodium",
+		"chloride",
+		"common",
+		"example"
+	],
+	"heading": "James |2013 | 5 | 1 | Science | Chemistry | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: Lattice energy was originally used to calculate the enthalpy of formation for some of these structures. For 10 points each: [10] Name these structures which can have orthorhombic and cubic formations, among other periodic arrangements of molecules.",
+	"answers": [
+		"crystals"
+	]
+}

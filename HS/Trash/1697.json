@@ -1,0 +1,38 @@
+{
+	"answerText": "general relativity [or GR; prompt on \"relativity\"][10] This quantity found in the Einstein equations represents the vacuum energy density of space. Its value is thought to be positive because of the observed accelerating expansion of the universe.",
+	"prompts": [
+		"relativity",
+		"10",
+		"This",
+		"quantity",
+		"found",
+		"in",
+		"Einstein",
+		"equations",
+		"represents",
+		"vacuum",
+		"energy",
+		"density",
+		"space",
+		"Its",
+		"value",
+		"thought",
+		"to",
+		"be",
+		"positive",
+		"because",
+		"observed",
+		"accelerating",
+		"expansion",
+		"universe"
+	],
+	"heading": "STIMPY |2015 | Editors 2 | 1 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The Einstein field equations are central to this theory. For 10 points each: [10] Name this theory of gravitation that predicts phenomena like gravitational lensing.",
+	"answers": [
+		"general",
+		"relativity",
+		"GR"
+	]
+}

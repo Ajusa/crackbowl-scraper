@@ -1,0 +1,33 @@
+{
+	"answerText": "nuclear magnetic resonance spectroscopy [accept NMR spectroscopy][10] The most common form of NMR is used with reference to this particle, one of which is found in the nucleus of the 1-hydrogen isotope.",
+	"prompts": [],
+	"heading": "James |2013 | 14 | 4 | Science | Chemistry | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: There are carbon-13 and 2D COSY variations of this laboratory technique. For 10 points each: [10] In what technique are characteriatic chemical shifts used to determine the structure of a molecule?",
+	"answers": [
+		"nuclear",
+		"magnetic",
+		"resonance",
+		"spectroscopy",
+		"NMR",
+		"10",
+		"The",
+		"most",
+		"common",
+		"form",
+		"used",
+		"with",
+		"reference",
+		"to",
+		"this",
+		"particle",
+		"one",
+		"which",
+		"found",
+		"in",
+		"nucleus",
+		"1-hydrogen",
+		"isotope"
+	]
+}

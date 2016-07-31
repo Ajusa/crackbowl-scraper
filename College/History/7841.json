@@ -1,0 +1,42 @@
+{
+	"answerText": "Adrian IV (accept Nicholas Breakspear; prompt on \"Adrian\")[10] The Catholic Church in Britain stretches all the way back to this first Archbishop of Canterbury. He shares his his name with the author of City of God and Confessions.",
+	"prompts": [
+		"Adrian",
+		"10",
+		"The",
+		"Catholic",
+		"Church",
+		"in",
+		"Britain",
+		"stretches",
+		"all",
+		"way",
+		"back",
+		"to",
+		"this",
+		"first",
+		"Archbishop",
+		"Canterbury",
+		"He",
+		"shares",
+		"his",
+		"his",
+		"name",
+		"with",
+		"author",
+		"City",
+		"God",
+		"and",
+		"Confessions"
+	],
+	"heading": "SUBMIT |2014 | UVA A, Minnesota, Northeastern A | 18 | History | British | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question:  [10] Name this pope who succeeded Anastasius IV, the first and only English pope.",
+	"answers": [
+		"Adrian",
+		"IV",
+		"Nicholas",
+		"Breakspear"
+	]
+}

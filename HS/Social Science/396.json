@@ -1,0 +1,24 @@
+{
+	"answerText": "Volga River [10]  This river flows from Lake Ladoga to St. Petersburg on the Gulf of Finland.",
+	"prompts": [],
+	"heading": "Collegiate Novice |2012 | 9 | 7 | Geography | None | College",
+	"subject": "Geography",
+	"level": "College",
+	"question": "Question: Name these Russian rivers, [10] This longest European river empties into the Caspian Sea and flows through a city formerly known as Stalingrad. ",
+	"answers": [
+		"Volga",
+		"River",
+		"10",
+		"This",
+		"river",
+		"flows",
+		"from",
+		"Lake",
+		"Ladoga",
+		"to",
+		"St",
+		"Petersburg",
+		"Gulf",
+		"Finland"
+	]
+}

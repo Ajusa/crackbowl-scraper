@@ -1,0 +1,40 @@
+{
+	"answerText": "Congo Free State [prompt on Congo; do not accept \"Belgian Congo\" or \"Democratic Republic of the Congo\"][10] The Congo Free State was privately controlled by Leopold II, a king of this European country that later annexed the colony.",
+	"prompts": [
+		"Congo",
+		"not",
+		"Belgian",
+		"Congo",
+		"Democratic",
+		"Republic",
+		"Congo",
+		"10",
+		"The",
+		"Congo",
+		"Free",
+		"State",
+		"was",
+		"privately",
+		"controlled",
+		"by",
+		"Leopold",
+		"II",
+		"king",
+		"this",
+		"European",
+		"country",
+		"that",
+		"later",
+		"annexed",
+		"colony"
+	],
+	"heading": "NASAT |2013 | 11 | 3 | History | World | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: George Washington Williams wrote an open letter denouncing activities in this place. For 10 points each: [10] Name this state that was also the focus of the critiques of E.D. Morel. A \"Reform Association\" meant to improve this state, which ceased to exist in 1908, was co-founded by Morel and Roger Casement. It was the original state patrolled by the Force Publique.",
+	"answers": [
+		"Congo",
+		"Free",
+		"State"
+	]
+}

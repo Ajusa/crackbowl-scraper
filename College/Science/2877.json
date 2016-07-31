@@ -1,0 +1,31 @@
+{
+	"answerText": "Tajima's D[10] An example of non-neutral evolution is this disorder, characterized by red blood cells taking on an abnormal shape. Carriers of this disease are notably resistant to malaria.",
+	"prompts": [],
+	"heading": "ACF Winter |2009 | Brown University and Notre Dame | 17 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: This statistic is calculated by finding the difference between two measures of the variable theta and then dividing by the standard deviation of the measurement. FTPE: [10] Name this statistical test named for a Japanese mathematician that is used to distinguish between neutral evolution or selection.",
+	"answers": [
+		"Tajima's",
+		"D",
+		"10",
+		"An",
+		"example",
+		"non-neutral",
+		"evolution",
+		"this",
+		"disorder",
+		"characterized",
+		"by",
+		"red",
+		"blood",
+		"cells",
+		"taking",
+		"an",
+		"abnormal",
+		"shape",
+		"Carriers",
+		"disease",
+		"are"
+	]
+}

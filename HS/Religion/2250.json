@@ -1,0 +1,29 @@
+{
+	"answerText": "(electrical) resistance[10] This measure of how well a given material resists electric current equals resistance times cross-sectional area divided by length.",
+	"prompts": [],
+	"heading": "Masonic |2014 | 8 | 9 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name this quantity measured in ohms. Give the term used in DC circuits.",
+	"answers": [
+		"electrical",
+		"resistance",
+		"10",
+		"This",
+		"measure",
+		"how",
+		"well",
+		"given",
+		"material",
+		"resists",
+		"electric",
+		"current",
+		"equals",
+		"times",
+		"cross-sectional",
+		"area",
+		"divided",
+		"by",
+		"length"
+	]
+}

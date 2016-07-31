@@ -1,0 +1,17 @@
+{
+	"answerText": "double displacement reactions [or double replacement; or salt metathesis; or double decomposition; do NOT accept just \"displacement\" nor \"replacement\"][10] Many double displacement reactions form precipitates. For instance, if you put aqueous barium chloride and potassium sulfate together, what precipitate will you get?",
+	"prompts": [],
+	"heading": "BHSAT |2015 | Round 4 | 1 | Science | Chemistry | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: This is the only basic kind of reaction to require two reactants and two products. For 10 points each: [10] Name this kind of chemical reaction, in which both molecules \"switch partners\"; that is, AB and CD yield AD and CB.",
+	"answers": [
+		"double",
+		"displacement",
+		"reactions",
+		"replacement",
+		"salt",
+		"metathesis",
+		"decomposition"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"answerText": "proof by contradiction[10] This mathematician used a proof by contradiction to demonstrate the infinitude of the primes. He also wrote The Elements",
+	"prompts": [],
+	"heading": "PACE NSC |2015 | 2 | 4 | Science | Math | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: For 10 points each, answer the following about proof techniques. [10] This common proof technique involves assuming that a statement is true, and then showing that it would lead to a known falsehood, meaning the original statement cannot be true.",
+	"answers": [
+		"proof",
+		"by",
+		"contradiction",
+		"10",
+		"This",
+		"mathematician",
+		"used",
+		"to",
+		"demonstrate",
+		"infinitude",
+		"primes",
+		"He",
+		"also",
+		"wrote",
+		"The",
+		"Elements"
+	]
+}

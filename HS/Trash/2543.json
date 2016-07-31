@@ -1,0 +1,25 @@
+{
+	"answerText": "charge [10] This special case of Poisson's Equation states that del squared of the electric potential equals zero.",
+	"prompts": [],
+	"heading": "VCU Closed  |2013 | Delaware + Michigan A  | 10 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The density of this quantity is divided by epsilon naught in Poisson's Equations and is proportional to the divergence of the electric field by Gauss' Law. For 10 points each: [10] Name this quantity that is measured in Coulombs",
+	"answers": [
+		"charge",
+		"10",
+		"This",
+		"special",
+		"case",
+		"Poisson's",
+		"Equation",
+		"states",
+		"that",
+		"del",
+		"squared",
+		"electric",
+		"potential",
+		"equals",
+		"zero"
+	]
+}

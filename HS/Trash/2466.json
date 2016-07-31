@@ -1,0 +1,27 @@
+{
+	"answerText": "liquid crystals[10] Liquid crystals can exist in various mesophases, including this one, in which molecules are aligned with one another but not arranged in a regular order. LCD screens use this form of liquid crystal.",
+	"prompts": [],
+	"heading": "Penn Bowl |2013 | 2 | 8 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Friedrich Reinitzer observed the first of these materials to be discovered, cholesteryl benzoate, in 1888. [10] Name this class of materials, which consist of polarizable rod-like molecules that exhibit local alignment but no long-range order. They generally have order parameters between 0.3 and 0.9.",
+	"answers": [
+		"liquid",
+		"crystals",
+		"10",
+		"Liquid",
+		"can",
+		"exist",
+		"in",
+		"various",
+		"mesophases",
+		"including",
+		"this",
+		"one",
+		"which",
+		"molecules",
+		"are",
+		"aligned",
+		"with"
+	]
+}

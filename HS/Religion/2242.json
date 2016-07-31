@@ -1,0 +1,26 @@
+{
+	"answerText": "mitosis (prompt on cell \"division\" or cell \"fission\")[10] This stage of mitosis just before cytokinesis involves the re-formation of the nuclear membranes.",
+	"prompts": [
+		"cell",
+		"division",
+		"cell",
+		"fission",
+		"10",
+		"This",
+		"stage",
+		"mitosis",
+		"just",
+		"cytokinesis",
+		"involves",
+		"re-formation",
+		"nuclear",
+		"membranes"
+	],
+	"heading": "Masonic |2014 | 6 | 7 | Science | Biology | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name this process in which one cell nucleus becomes two cell nuclei.",
+	"answers": [
+		"mitosis"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"answerText": "Lagrange multipliers [do not accept \"Lagrangians\"] [10] A necessary condition for the existence of the Lagrange multipliers is that the gradient of the constraint curve at the extremum must not equal this number. If the Wronskian determinant is not this value, then solutions of a diff. EQ. are linearly independent.",
+	"prompts": [],
+	"heading": "NASAT  |2014 | 4 | 5 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Name these techniques in optimization, for 10 points each.  [10] When optimizing subject to equality constraints, one popular method is to set the gradient of the function in question equal to one of these constants times the objective function. These constants are usually written as lambda and are named for a French mathematician. ",
+	"answers": [
+		"Lagrange",
+		"multipliers"
+	]
+}

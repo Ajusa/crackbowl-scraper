@@ -1,0 +1,21 @@
+{
+	"answerText": "wavenumber[10] This is the maximum absolute value of the variable that oscillates in a wave.",
+	"prompts": [],
+	"heading": "Collegiate Novice |2012 | 7 | 6 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  Name the following aspects of a wave,  [10]  This value, the inverse of the wavelength, is often given in units of inverse-centimeters. ",
+	"answers": [
+		"wavenumber",
+		"10",
+		"This",
+		"maximum",
+		"absolute",
+		"value",
+		"variable",
+		"that",
+		"oscillates",
+		"in",
+		"wave"
+	]
+}

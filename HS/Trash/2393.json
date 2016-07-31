@@ -1,0 +1,25 @@
+{
+	"answerText": "m g [or m times g; or obvious equivalents][10] At time one-half t, how far has the ball fallen?",
+	"prompts": [],
+	"heading": "NASAT |2013 | 18 | 2 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: A ball of mass m is dropped from height h on Earth. It takes time t to reach the ground. Neglecting air resistance, in terms of m, h, and local gravity, g, express the following values, for 10 points each. [10] What is the weight of the ball?",
+	"answers": [
+		"m",
+		"g",
+		"times",
+		"obvious",
+		"equivalents",
+		"10",
+		"At",
+		"time",
+		"one-half",
+		"t",
+		"how",
+		"far",
+		"has",
+		"ball",
+		"fallen?"
+	]
+}

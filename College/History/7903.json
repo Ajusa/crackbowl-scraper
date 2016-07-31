@@ -1,0 +1,40 @@
+{
+	"answerText": "Edward II [prompt on partial answer][10] Edward was criticized for his less-than-kosher relationship with this man, who was appointed Lord Lieutenant of Ireland but later executed on the orders of the Earls of Lancaster and Warwick.",
+	"prompts": [
+		"partial",
+		"answer",
+		"10",
+		"Edward",
+		"was",
+		"criticized",
+		"for",
+		"his",
+		"less-than-kosher",
+		"relationship",
+		"with",
+		"this",
+		"man",
+		"who",
+		"was",
+		"appointed",
+		"Lord",
+		"Lieutenant",
+		"Ireland",
+		"but",
+		"later",
+		"executed",
+		"orders",
+		"Earls",
+		"Lancaster",
+		"and",
+		"Warwick"
+	],
+	"heading": "ACF Regionals |2013 | NYU A + MSU + Caltech A | 20 | History | European | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: This man was presented as a baby at Caernarvon Castle as a man who \"spoke no English at all,\" and creepy necromancer John of Nottingham tried to assassinate him in some weird ritual with a wax doll. For 10 points each: [10] Name this king who was defeated by Robert the Bruce at the Battle of Bannockburn and who was temporarily overthrown by his wife, Isabella, and Roger Mortimer.",
+	"answers": [
+		"Edward",
+		"II"
+	]
+}

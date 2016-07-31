@@ -1,0 +1,28 @@
+{
+	"answerText": "amnesia[10] Anterograde amnesia often occurs due to damage in this part of the brain, which is responsible for consolidating new memories.",
+	"prompts": [],
+	"heading": "ICCS |2014 | 3 | 8 | Social Science | None | College",
+	"subject": "Social Science",
+	"level": "College",
+	"question": "Question: This condition often occurs due to head trauma or brain damage, and was famously observed in a patient named Henry Molaison.  [10] Identify this loss of memory that can come in anterograde and retrograde forms.",
+	"answers": [
+		"amnesia",
+		"10",
+		"Anterograde",
+		"often",
+		"occurs",
+		"due",
+		"to",
+		"damage",
+		"in",
+		"this",
+		"part",
+		"brain",
+		"which",
+		"responsible",
+		"for",
+		"consolidating",
+		"new",
+		"memories"
+	]
+}

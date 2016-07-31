@@ -1,0 +1,43 @@
+{
+	"answerText": "selection rules [or transition rules; do not prompt on partial answers][10] Selection rules have been derived for electronic, rotational and this type of transition. In a certain spectroscopy, molecules that undergo this type of transition are only observable if the dipole changes.",
+	"prompts": [
+		"partial",
+		"10",
+		"Selection",
+		"rules",
+		"have",
+		"been",
+		"derived",
+		"for",
+		"electronic",
+		"rotational",
+		"and",
+		"this",
+		"type",
+		"transition",
+		"In",
+		"certain",
+		"spectroscopy",
+		"molecules",
+		"that",
+		"undergo",
+		"this",
+		"type",
+		"transition",
+		"are",
+		"only",
+		"observable",
+		"if",
+		"dipole",
+		"changes"
+	],
+	"heading": "Michigan Fall Tournament |2013 | Editors Round 7 | 3 | Science | Chemistry | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: One of these constructs named for Laporte states that electronic transformations that conserve parity are forbidden. For 10 points each: [10] Identify these constructs that constrain the possible changes in energy state a given molecule can undergo.",
+	"answers": [
+		"selection",
+		"rules",
+		"transition"
+	]
+}

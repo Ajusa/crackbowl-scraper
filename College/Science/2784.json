@@ -1,0 +1,29 @@
+{
+	"answerText": "register[10] These low-level programming languages require the programmer to manually perform register allocation. Each statement in these languages corresponds to a single instruction.",
+	"prompts": [],
+	"heading": "Penn-ance |2012 | 3 | 9 | Science | Computer Science | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: During program compilation, it is necessary to ensure that the allocation of variables to these units is done in an efficient manner. For 10 points each: [10] Name these small, quickly-accessible units of memory found within a processor. They are often classified by how many bits of information they can hold.",
+	"answers": [
+		"register",
+		"10",
+		"These",
+		"low-level",
+		"programming",
+		"languages",
+		"require",
+		"programmer",
+		"to",
+		"manually",
+		"perform",
+		"allocation",
+		"Each",
+		"statement",
+		"in",
+		"these",
+		"corresponds",
+		"single",
+		"instruction"
+	]
+}

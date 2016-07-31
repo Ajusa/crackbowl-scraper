@@ -1,0 +1,38 @@
+{
+	"answerText": "the velocity of money [or the velocity of circulation; prompt on velocity][10] This economist critiqued Fisher, arguing that the velocity of money varied with the interest rate, with the theory of \"liquidity preference\" found in his General Theory.",
+	"prompts": [
+		"velocity",
+		"10",
+		"This",
+		"economist",
+		"critiqued",
+		"Fisher",
+		"arguing",
+		"that",
+		"velocity",
+		"money",
+		"varied",
+		"with",
+		"interest",
+		"rate",
+		"with",
+		"theory",
+		"liquidity",
+		"preference",
+		"found",
+		"in",
+		"his",
+		"General",
+		"Theory"
+	],
+	"heading": "NASAT |2013 | 11 | 17 | Social Science | None | College",
+	"subject": "Social Science",
+	"level": "College",
+	"question": "Question: This quantity, multiplied by the money supply, is equal to the price level multiplied by aggregate output. For 10 points each: [10] Name this quantity that Irving Fisher claimed was constant in the short-run. It represents the number of times a dollar might change hands in the economy.",
+	"answers": [
+		"the",
+		"velocity",
+		"money",
+		"circulation"
+	]
+}

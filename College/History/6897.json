@@ -1,0 +1,20 @@
+{
+	"answerText": "field extension [or extension field][10] A polynomial has this property if it does not have repeated roots over its splitting field.",
+	"prompts": [],
+	"heading": "ACF Regionals  |2012 | Harvard  | 2 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: Answer the following related to fields, for ten points each: [10] For a field F, a field K is considered one of these for F if it contains F.",
+	"answers": [
+		"field",
+		"extension",
+		"10",
+		"A",
+		"polynomial",
+		"has",
+		"this",
+		"property",
+		"if",
+		"does"
+	]
+}

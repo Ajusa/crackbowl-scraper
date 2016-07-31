@@ -1,0 +1,16 @@
+{
+	"answerText": "special theory of relativity [prompt on \"theory of relativity\"; prompt on \"SR\" or \"STR\"; do not prompt on or accept \"general theory of relativity\"][10] Special relativity predicts this phenomenon, in which clocks moving relative to an observer appear to that observer to run more slowly compared to clocks at rest.",
+	"prompts": [
+		"theory",
+		"relativity"
+	],
+	"heading": "BELLOCO |2014 | 4 | 12 | Science | None | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: The equation \"E equals m-c-squared\" is a consequence of this theory. [10] Name this theory, formulated by Albert Einstein and contrasted with a general form. It postulates that laws of physics hold for all inertial reference frames and that light propagates through a vacuum at a definite speed.",
+	"answers": [
+		"special",
+		"theory",
+		"relativity"
+	]
+}

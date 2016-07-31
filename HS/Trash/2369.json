@@ -1,0 +1,24 @@
+{
+	"answerText": "Laplace transform[10] The Laplace transform applied to this function, when it hasn't been shifted, is equal to one.",
+	"prompts": [],
+	"heading": "NASAT |2013 | 12 | 19 | Science | Math | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: When given an input of e to the a t, this operation yields one over s minus a. For 10 points each: [10] Name this transformation that converts functions from the time domain to s-domain. It involves integrating the product of a function times e to the negative s times t, from zero to infinity.",
+	"answers": [
+		"Laplace",
+		"transform",
+		"10",
+		"The",
+		"applied",
+		"to",
+		"this",
+		"function",
+		"when",
+		"hasn't",
+		"been",
+		"shifted",
+		"equal",
+		"one"
+	]
+}

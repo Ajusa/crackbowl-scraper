@@ -1,0 +1,34 @@
+{
+	"answerText": "transition metals [accept transition elements; prompt on \"metals\"] [10] This transition metal is one of the coinage metals. It often forms blue compounds, and is alloyed with zinc to make brass.",
+	"prompts": [
+		"metals",
+		"10",
+		"This",
+		"transition",
+		"metal",
+		"one",
+		"coinage",
+		"metals",
+		"It",
+		"often",
+		"forms",
+		"blue",
+		"compounds",
+		"and",
+		"alloyed",
+		"with",
+		"zinc",
+		"to",
+		"make",
+		"brass"
+	],
+	"heading": "James |2013 | 2 | 7 | Science | Chemistry | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: These elements often give gemstones their bright colors. For 10 points: [10] Identify this group of elements that forms the d-block of the periodic table, members of which include cobalt and chromium.",
+	"answers": [
+		"transition",
+		"metals",
+		"elements"
+	]
+}

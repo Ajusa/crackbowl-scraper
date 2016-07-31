@@ -1,0 +1,30 @@
+{
+	"answerText": "adenosine [or ADO][10] This alkaloid drug antagonizes adenosine receptors by mimicking the nucleoside's purine structure, much like the similar xanthine derivatives theophylline and theobromine.",
+	"prompts": [],
+	"heading": "PADAWAN |2014 | 6 | 14 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question: The anti-hairy cell leukemia drug cladribine mimics this compound and inhibits its namesake deaminase enzyme. [10] Name this vasodilator that is used to treat some tachycardias and is a nucleoside whose \"triphosphate\" derivative is the unit of energy for metabolic processes.",
+	"answers": [
+		"adenosine",
+		"ADO",
+		"10",
+		"This",
+		"alkaloid",
+		"drug",
+		"antagonizes",
+		"receptors",
+		"by",
+		"mimicking",
+		"nucleoside's",
+		"purine",
+		"structure",
+		"much",
+		"similar",
+		"xanthine",
+		"derivatives",
+		"theophylline",
+		"and",
+		"theobromine"
+	]
+}

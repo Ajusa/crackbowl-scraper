@@ -1,0 +1,43 @@
+{
+	"answerText": "cloistered rule [or insei; prompt on translations like \"monastery administration\"][10] The Heian period is probably most famous for being a period of Chinese-inspired cultural flowering. During it, Murasaki Shikibu wrote this novel about a philandering prince who marries the Lady Aoi.",
+	"prompts": [
+		"translations",
+		"monastery",
+		"administration",
+		"10",
+		"The",
+		"Heian",
+		"period",
+		"probably",
+		"most",
+		"famous",
+		"for",
+		"being",
+		"period",
+		"Chinese-inspired",
+		"cultural",
+		"flowering",
+		"During",
+		"Murasaki",
+		"Shikibu",
+		"wrote",
+		"this",
+		"novel",
+		"about",
+		"philandering",
+		"prince",
+		"who",
+		"marries",
+		"Lady",
+		"Aoi"
+	],
+	"heading": "Penn Bowl |2014 | 14 | 1 | History | World | College",
+	"subject": "History",
+	"level": "College",
+	"question": "Question: This system was instituted in the Heian period by the Emperor Shirakawa, and was followed until the advent of the Kamakura Shogunate. For 10 points each: [10] Give the term for this system of government in which emperors retired to Buddhist monasteries, but still retained enough power and influence to counterbalance Fujiwara regents and the nobility.",
+	"answers": [
+		"cloistered",
+		"rule",
+		"insei"
+	]
+}

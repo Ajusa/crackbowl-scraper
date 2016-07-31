@@ -1,0 +1,28 @@
+{
+	"answerText": "copper (prompt on \"Cu\")[10] Copper exhibits this form of magnetism that weakens fields and is contrasted with paramagnetism and ferromagnetism.",
+	"prompts": [
+		"Cu",
+		"10",
+		"Copper",
+		"exhibits",
+		"this",
+		"form",
+		"magnetism",
+		"that",
+		"weakens",
+		"fields",
+		"and",
+		"contrasted",
+		"with",
+		"paramagnetism",
+		"and",
+		"ferromagnetism"
+	],
+	"heading": "Masonic |2014 | 2 | 12 | Science | Chemistry | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question:  [10] Name this element that combines with tin to create bronze.",
+	"answers": [
+		"copper"
+	]
+}

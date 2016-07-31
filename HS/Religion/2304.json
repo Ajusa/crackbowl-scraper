@@ -1,0 +1,32 @@
+{
+	"answerText": "Entropy[10] Entropy is equal to the natural log of the number of microstates multiplied by this constant. This constant's namesake also names a distribution of particle speeds with Maxwell.",
+	"prompts": [],
+	"heading": "GSAC |2013 | 5 | 20 | Science | Physics | HS",
+	"subject": "Science",
+	"level": "HS",
+	"question": "Question: The Second Law of Thermodynamics states that this quantity never decreases in a closed system. For 10 points each: [10] Name this quantity symbolized \"S,\" a measure of disorder in a system.",
+	"answers": [
+		"Entropy",
+		"10",
+		"equal",
+		"to",
+		"natural",
+		"log",
+		"number",
+		"microstates",
+		"multiplied",
+		"by",
+		"this",
+		"constant",
+		"This",
+		"constant's",
+		"namesake",
+		"also",
+		"names",
+		"distribution",
+		"particle",
+		"speeds",
+		"with",
+		"Maxwell"
+	]
+}

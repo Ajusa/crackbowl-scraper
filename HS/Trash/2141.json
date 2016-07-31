@@ -1,0 +1,33 @@
+{
+	"answerText": "entropy[10] Von Neumann entropy is defined as negative the trace of this operator times the natural log of this operator. This operator is used to describe states in a mixture of pure state kets.",
+	"prompts": [],
+	"heading": "SUBMIT |2014 | Harvard A, UVA B | 2 | Science | Physics | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name this quantity which is, for black holes, is proportional to the area of the event horizon. The fluctuation theorem governs its probability of increasing or decreasing at non-equilibrium.",
+	"answers": [
+		"entropy",
+		"10",
+		"Von",
+		"Neumann",
+		"defined",
+		"as",
+		"negative",
+		"trace",
+		"this",
+		"operator",
+		"times",
+		"natural",
+		"log",
+		"This",
+		"used",
+		"to",
+		"describe",
+		"states",
+		"in",
+		"mixture",
+		"pure",
+		"state",
+		"kets"
+	]
+}

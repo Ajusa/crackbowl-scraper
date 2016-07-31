@@ -1,0 +1,33 @@
+{
+	"answerText": "corpus luteum[10] In mammals, two secondary oocytes form one of these and three polar bodies. These are fertilized inside the body in viviparous animals.",
+	"prompts": [],
+	"heading": "SUBMIT |2014 | Harvard A, UVA B | 12 | Science | Biology | College",
+	"subject": "Science",
+	"level": "College",
+	"question": "Question:  [10] Name this structure which develops from the ovarian follicle after secondary oocyte release.",
+	"answers": [
+		"corpus",
+		"luteum",
+		"10",
+		"In",
+		"mammals",
+		"two",
+		"secondary",
+		"oocytes",
+		"form",
+		"one",
+		"these",
+		"and",
+		"three",
+		"polar",
+		"bodies",
+		"These",
+		"are",
+		"fertilized",
+		"inside",
+		"body",
+		"in",
+		"viviparous",
+		"animals"
+	]
+}
