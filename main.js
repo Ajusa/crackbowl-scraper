@@ -10,7 +10,8 @@ var levels = ["College", "HS", "MS"]
 var heading;
 for (var i = levels.length - 1; i >= 0; i--) {
     for (var j = subjects.length - 1; j >= 0; j--) {
-        makeJson(buildUrl(subjects[j], levels[i]), levels[i] + "/" + subjects[j], subjects[j], levels[i])
+        obj = [];
+        makeJson(buildUrl(subjects[j], levels[i]), levels[i] + "/", subjects[j], levels[i])
     }
 
 }
@@ -80,11 +81,6 @@ function makeJson(url, file, subject, level) {
                 obj.push(finalObj)
             }
         });
-        for (var i = obj.length - 1; i >= 0; i--) {
-            fs.writeFile(file + "/" + i + ".json", JSON.stringify(obj[i], null, "\t"), function(err) {});
-        }
-        fs.writeFile(file + "/" + "info.json", JSON.stringify({
-            number: obj.length,
-        }, null, "\t"), function(err) {});
+        fs.writeFile(file + subject + ".json", JSON.stringify(obj, null, "\t"), function(err) {});
     })
 }
